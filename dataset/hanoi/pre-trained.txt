@@ -1,0 +1,865 @@
+Em	N	B-NP	O
+cần	V	B-VP	O
+tìm	V	B-VP	O
+xe	N	B-NP	O
+ba gác	N	B-NP	O
+chở	V	B-VP	O
+và	C	O	O
+BÊ	N	B-NP	O
+ĐỒ	N	B-NP	O
+giúp	V	B-VP	O
+em	N	B-NP	O
+:	CH	O	O
+Điều hòa	N	B-NP	O
+,	CH	O	O
+tủ	N	B-NP	B-LOC
+vải	N	B-NP	I-LOC
+tháo rời	N	B-NP	I-LOC
+,	CH	O	I-LOC
+1	Np	B-NP	I-LOC
+giá sách	V	B-VP	O
+đến	E	B-PP	O
+55	Np	B-NP	B-LOC
+ngõ	N	B-NP	B-LOC
+241	Np	B-NP	I-LOC
+ngõ	N	B-NP	O
+chợ	N	B-NP	O
+khâm	N	B-NP	O
+thiên	V	B-VP	O
+.	CH	O	O
+
+89	Np	B-NP	B-PER
+khương	V	B-VP	O
+đình	N	B-NP	O
+đi	V	B-VP	O
+35	Np	B-NP	B-LOC
+nguyễn	V	B-VP	O
+khả	V	B-VP	O
+trạc	N	B-NP	O
+.	CH	O	O
+Ứng	Np	B-NP	B-PER
+1050k	Np	I-NP	I-PER
+.	CH	O	O
+Đi	V	B-VP	O
+2	M	B-NP	O
+chiều	N	B-NP	O
+s	N	B-NP	B-LOC
+50	Np	B-NP	I-LOC
+.	CH	O	O
+
+Chiều	N	B-NP	O
+đi	V	B-VP	O
+giao	V	B-VP	O
+trước	N	B-NP	B-LOC
+4h	Np	B-NP	I-LOC
+,	CH	O	O
+chiều	N	B-NP	O
+về	E	B-PP	O
+lúc nào	P	B-NP	O
+cũng	R	O	O
+được	R	O	O
+.	CH	O	O
+Bác	N	B-NP	O
+nào	P	B-NP	O
+giúp	V	B-VP	O
+e	V	B-VP	O
+với	E	B-PP	O
+0838261989	Np	B-NP	B-PER
+
+từ	E	B-PP	O
+ngõ	N	B-NP	B-LOC
+Quan	Np	B-NP	I-LOC
+Thổ	Np	B-NP	B-PER
+1	Np	B-NP	I-PER
+,	CH	O	O
+Tôn	Np	B-NP	B-PER
+Đức	Np	B-NP	I-PER
+Thắng	Np	B-NP	I-PER
+đi	V	B-VP	O
+Phú	Np	B-NP	B-PER
+Đô	Np	I-NP	I-PER
+,	CH	O	O
+ứng	V	B-VP	O
+390k	Np	B-NP	B-LOC
+,	CH	O	O
+ship	N	B-NP	B-LOC
+30k	Np	B-NP	I-LOC
+,	CH	O	O
+khách	N	B-NP	O
+nhận	V	B-VP	O
+trong	E	B-PP	O
+ngày	N	B-NP	O
+.	CH	O	O
+
+Hàng	N	B-NP	O
+nhỏ	A	B-AP	O
+gọn	A	B-AP	O
+lắm	R	O	O
+.	CH	O	O
+
+Ship	Np	B-NP	O
+Chùm	Np	B-NP	O
+30	M	B-NP	O
+đơn	N	B-NP	O
+,	CH	O	O
+từ	E	B-PP	O
+Nguyễn	Np	B-NP	B-LOC
+Trãi	Np	I-NP	I-LOC
+đi	V	B-VP	O
+loanh quanh	V	B-VP	O
+nội thành	N	B-NP	O
+.	CH	O	O
+25k	Np	B-NP	B-PER
+/	CH	O	O
+đơn	N	B-NP	O
+,	CH	O	O
+giao	V	B-VP	O
+hết	V	B-VP	O
+trong	E	B-PP	O
+chiều nay	N	B-NP	O
+.	CH	O	O
+
+Số	N	B-NP	B-LOC
+2	M	B-NP	I-LOC
+ngõ	N	B-NP	B-LOC
+29	Np	B-NP	I-LOC
+phố	N	B-NP	O
+dịch	N	B-NP	O
+vọng	V	B-VP	O
+
+đi	V	B-VP	O
+khu	N	B-NP	O
+đô thị	N	B-NP	B-LOC
+văn phú	N	B-NP	I-LOC
+Hà	Np	B-NP	I-LOC
+Đông	Np	B-NP	I-LOC
+
+Qua	E	B-PP	O
+minh	N	B-NP	O
+khai	V	B-VP	O
+lây	V	B-VP	O
+đồ	N	B-NP	O
+về	V	B-VP	O
+xuân la	M	B-NP	O
+
+247	Np	B-NP	B-PER
+phan	V	B-VP	O
+bá	N	B-NP	O
+vành	V	B-VP	O
+đi	V	B-VP	O
+trung yên	V	B-VP	O
+và	C	O	O
+an	V	B-VP	O
+trach	V	B-VP	O
+.	CH	O	O
+hàng	N	B-NP	O
+nhe	V	B-VP	O
+treo	V	B-VP	O
+xe	N	B-NP	O
+.	CH	O	O
+
+Em	N	B-NP	O
+ở	E	B-PP	O
+45	Np	B-NP	B-LOC
+Nguyễn	Np	I-NP	B-LOC
+Sơn	Np	I-NP	I-LOC
+có	V	B-VP	O
+đơn hàng	V	B-VP	O
+sang	V	B-VP	O
+Nhà	Np	B-NP	B-LOC
+N3	Np	I-NP	B-LOC
+Chung cư	N	B-NP	B-LOC
+Đồng	Np	B-NP	I-LOC
+Tầu	Np	B-NP	B-LOC
+-	CH	O	O
+Phố	N	B-NP	B-LOC
+Thịnh Liệt	Np	I-NP	I-LOC
+(	CH	O	O
+1141	Np	B-NP	B-MISC
+Giải Phóng	Np	I-NP	I-MISC
+)	CH	O	O
+gần	A	B-AP	O
+bến	N	B-NP	O
+xe	N	B-NP	O
+nước ngầm	N	B-NP	O
+.	CH	O	O
+
+Bác	N	B-NP	O
+nào	P	B-NP	O
+ship	V	B-VP	O
+được	V	B-VP	O
+cho	V	B-VP	O
+em	N	B-NP	O
+xin	V	B-VP	O
+giá	N	B-NP	B-LOC
+ah	M	B-NP	I-LOC
+
+Cần	V	B-VP	O
+cho thuê	N	B-NP	B-LOC
+2	M	B-NP	I-LOC
+phòng	N	B-NP	O
+cho	E	B-PP	O
+sinh viên	N	B-NP	O
+ở	E	B-PP	O
+giá	N	B-NP	B-LOC
+1triệu	Np	B-NP	I-LOC
+.	CH	O	O
+Đến	Np	B-NP	B-PER
+1tr5	Np	B-NP	I-PER
+đây	P	B-NP	O
+.	CH	O	O
+Đường	N	B-NP	O
+nguyễn	V	B-VP	O
+trãi	N	B-NP	O
+.	CH	O	O
+Phố	N	B-NP	O
+cự	N	B-NP	O
+lộc	V	B-VP	O
+thanh	N	B-NP	O
+xuân	N	B-NP	O
+hà nội	N	B-NP	O
+.	CH	O	O
+
+30p	Np	B-NP	B-PER
+nữa	R	O	O
+e	V	B-VP	O
+có	V	B-VP	O
+tiện	N	B-NP	O
+đường đi	V	B-VP	O
+từ	E	B-PP	O
+đại học	N	B-NP	O
+công nghiệp	N	B-NP	O
+sang	V	B-VP	O
+vĩnh tuy	V	B-VP	O
+rồi	C	O	O
+từ	E	B-PP	O
+vĩnh tuy	N	B-NP	O
+đi	V	B-VP	O
+phạm	V	B-VP	O
+văn	N	B-NP	O
+đồng	N	B-NP	O
+rồi	C	O	O
+về	E	B-PP	O
+công nghiệp	N	B-NP	O
+có	V	B-VP	O
+ace	N	B-NP	O
+nào	P	B-NP	O
+có	V	B-VP	O
+hàng	N	B-NP	O
+gì	P	B-NP	O
+gửi	V	B-VP	O
+k	N	B-NP	O
+e	V	B-VP	O
+tiện	A	B-AP	O
+đường	N	B-NP	O
+e	V	B-VP	O
+chạy	V	B-VP	O
+cho	E	B-PP	O
+ạ	I	O	O
+.	CH	O	O
+.	CH	O	O
+
+Đảm bảo	V	B-VP	O
+lấy	V	B-VP	O
+rẻ	A	B-AP	O
+kiếm	V	B-VP	O
+tí	N	B-NP	O
+tiền	N	B-NP	O
+xăng	N	B-NP	O
+thôi	T	O	O
+:	CH	O	O
+)	CH	O	O
+)	CH	O	O
+)	CH	O	O
+ai	P	B-NP	O
+cần	V	B-VP	O
+ib	V	B-VP	O
+e	V	B-VP	O
+ak	M	B-NP	O
+
+Cần	V	B-VP	O
+bank	V	B-VP	O
+vào	E	B-PP	O
+tk	N	B-NP	B-LOC
+sacombank	N	B-NP	I-LOC
+300k	Np	B-NP	I-LOC
+.	CH	O	O
+phí	N	B-NP	B-LOC
+30k	Np	B-NP	I-LOC
+.	CH	O	O
+ở	E	B-PP	O
+ngách	N	B-NP	B-LOC
+128	Np	B-NP	I-LOC
+ngõ	N	B-NP	O
+gốc	N	B-NP	O
+đề	N	B-NP	O
+hoàng	V	B-VP	O
+văn	N	B-NP	O
+thụ	N	B-NP	O
+hoàng mai	V	B-VP	O
+hà nội	N	B-NP	O
+
+Số	N	B-NP	O
+25	M	B-NP	O
+ngõ	N	B-NP	B-LOC
+175	Np	B-NP	I-LOC
+Tam	Np	B-NP	B-PER
+Trinh	Np	B-NP	I-PER
+đi	V	B-VP	O
+
+-	CH	O	O
+phố	N	B-NP	O
+Dịch	Np	B-NP	B-PER
+Vọng	Np	B-NP	I-PER
+
+-	CH	O	O
+Nguyễn	Np	B-NP	B-PER
+Khánh	Np	B-NP	B-PER
+Toàn	Np	B-NP	I-PER
+
+105a1	Np	B-NP	O
+Phạm	Np	B-NP	B-PER
+Ngọc Thạch	Np	B-NP	I-PER
+đi	V	B-VP	O
+trường	N	B-NP	B-LOC
+đại học	N	B-NP	I-LOC
+Thăng Long	Ny	B-NP	I-LOC
+ứng	V	B-VP	O
+560k	Np	B-NP	B-LOC
+ship	N	B-NP	B-LOC
+30k	Np	B-NP	I-LOC
+
+Tòa	Np	B-NP	O
+19t3	Np	B-NP	B-PER
+kdt	V	B-VP	O
+mậu	N	B-NP	O
+lương	N	B-NP	O
+,	CH	O	O
+kiến	N	B-NP	O
+hưng	V	B-VP	O
+,	CH	O	O
+hà	N	B-NP	O
+đông	A	B-AP	O
+đj	N	B-NP	O
+ngõ	N	B-NP	B-LOC
+245	Np	B-NP	I-LOC
+mai	N	B-NP	O
+dịch	V	B-VP	O
+cầu giấy	N	B-NP	O
+
+80	Np	B-NP	B-PER
+Ngô	Np	B-NP	I-PER
+thì	C	O	O
+nhậm	V	B-VP	O
+ship	V	B-VP	O
+cơm	N	B-NP	O
+đến	E	B-PP	O
+80	Np	B-NP	B-LOC
+ngõ	N	B-NP	B-LOC
+198	Np	B-NP	I-LOC
+Ngọc	Np	B-NP	I-LOC
+lâm	V	B-VP	O
+ứng	N	B-NP	B-LOC
+210k	Np	B-NP	I-LOC
+
+Ct1b	N	B-NP	O
+thành phố	N	B-NP	O
+giao lưu	V	B-VP	O
+đi	V	B-VP	O
+số	N	B-NP	O
+trần	N	B-NP	O
+hữu	V	B-VP	O
+dự	V	B-VP	O
+u400	N	B-NP	B-LOC
+ship	N	B-NP	I-LOC
+30	M	B-NP	I-LOC
+
+Ngõ	N	B-NP	B-LOC
+2	M	B-NP	I-LOC
+tô hiệu	N	B-NP	O
+hà	N	B-NP	O
+đông	A	B-AP	O
+
+Cần	V	B-VP	O
+ship	N	B-NP	B-LOC
+3	M	B-NP	I-LOC
+đơn hàng	N	B-NP	O
+treo	V	B-VP	O
+xe	N	B-NP	O
+.	CH	O	O
+Ct8c	Np	B-NP	B-PER
+khu	N	B-NP	O
+đô thị	N	B-NP	O
+dương	N	B-NP	O
+nội	N	B-NP	O
+hà	N	B-NP	O
+đông	A	B-AP	O
+đi	V	B-VP	O
+
+Em	N	B-NP	O
+ở	E	B-PP	O
+45	Np	B-NP	B-LOC
+Nguyễn	Np	I-NP	B-LOC
+Sơn	Np	I-NP	I-LOC
+có	V	B-VP	O
+10kg	Np	B-NP	O
+cam	N	B-NP	O
+ship	V	B-VP	O
+đến	E	B-PP	O
+Số	N	B-NP	B-LOC
+nhà	N	B-NP	I-LOC
+54	Np	B-NP	I-LOC
+ngách	N	B-NP	B-LOC
+145	Np	B-NP	I-LOC
+văn chương	V	B-VP	O
+đống	Nc	B-NP	O
+đa	N	B-NP	O
+,	CH	O	O
+các	L	B-NP	O
+bác	Nc	B-NP	O
+ship	V	B-VP	O
+cho	E	B-PP	O
+em	N	B-NP	O
+xin	V	B-VP	O
+giá	N	B-NP	O
+nhé	T	O	O
+
+Ship	N	B-NP	O
+từ	E	B-PP	O
+chợ	N	B-NP	O
+mậu	N	B-NP	O
+lương	N	B-NP	O
+đi	V	B-VP	O
+số	N	B-NP	B-LOC
+6	M	B-NP	I-LOC
+Tôn Thất	Np	B-NP	B-LOC
+Tùng	Np	B-NP	B-PER
+
+Hôm nay	N	B-NP	O
+thứ	N	B-NP	B-LOC
+4	M	B-NP	I-LOC
+ngày	N	B-NP	B-LOC
+4/3	M	B-NP	I-LOC
+cần	V	B-VP	O
+nam	N	B-NP	B-LOC
+tuổi	N	B-NP	I-LOC
+20	M	B-NP	I-LOC
+đến	E	B-PP	O
+39	Np	B-NP	B-LOC
+có	V	B-VP	O
+cmt	N	B-NP	O
+qua	V	B-VP	O
+348	Np	B-NP	B-LOC
+kim	N	B-NP	O
+ngưu	V	B-VP	O
+về	E	B-PP	O
+nước	N	B-NP	O
+tăng lực	N	B-NP	O
+nhận	V	B-VP	O
+quà	N	B-NP	B-LOC
+80k	Np	B-NP	I-LOC
+tiền mặt	N	B-NP	O
+gọi	V	B-VP	O
+hoa	N	B-NP	B-LOC
+0973493610	Np	B-NP	I-LOC
+
+Em	N	B-NP	O
+có	V	B-VP	O
+tầm	N	B-NP	B-LOC
+14	Np	B-NP	I-LOC
+đơn	N	B-NP	O
+ship	V	B-VP	O
+nội thành	V	B-VP	O
+hà nội	N	B-NP	O
+.	CH	O	O
+
+Ship	Np	B-NP	O
+30k	Np	B-NP	O
+/	CH	O	O
+đơn	N	B-NP	O
+em	N	B-NP	O
+ở	E	B-PP	O
+lĩnh	N	B-NP	O
+nam	N	B-NP	O
+ạ	I	O	O
+.	CH	O	O
+hàng	N	B-NP	O
+hoa quả	V	B-VP	O
+nên	C	O	O
+bác	N	B-NP	O
+nào	P	B-NP	O
+có	V	B-VP	O
+thùng	N	B-NP	O
+càng	R	O	O
+ok	A	B-AP	O
+nha	I	O	O
+(	CH	O	O
+không	R	O	O
+có	V	B-VP	O
+qua	V	B-VP	O
+em	N	B-NP	O
+lấy	V	B-VP	O
+)	CH	O	O
+
+Số	N	B-NP	O
+55	Np	B-NP	B-PER
+Trần	Np	B-NP	I-PER
+Hòa	Np	B-NP	I-PER
+,	CH	O	O
+Định Công	Np	B-NP	I-LOC
+sang	V	B-VP	O
+Ngõ	Np	B-NP	B-LOC
+15	Np	I-NP	B-LOC
+Duy Tân	Np	I-NP	I-LOC
+,	CH	O	O
+Cầu Giấy	Np	B-NP	B-LOC
+chỗ	N	B-NP	O
+Tổng cục	V	B-VP	O
+dg	V	B-VP	O
+bộ	N	B-NP	B-LOC
+VN.	N	B-NP	I-LOC
+Ship	Np	B-NP	I-LOC
+2	M	B-NP	I-LOC
+chiều	N	B-NP	O
+,	CH	O	O
+50k	Np	B-NP	B-PER
+.	CH	O	O
+Lúc	N	B-NP	B-LOC
+2h	Np	B-NP	I-LOC
+chiều	N	B-NP	O
+.	CH	O	O
+Lh	Np	B-NP	B-PER
+03678	Np	B-NP	I-PER
+33	Np	B-NP	I-PER
+233	Np	B-NP	I-PER
+
+cần	V	B-VP	O
+mua	V	B-VP	O
+30k	Np	B-NP	B-PER
+quẩy	V	B-VP	O
+ở	E	B-PP	O
+157	Np	B-NP	B-LOC
+đội	N	B-NP	O
+cấn	N	B-NP	O
+mang	V	B-VP	O
+về	E	B-PP	O
+458	Np	B-NP	B-LOC
+đội	N	B-NP	O
+cấn	N	B-NP	O
+ship	V	B-VP	O
+25k	Np	B-NP	B-PER
+0389359205	Np	I-NP	I-PER
+
+Đầu	N	B-NP	O
+ngõ	N	B-NP	O
+133	Np	B-NP	B-LOC
+xuân	N	B-NP	O
+thủy	V	B-VP	O
+đi	V	B-VP	O
+411	Np	B-NP	B-LOC
+bạch mai	M	B-NP	O
+
+Ứng	Np	B-NP	B-PER
+580	Np	B-NP	I-PER
+ship	N	B-NP	B-LOC
+50	Np	B-NP	I-LOC
+từ	E	B-PP	O
+315	Np	B-NP	B-LOC
+k2	V	B-VP	O
+sau	N	B-NP	O
+svd	N	B-NP	O
+mỹ	V	B-VP	O
+đình	N	B-NP	O
+đi	V	B-VP	O
+Phúc	Np	B-NP	B-PER
+Xá	Np	I-NP	I-PER
+cho	E	B-PP	O
+long	N	B-NP	O
+bien	M	B-NP	O
+
+Ship	N	B-NP	O
+từ	E	B-PP	O
+chợ	N	B-NP	O
+mậu	N	B-NP	O
+lương	N	B-NP	O
+đi	V	B-VP	O
+số	N	B-NP	B-LOC
+6	M	B-NP	I-LOC
+Tôn Thất	Np	B-NP	B-LOC
+Tùng	Np	B-NP	B-PER
+
+Tôi	P	B-NP	O
+cần	V	B-VP	O
+chuyển	V	B-VP	O
+2	M	B-NP	O
+mẫu	Nu	B-NP	O
+vải	N	B-NP	O
+từ	E	B-PP	O
+chung cư	N	B-NP	O
+xuân	N	B-NP	O
+ai	P	B-NP	O
+complex	V	B-VP	O
+khu	N	B-NP	O
+đô thị	N	B-NP	O
+mới	A	B-AP	O
+dương	V	B-VP	O
+nội	N	B-NP	O
+hà	N	B-NP	O
+đông	A	B-AP	O
+.	CH	O	O
+
+tới	E	B-PP	O
+59	Np	B-NP	B-PER
+qQuang	V	B-VP	O
+trung	A	B-AP	O
+.	CH	O	O
+phường	N	B-NP	B-LOC
+Nguyễn	Np	B-NP	I-LOC
+Du	Np	I-NP	I-LOC
+.	CH	O	O
+quận hai	V	B-VP	O
+bà	Nc	B-NP	O
+trưng	V	B-VP	O
+liên hệ	V	B-VP	O
+0946423979	Np	B-NP	B-PER
+
+Có	V	B-VP	O
+2	M	B-NP	O
+Đơn từ	N	B-NP	O
+Eco	Np	B-NP	B-PER
+Green	Np	B-NP	I-PER
+286	Np	B-NP	I-PER
+Nguyễn	Np	B-NP	I-PER
+Xiển	Np	I-NP	I-PER
+,	CH	O	O
+ship	N	B-NP	O
+đi	V	B-VP	O
+HUỲNH	V	B-VP	O
+THÚC KHÁNG	N	B-NP	O
+và	C	O	O
+ĐIỆN	N	B-NP	O
+BIÊN	V	B-VP	O
+PHỦ	V	B-VP	O
+,	CH	O	O
+Ba Đình	Np	B-NP	B-PER
+.	CH	O	O
+Tổng	Np	B-NP	B-PER
+ứng	V	B-VP	O
+:	CH	O	O
+1.120	V	B-VP	O
+k	N	B-NP	O
+.	CH	O	O
+Ship	Np	B-NP	B-LOC
+:	CH	O	B-LOC
+60k	Np	B-NP	I-LOC
+.	CH	O	O
+Ai	P	B-NP	O
+nhận	V	B-VP	O
+LH	V	B-VP	O
+:	CH	O	O
+0971.602.786	M	B-NP	O
+
+54	Np	B-NP	B-PER
+tràng thi	V	B-VP	O
+đi	V	B-VP	O
+12	Np	B-NP	B-LOC
+hoàng	V	B-VP	O
+cầu	N	B-NP	O
+ứng	V	B-VP	O
+650k	Np	B-NP	B-LOC
+ship	N	B-NP	B-LOC
+30k	Np	B-NP	I-LOC
+0981828294	Np	B-NP	I-LOC
+
+Đơn	N	B-NP	O
+ghép	V	B-VP	O
+,	CH	O	O
+số	N	B-NP	B-LOC
+6	M	B-NP	I-LOC
+ngõ	N	B-NP	O
+đê quai	N	B-NP	O
+ứng	V	B-VP	O
+ship	N	B-NP	B-LOC
+50k	Np	B-NP	I-LOC
+về	E	B-PP	O
+triều	N	B-NP	O
+khúc	N	B-NP	O
+.	CH	O	O
+0943569491	Np	B-NP	B-PER
+
+ship	V	B-VP	O
+từ	E	B-PP	O
+số	N	B-NP	B-LOC
+27/75	N	B-NP	I-LOC
+Trần Thái Tông	Np	B-NP	I-LOC
+đến	E	B-PP	O
+UBND	Ny	B-NP	O
+quận	Np	B-NP	O
+Nam	Np	B-NP	B-PER
+Từ Liêm	Np	B-NP	O
+125	Np	B-NP	O
+Hồ	Np	B-NP	O
+Tùng	Np	B-NP	B-PER
+Mậu	Np	B-NP	I-PER
+.	CH	O	O
+Ship	Np	B-NP	B-PER
+20k	Np	B-NP	I-PER
+ứng	V	B-VP	O
+130k	Np	B-NP	B-LOC
+.	CH	O	O
+Liên hệ	V	B-VP	O
+:	CH	O	O
+0375899698	Np	B-NP	B-PER
+
+Nhận	V	B-VP	O
+371b	Np	B-NP	B-PER
+thanh bình	A	B-AP	O
+nhà	N	B-NP	O
+đồ	N	B-NP	O
+gỗ	N	B-NP	O
+Mỹ nghệ	V	B-VP	O
+minh	N	B-NP	O
+trí	V	B-VP	O
+đi	V	B-VP	O
+Địa chỉ	N	B-NP	O
+ship	V	B-VP	O
+:	CH	O	O
+19	M	B-NP	O
+ngõ	N	B-NP	B-LOC
+21	Np	B-NP	I-LOC
+tây	N	B-NP	O
+kết	V	B-VP	O
+,	CH	O	O
+bạch đằng	N	B-NP	O
+,	CH	O	O
+hai	M	B-NP	O
+bà	N	B-NP	O
+trưng	V	B-VP	O
+
+Nhận	V	B-VP	O
+từ	E	B-PP	O
+1/48/1	N	B-NP	B-LOC
+Phạm	Np	B-NP	I-LOC
+Tuấn	Np	B-NP	B-PER
+Tài	Np	B-NP	I-PER
+đi đường	N	B-NP	B-LOC
+Bạch Đằng	Np	B-NP	I-LOC
+-	CH	O	O
+Thanh Lương	Ny	B-NP	O
+-	CH	O	O
+Hoàn	Np	B-NP	B-PER
+Kiếm	Np	B-NP	I-PER
+
+Toà	N	B-NP	O
+ct3	V	B-VP	O
+ngõ	N	B-NP	B-LOC
+34	Np	B-NP	I-LOC
+hoàng	V	B-VP	O
+cầu	N	B-NP	O
+đi	V	B-VP	O
+hoàng	V	B-VP	O
+quốc việt	N	B-NP	O
+và	C	O	O
+phạm	V	B-VP	O
+văn	N	B-NP	O
+đồng	N	B-NP	O
+ứng	V	B-VP	O
+645	Np	B-NP	B-LOC
+ship	N	B-NP	B-LOC
+55	Np	B-NP	I-LOC
+
+31	Np	B-NP	B-PER
+yên hoà	V	B-VP	O
+đi	V	B-VP	O
+Ngõ	Np	B-NP	B-LOC
+444	Np	I-NP	B-LOC
+ngách	V	B-VP	O
+34/5	N	B-NP	O
+hẻm	N	B-NP	B-LOC
+21	M	B-NP	I-LOC
+số	N	B-NP	B-LOC
+nhà	N	B-NP	I-LOC
+21	Np	B-NP	I-LOC
+đội	N	B-NP	B-LOC
+cấn	N	B-NP	I-LOC
+cống vị	M	B-NP	I-LOC
+
+Bác	N	B-NP	O
+nào	P	B-NP	O
+đi qua	N	B-NP	B-LOC
+123	Np	B-NP	I-LOC
+nguyễn	V	B-VP	O
+ngọc	V	B-VP	O
+vũ	N	B-NP	O
+ném	V	B-VP	O
+e	V	B-VP	O
+bao	N	B-NP	O
+thăng long	N	B-NP	O
+cứng	A	B-AP	O
+với	E	B-PP	O
+.	CH	O	O
+Cả	P	B-NP	O
+thuốc	N	B-NP	B-LOC
+55k	Np	B-NP	I-LOC
+,	CH	O	O
+em	N	B-NP	O
+còn	R	O	O
+mỗi	L	B-NP	O
+thế	P	B-NP	O
+.	CH	O	O
+Qua	V	B-VP	O
+hú	V	B-VP	O
+em	N	B-NP	O
+.	CH	O	O
+
+Từ	E	B-PP	O
+66	Np	B-NP	B-LOC
+Võng	Np	B-NP	B-PER
+Thị	Np	B-NP	I-PER
+đi	V	B-VP	O
+18	Np	B-NP	B-PER
+Trần	Np	B-NP	I-PER
+Bình	Np	B-NP	I-PER
+-	CH	O	O
+Mai	Np	B-NP	B-PER
+Dịch	Np	B-NP	I-PER
+-	CH	O	O
+Cầu Giấy	Ny	B-NP	O
+-	CH	O	O
+Hà Nội	Np	B-NP	B-LOC
+.	CH	O	O
+Ứng	Np	B-NP	B-PER
+544k	Np	I-NP	I-PER
+,	CH	O	O
+ship	N	B-NP	B-LOC
+40k	Np	B-NP	I-LOC
+.	CH	O	O
+cần	V	B-VP	O
+ngay	T	O	O
+ạ	I	O	O
+.	CH	O	O
+0838324999	Np	B-NP	B-PER
+
+cần	V	B-VP	O
+ship	V	B-VP	O
+đi	V	B-VP	O
+từ	E	B-PP	O
+170	Np	B-NP	B-LOC
+nguyễn	V	B-VP	O
+đổng	N	B-NP	O
+chi	P	B-NP	O
+đến	E	B-PP	O
+415	Np	B-NP	B-LOC
+nguyễn	V	B-VP	O
+xiển	N	B-NP	O
+.	CH	O	O
+ứng	V	B-VP	O
+350k	Np	B-NP	B-LOC
+.	CH	O	O
+ship	N	B-NP	B-LOC
+30k	Np	B-NP	I-LOC
+sđt	N	B-NP	B-LOC
+0346132821	Np	B-NP	I-LOC
+
+
+

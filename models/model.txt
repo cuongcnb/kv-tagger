@@ -1,0 +1,29 @@
+c1: 1.0,    // coefficient for L1 penalty
+c2: 1e-3,    // coefficient for L2 penalty
+max_iterations: 300,
+// include transitions that are possible, but not observed
+'feature.possible_transitions': 1
+
+***** Iteration #300 *****
+Loss: 3435.133175
+Feature norm: 58.574052
+Error norm: 23.709297
+Active features: 2516
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 0.815
+
+L-BFGS terminated with the maximum number of iterations
+Total seconds required for training: 255.730
+
+Storing the model
+Number of active features: 2516 (842362)
+Number of active attributes: 1859 (786408)
+Number of active labels: 9 (9)
+Writing labels
+Writing attributes
+Writing feature references for transitions
+Writing feature references for attributes
+Seconds required: 0.025
+
+Training done!, saved model to D:\node\github\vntk\tagger\model.bin

@@ -1,0 +1,862 @@
+Em	N	O
+cần	V	O
+tìm	V	O
+xe	N	O
+ba gác	N	O
+chở	V	O
+và	C	O
+BÊ	N	O
+ĐỒ	N	O
+giúp	V	O
+em	N	O
+:	CH	O
+Điều hòa	N	O
+,	CH	O
+tủ	N	O
+vải	N	O
+tháo rời	N	O
+,	CH	O
+1	Np	O
+giá sách	V	O
+đến	E	O
+55	Np	B-LOC
+ngõ	N	O
+241	Np	I-LOC
+ngõ	N	I-LOC
+chợ	N	O
+khâm	N	B-LOC
+thiên	V	I-LOC
+.	CH	O
+		
+89	Np	O
+khương	V	B-LOC
+đình	N	I-LOC
+đi	V	O
+35	Np	B-LOC
+nguyễn	V	I-LOC
+khả	V	I-LOC
+trạc	N	I-LOC
+.	CH	O
+Ứng	Np	O
+1050k	Np	O
+.	CH	O
+Đi	V	O
+2	M	O
+chiều	N	O
+s	N	O
+50	Np	O
+.	CH	O
+		
+Chiều	N	O
+đi	V	O
+giao	V	O
+trước	N	O
+4h	Np	O
+,	CH	O
+chiều	N	O
+về	E	O
+lúc nào	P	O
+cũng	R	O
+được	R	O
+.	CH	O
+Bác	N	O
+nào	P	O
+giúp	V	O
+e	V	O
+với	E	O
+838261989	Np	B-PER
+		
+từ	E	O
+ngõ	N	B-LOC
+Quan	Np	I-LOC
+Thổ	Np	I-LOC
+1	Np	I-LOC
+,	CH	O
+Tôn	Np	O-LOC
+Đức	Np	I-LOC
+Thắng	Np	I-LOC
+đi	V	O
+Phú	Np	B-LOC
+Đô	Np	I-LOC
+,	CH	O
+ứng	V	O
+390k	Np	O
+,	CH	O
+ship	N	O
+30k	Np	O
+,	CH	O
+khách	N	O
+nhận	V	O
+trong	E	O
+ngày	N	O
+.	CH	O
+		
+Hàng	N	O
+nhỏ	A	O
+gọn	A	O
+lắm	R	O
+.	CH	O
+		
+Ship	Np	O
+Chùm	Np	O
+30	M	O
+đơn	N	O
+,	CH	O
+từ	E	O
+Nguyễn	Np	B-LOC
+Trãi	Np	I-LOC
+đi	V	O
+loanh quanh	V	O
+nội thành	N	O
+.	CH	O
+25k	Np	O
+/	CH	O
+đơn	N	O
+,	CH	O
+giao	V	O
+hết	V	O
+trong	E	O
+chiều nay	N	O
+.	CH	O
+		
+Số	N	B-LOC
+2	M	I-LOC
+ngõ	N	B-LOC
+29	Np	I-LOC
+phố	N	B-LOC
+dịch	N	I-LOC
+vọng	V	I-LOC
+		
+đi	V	O
+khu	N	B-LOC
+đô thị	N	I-LOC
+văn phú	N	I-LOC
+Hà	Np	I-LOC
+Đông	Np	I-LOC
+		
+Qua	E	O
+minh	N	B-LOC
+khai	V	I-LOC
+lây	V	O
+đồ	N	O
+về	V	O
+xuân la	M	B-LOC
+		
+247	Np	B-LOC
+phan	V	I-LOC
+bá	N	I-LOC
+vành	V	I-LOC
+đi	V	O
+trung yên	V	B-LOC
+và	C	O
+an	V	O
+trach	V	O
+.	CH	O
+hàng	N	O
+nhe	V	O
+treo	V	O
+xe	N	O
+.	CH	O
+		
+Em	N	O
+ở	E	O
+45	Np	B-LOC
+Nguyễn	Np	I-LOC
+Sơn	Np	I-LOC
+có	V	O
+đơn hàng	V	O
+sang	V	O
+Nhà	Np	B-LOC
+N3	Np	I-LOC
+Chung cư	N	B-LOC
+Đồng	Np	I-LOC
+Tầu	Np	I-LOC
+-	CH	O
+Phố	N	B-LOC
+Thịnh Liệt	Np	I-LOC
+(	CH	O
+1141	Np	B-MISC
+Giải Phóng	Np	I-MISC
+)	CH	O
+gần	A	O
+bến	N	B-LOC
+xe	N	I-LOC
+nước ngầm	N	I-LOC
+.	CH	O
+		
+Bác	N	O
+nào	P	O
+ship	V	O
+được	V	O
+cho	V	O
+em	N	O
+xin	V	O
+giá	N	O
+ah	M	O
+		
+Cần	V	O
+cho thuê	N	O
+2	M	O
+phòng	N	O
+cho	E	O
+sinh viên	N	O
+ở	E	O
+giá	N	O
+1triệu	Np	O
+.	CH	O
+Đến	Np	O
+1tr5	Np	O
+đây	P	O
+.	CH	O
+Đường	N	B-LOC
+nguyễn	V	I-LOC
+trãi	N	I-LOC
+.	CH	O
+Phố	N	B-LOC
+cự	N	I-LOC
+lộc	V	I-LOC
+thanh	N	I-LOC
+xuân	N	I-LOC
+hà nội	N	I-LOC
+.	CH	O
+		
+30p	Np	O
+nữa	R	O
+e	V	O
+có	V	O
+tiện	N	O
+đường đi	V	O
+từ	E	O
+đại học	N	O
+công nghiệp	N	O
+sang	V	O
+vĩnh tuy	V	O
+rồi	C	O
+từ	E	O
+vĩnh tuy	N	B-LOC
+đi	V	O
+phạm	V	B-LOC
+văn	N	I-LOC
+đồng	N	I-LOC
+rồi	C	O
+về	E	O
+công nghiệp	N	O
+có	V	O
+ace	N	O
+nào	P	O
+có	V	O
+hàng	N	O
+gì	P	O
+gửi	V	O
+k	N	O
+e	V	O
+tiện	A	O
+đường	N	O
+e	V	O
+chạy	V	O
+cho	E	O
+ạ	I	O
+.	CH	O
+.	CH	O
+		
+Đảm bảo	V	O
+lấy	V	O
+rẻ	A	O
+kiếm	V	O
+tí	N	O
+tiền	N	O
+xăng	N	O
+thôi	T	O
+:	CH	O
+)	CH	O
+)	CH	O
+)	CH	O
+ai	P	O
+cần	V	O
+ib	V	O
+e	V	O
+ak	M	O
+		
+Cần	V	O
+bank	V	O
+vào	E	O
+tk	N	B-LOC
+sacombank	N	I-LOC
+300k	Np	I-LOC
+.	CH	O
+phí	N	B-LOC
+30k	Np	I-LOC
+.	CH	O
+ở	E	O
+ngách	N	B-LOC
+128	Np	I-LOC
+ngõ	N	I-LOC
+gốc	N	I-LOC
+đề	N	I-LOC
+hoàng	V	I-LOC
+văn	N	I-LOC
+thụ	N	I-LOC
+hoàng mai	V	I-LOC
+hà nội	N	I-LOC
+		
+Số	N	B-LOC
+25	M	I-LOC
+ngõ	N	B-LOC
+175	Np	I-LOC
+Tam	Np	I-LOC
+Trinh	Np	I-LOC
+đi	V	O
+		
+-	CH	O
+phố	N	B-LOC
+Dịch	Np	I-LOC
+Vọng	Np	I-LOC
+		
+-	CH	O
+Nguyễn	Np	B-LOC
+Khánh	Np	I-LOC
+Toàn	Np	I-LOC
+		
+105a1	Np	I-LOC
+Phạm	Np	I-LOC
+Ngọc Thạch	Np	I-LOC
+đi	V	O
+trường	N	B-LOC
+đại học	N	I-LOC
+Thăng Long	Ny	I-LOC
+ứng	V	O
+560k	Np	O
+ship	N	O
+30k	Np	O
+		
+Tòa	Np	B-LOC
+19t3	Np	I-LOC
+kdt	V	I-LOC
+mậu	N	I-LOC
+lương	N	I-LOC
+,	CH	O
+kiến	N	B-LOC
+hưng	V	I-LOC
+,	CH	O
+hà	N	B-LOC
+đông	A	I-LOC
+đj	N	O
+ngõ	N	B-LOC
+245	Np	I-LOC
+mai	N	I-LOC
+dịch	V	I-LOC
+cầu giấy	N	I-LOC
+		
+80	Np	B-LOC
+Ngô	Np	I-LOC
+thì	C	I-LOC
+nhậm	V	I-LOC
+ship	V	O
+cơm	N	O
+đến	E	O
+80	Np	B-LOC
+ngõ	N	I-LOC
+198	Np	I-LOC
+Ngọc	Np	I-LOC
+lâm	V	I-LOC
+ứng	N	O
+210k	Np	O
+		
+Ct1b	N	O
+thành phố	N	O
+giao lưu	V	O
+đi	V	O
+số	N	O
+trần	N	B-LOC
+hữu	V	I-LOC
+dự	V	I-LOC
+u400	N	O
+ship	N	O
+30	M	O
+		
+Ngõ	N	B-LOC
+2	M	I-LOC
+tô hiệu	N	I-LOC
+hà	N	I-LOC
+đông	A	I-LOC
+		
+Cần	V	O
+ship	N	O
+3	M	O
+đơn hàng	N	O
+treo	V	O
+xe	N	O
+.	CH	O
+Ct8c	Np	B-LOC
+khu	N	I-LOC
+đô thị	N	I-LOC
+dương	N	I-LOC
+nội	N	I-LOC
+hà	N	I-LOC
+đông	A	I-LOC
+đi	V	O
+		
+Em	N	O
+ở	E	O
+45	Np	B-LOC
+Nguyễn	Np	I-LOC
+Sơn	Np	I-LOC
+có	V	O
+10kg	Np	O
+cam	N	O
+ship	V	O
+đến	E	O
+Số	N	B-LOC
+nhà	N	I-LOC
+54	Np	I-LOC
+ngách	N	B-LOC
+145	Np	I-LOC
+văn chương	V	I-LOC
+đống	Nc	I-LOC
+đa	N	I-LOC
+,	CH	O
+các	L	O
+bác	Nc	O
+ship	V	O
+cho	E	O
+em	N	O
+xin	V	O
+giá	N	O
+nhé	T	O
+		
+Ship	N	O
+từ	E	O
+chợ	N	O
+mậu	N	O
+lương	N	O
+đi	V	O
+số	N	B-LOC
+6	M	I-LOC
+Tôn Thất	Np	I-LOC
+Tùng	Np	I-LOC
+		
+Hôm nay	N	O
+thứ	N	O
+4	M	O
+ngày	N	O
+3-Apr	M	O
+cần	V	O
+nam	N	O
+tuổi	N	O
+20	M	O
+đến	E	O
+39	Np	O
+có	V	O
+cmt	N	O
+qua	V	O
+348	Np	B-LOC
+kim	N	I-LOC
+ngưu	V	I-LOC
+về	E	O
+nước	N	O
+tăng lực	N	O
+nhận	V	O
+quà	N	O
+80k	Np	O
+tiền mặt	N	O
+gọi	V	O
+hoa	N	O
+973493610	Np	O
+		
+Em	N	O
+có	V	O
+tầm	N	O
+14	Np	O
+đơn	N	O
+ship	V	O
+nội thành	V	O
+hà nội	N	O
+.	CH	O
+		
+Ship	Np	O
+30k	Np	O
+/	CH	O
+đơn	N	O
+em	N	O
+ở	E	O
+lĩnh	N	B-LOC
+nam	N	I-LOC
+ạ	I	O
+.	CH	O
+hàng	N	O
+hoa quả	V	O
+nên	C	O
+bác	N	O
+nào	P	O
+có	V	O
+thùng	N	O
+càng	R	O
+ok	A	O
+nha	I	O
+(	CH	O
+không	R	O
+có	V	O
+qua	V	O
+em	N	O
+lấy	V	O
+)	CH	O
+		
+Số	N	O
+55	Np	B-LOC
+Trần	Np	I-LOC
+Hòa	Np	I-LOC
+,	CH	O
+Định Công	Np	B-LOC
+sang	V	O
+Ngõ	Np	B-LOC
+15	Np	B-LOC
+Duy Tân	Np	I-LOC
+,	CH	O
+Cầu Giấy	Np	B-LOC
+chỗ	N	O
+Tổng cục	V	B-LOC
+dg	V	I-LOC
+bộ	N	I-LOC
+VN.	N	I-LOC
+Ship	Np	O
+2	M	O
+chiều	N	O
+,	CH	O
+50k	Np	O
+.	CH	O
+Lúc	N	O
+2h	Np	O
+chiều	N	O
+.	CH	O
+Lh	Np	O
+3678	Np	O
+33	Np	O
+233	Np	O
+		
+cần	V	O
+mua	V	O
+30k	Np	O
+quẩy	V	O
+ở	E	O
+157	Np	B-LOC
+đội	N	I-LOC
+cấn	N	I-LOC
+mang	V	O
+về	E	O
+458	Np	B-LOC
+đội	N	I-LOC
+cấn	N	I-LOC
+ship	V	O
+25k	Np	O
+389359205	Np	O
+		
+Đầu	N	O
+ngõ	N	O
+133	Np	B-LOC
+xuân	N	I-LOC
+thủy	V	I-LOC
+đi	V	O
+411	Np	B-LOC
+bạch mai	M	I-LOC
+		
+Ứng	Np	O
+580	Np	O
+ship	N	O
+50	Np	O
+từ	E	O
+315	Np	B-LOC
+k2	V	I-LOC
+sau	N	O
+svd	N	B-LOC
+mỹ	V	I-LOC
+đình	N	I-LOC
+đi	V	O
+Phúc	Np	B-LOC
+Xá	Np	I-LOC
+cho	E	O
+long	N	B-LOC
+bien	M	I-LOC
+		
+Ship	N	O
+từ	E	O
+chợ	N	B-LOC
+mậu	N	I-LOC
+lương	N	I-LOC
+đi	V	O
+số	N	B-LOC
+6	M	I-LOC
+Tôn Thất	Np	B-LOC
+Tùng	Np	I-LOC
+		
+Tôi	P	O
+cần	V	O
+chuyển	V	O
+2	M	O
+mẫu	Nu	O
+vải	N	O
+từ	E	O
+chung cư	N	B-LOC
+xuân	N	I-LOC
+ai	P	I-LOC
+complex	V	I-LOC
+khu	N	B-LOC
+đô thị	N	I-LOC
+mới	A	I-LOC
+dương	V	I-LOC
+nội	N	I-LOC
+hà	N	I-LOC
+đông	A	I-LOC
+.	CH	O
+		
+tới	E	O
+59	Np	B-LOC
+qQuang	V	I-LOC
+trung	A	I-LOC
+.	CH	O
+phường	N	B-LOC
+Nguyễn	Np	I-LOC
+Du	Np	I-LOC
+.	CH	O
+quận hai	V	B-LOC
+bà	Nc	I-LOC
+trưng	V	I-LOC
+liên hệ	V	O
+946423979	Np	O
+		
+Có	V	O
+2	M	O
+Đơn từ	N	O
+Eco	Np	B-LOC
+Green	Np	I-LOC
+286	Np	I-LOC
+Nguyễn	Np	I-LOC
+Xiển	Np	I-LOC
+,	CH	O
+ship	N	O
+đi	V	O
+HUỲNH	V	B-LOC
+THÚC KHÁNG	N	I-LOC
+và	C	O
+ĐIỆN	N	B-LOC
+BIÊN	V	I-LOC
+PHỦ	V	I-LOC
+,	CH	O
+Ba Đình	Np	B-LOC
+.	CH	O
+Tổng	Np	O
+ứng	V	O
+:	CH	O
+1.12	V	O
+k	N	O
+.	CH	O
+Ship	Np	O
+:	CH	O
+60k	Np	O
+.	CH	O
+Ai	P	O
+nhận	V	O
+LH	V	O
+:	CH	O
+0971.602.786	M	O
+		
+54	Np	B-LOC
+tràng thi	V	B-LOC
+đi	V	O
+12	Np	B-LOC
+hoàng	V	B-LOC
+cầu	N	I-LOC
+ứng	V	O
+650k	Np	O
+ship	N	O
+30k	Np	O
+981828294	Np	O
+		
+Đơn	N	O
+ghép	V	O
+,	CH	O
+số	N	B-LOC
+6	M	I-LOC
+ngõ	N	I-LOC
+đê quai	N	I-LOC
+ứng	V	O
+ship	N	O
+50k	Np	O
+về	E	O
+triều	N	B-LOC
+khúc	N	I-LOC
+.	CH	O
+943569491	Np	O
+		
+ship	V	O
+từ	E	O
+số	N	B-LOC
+27/75	N	I-LOC
+Trần Thái Tông	Np	I-LOC
+đến	E	O
+UBND	Ny	B-LOC
+quận	Np	I-LOC
+Nam	Np	I-LOC
+Từ Liêm	Np	I-LOC
+125	Np	B-LOC
+Hồ	Np	I-LOC
+Tùng	Np	I-LOC
+Mậu	Np	I-LOC
+.	CH	O
+Ship	Np	O
+20k	Np	O
+ứng	V	O
+130k	Np	O
+.	CH	O
+Liên hệ	V	O
+:	CH	O
+375899698	Np	O
+		
+Nhận	V	O
+371b	Np	B-LOC
+thanh bình	A	I-LOC
+nhà	N	O
+đồ	N	O
+gỗ	N	O
+Mỹ nghệ	V	O
+minh	N	O
+trí	V	O
+đi	V	O
+Địa chỉ	N	O
+ship	V	O
+:	CH	O
+19	M	O
+ngõ	N	B-LOC
+21	Np	I-LOC
+tây	N	I-LOC
+kết	V	I-LOC
+,	CH	O
+bạch đằng	N	B-LOC
+,	CH	O
+hai	M	B-LOC
+bà	N	I-LOC
+trưng	V	I-LOC
+		
+Nhận	V	O
+từ	E	O
+1/48/1	N	B-LOC
+Phạm	Np	I-LOC
+Tuấn	Np	I-LOC
+Tài	Np	I-LOC
+đi đường	N	B-LOC
+Bạch Đằng	Np	I-LOC
+-	CH	O
+Thanh Lương	Ny	B-LOC
+-	CH	O
+Hoàn	Np	B-LOC
+Kiếm	Np	I-LOC
+		
+Toà	N	B-LOC
+ct3	V	I-LOC
+ngõ	N	B-LOC
+34	Np	I-LOC
+hoàng	V	I-LOC
+cầu	N	I-LOC
+đi	V	O
+hoàng	V	B-LOC
+quốc việt	N	I-LOC
+và	C	O
+phạm	V	B-LOC
+văn	N	I-LOC
+đồng	N	I-LOC
+ứng	V	O
+645	Np	O
+ship	N	O
+55	Np	O
+		
+31	Np	B-LOC
+yên hoà	V	I-LOC
+đi	V	O
+Ngõ	Np	B-LOC
+444	Np	I-LOC
+ngách	V	I-LOC
+34/5	N	I-LOC
+hẻm	N	B-LOC
+21	M	I-LOC
+số	N	B-LOC
+nhà	N	I-LOC
+21	Np	I-LOC
+đội	N	B-LOC
+cấn	N	I-LOC
+cống vị	M	I-LOC
+		
+Bác	N	O
+nào	P	O
+đi qua	N	B-LOC
+123	Np	I-LOC
+nguyễn	V	I-LOC
+ngọc	V	I-LOC
+vũ	N	I-LOC
+ném	V	O
+e	V	O
+bao	N	O
+thăng long	N	O
+cứng	A	O
+với	E	O
+.	CH	O
+Cả	P	O
+thuốc	N	O
+55k	Np	O
+,	CH	O
+em	N	O
+còn	R	O
+mỗi	L	O
+thế	P	O
+.	CH	O
+Qua	V	O
+hú	V	O
+em	N	O
+.	CH	O
+		
+Từ	E	O
+66	Np	B-LOC
+Võng	Np	I-LOC
+Thị	Np	I-LOC
+đi	V	O
+18	Np	B-LOC
+Trần	Np	I-LOC
+Bình	Np	I-LOC
+-	CH	O
+Mai	Np	B-LOC
+Dịch	Np	I-LOC
+-	CH	O
+Cầu Giấy	Ny	B-LOC
+-	CH	O
+Hà Nội	Np	B-LOC
+.	CH	O
+Ứng	Np	O
+544k	Np	O
+,	CH	O
+ship	N	O
+40k	Np	O
+.	CH	O
+cần	V	O
+ngay	T	O
+ạ	I	O
+.	CH	O
+838324999	Np	O
+		
+cần	V	O
+ship	V	O
+đi	V	O
+từ	E	O
+170	Np	B-LOC
+nguyễn	V	I-LOC
+đổng	N	I-LOC
+chi	P	O
+đến	E	O
+415	Np	B-LOC
+nguyễn	V	I-LOC
+xiển	N	I-LOC
+.	CH	O
+ứng	V	O
+350k	Np	O
+.	CH	O
+ship	N	O
+30k	Np	O
+sđt	N	O
+346132821	Np	O

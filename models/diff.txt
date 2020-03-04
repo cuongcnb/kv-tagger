@@ -1,0 +1,2627 @@
+Chị	O	O
+Minh	B-PER	O
+ôm	O	O
+đứa	O	O
+con gái	O	O
+mới	O	O
+hơn	O	O
+hai	O	O
+tháng	O	O
+rưỡi	O	O
+tuổi	O	O
+nấc	O	O
+lên	O	O
+từng	O	O
+tiếng	O	O
+thảm thiết	O	O
+khi	O	O
+kể	O	O
+lại	O	O
+cho	O	O
+chúng tôi	O	O
+nghe	O	O
+về	O	O
+cái	O	O
+chết	O	O
+của	O	O
+chồng	O	O
+.	O	O
+		O
+Từ	O	O
+đôi	O	O
+mắt	O	O
+thâm quầng	O	O
+mệt mỏi	O	O
+,	O	O
+những	O	O
+giọt	O	O
+nước mắt	O	O
+nối tiếp	O	O
+chảy	O	O
+tràn	O	O
+trên	O	O
+khuôn mặt	O	O
+người	O	O
+quả phụ	O	O
+trẻ	O	O
+,	O	O
+từng	O	O
+giọt	O	O
+lệ	O	O
+mặn chát	O	O
+nhỏ	O	O
+xuống	O	O
+người	O	O
+đứa	O	O
+bé	O	O
+còn	O	O
+đỏ hỏn	O	O
+chị	O	O
+đang	O	O
+ôm	O	O
+trước	O	O
+ngực	O	O
+...	O	O
+		O
+Không	O	O
+chỉ	O	O
+nước mắt	O	O
+,	O	O
+mồ hôi	O	O
+và	O	O
+máu	O	O
+của	O	O
+các	O	O
+thuyền viên	O	O
+đổ	O	O
+trên	O	O
+sàn	O	O
+tàu	O	O
+,	O	O
+họ	O	O
+đã	O	O
+phải	O	O
+trả giá	O	O
+cho	O	O
+cuộc	O	O
+“	O	O
+thoát	O	O
+nghèo	O	O
+”	O	O
+bằng	O	O
+chính	O	O
+tính mạng	O	O
+của	O	O
+mình	O	O
+.	O	O
+		O
+Chỉ	O	O
+riêng	O	O
+xã	B-LOC	O
+Cương Gián	I-LOC	O
+(	O	O
+Hà Tĩnh	B-LOC	O
+)	O	O
+đã	O	O
+có	O	O
+10	O	O
+thuyền viên	O	O
+tử nạn	O	O
+giữa	O	O
+trùng dương	O	O
+bao la	O	O
+.	O	O
+		O
+Ở	O	O
+Nghi Hải	B-LOC	O
+(	O	O
+Nghệ An	B-LOC	O
+)	O	O
+cũng	O	O
+có	O	O
+những	O	O
+thuyền viên	O	O
+bỏ xác	O	O
+nơi	O	O
+biển	O	O
+khơi	O	O
+xa xôi	O	O
+...	O	O
+		O
+Những	O	O
+đứa	O	O
+con	O	O
+không	O	O
+biết	O	O
+mặt	O	O
+cha	O	O
+.	O	O
+		O
+Chiều	O	O
+cuối	O	O
+thu	O	O
+,	O	O
+trời	O	O
+vùng biển	O	O
+Nghi Xuân	B-LOC	O
+ảm đạm	O	O
+.	O	O
+		O
+Tiếng	O	O
+người	O	O
+vợ	O	O
+trẻ	O	O
+khóc	O	O
+thương	O	O
+chồng	O	O
+theo	O	O
+gió	O	O
+biển	O	O
+đi	O	O
+sâu	O	O
+hơn	O	O
+vào	O	O
+phía	O	O
+trong	O	O
+xóm	O	O
+.	O	O
+		O
+Cả	O	O
+làng	O	O
+,	O	O
+cả	O	O
+xã	O	O
+như	O	O
+đượm	O	O
+màu	O	O
+u ám	O	O
+trước	O	O
+cảnh	O	O
+bi ai	O	O
+,	O	O
+tang tóc	O	O
+của	O	O
+gia đình	O	O
+chị	O	O
+Hoàng	B-PER	B-PER
+Thị	I-PER	I-PER
+Minh	I-PER	O
+(	O	O
+25	O	O
+tuổi	O	O
+,	O	O
+thôn	B-LOC	O
+Bắc Sơn	I-LOC	O
+,	O	O
+xã	B-LOC	O
+Cương Gián	I-LOC	O
+,	O	O
+Hà Tĩnh	B-LOC	O
+)	O	O
+.	O	O
+		O
+Người	O	O
+vợ	O	O
+trẻ	O	O
+vẫn	O	O
+nấc	O	O
+lên	O	O
+từng	O	O
+tiếng	O	O
+não nề	O	O
+,	O	O
+thảm thiết	O	O
+.	O	O
+		O
+Trên	O	O
+tay	O	O
+chị	O	O
+,	O	O
+bé	O	O
+Thuỷ	B-PER	O
+cũng	O	O
+khóc	O	O
+ngằn ngặt	O	O
+đòi	O	O
+bú	O	O
+nghe	O	O
+não	O	O
+ruột	O	O
+,	O	O
+nát	O	O
+gan	O	O
+.	O	O
+		O
+“	O	O
+Một	O	O
+tuần	O	O
+nay	O	O
+,	O	O
+khi	O	O
+biết	O	O
+tin	O	O
+chồng	O	O
+chết	O	O
+biển	O	O
+,	O	O
+o	O	O
+(	O	O
+cô	O	O
+)	O	O
+Minh	B-PER	O
+có	O	O
+thiết	O	O
+ăn uống	O	O
+gì	O	O
+đâu	O	O
+,	O	O
+làm gì	O	O
+mà	O	O
+còn	O	O
+sữa	O	O
+nuôi	O	O
+con bé	O	O
+”	O	O
+-	O	O
+bà	O	O
+hàng xóm	O	O
+tên	O	O
+Ngân	B-PER	O
+sụt sùi	O	O
+lau	O	O
+ngang	O	O
+dòng	O	O
+lệ	O	O
+.	O	O
+		O
+Ngoài trời	O	O
+mưa	O	O
+lâm thâm	O	O
+,	O	O
+cảnh vật	O	O
+quanh	O	O
+nhà	O	O
+vắng vẻ	O	O
+,	O	O
+hiu quạnh	O	O
+càng	O	O
+làm	O	O
+tăng	O	O
+thêm	O	O
+nỗi	O	O
+buồn	O	O
+người	O	O
+thiếu phụ	O	O
+.	O	O
+		O
+Một	O	O
+buổi	O	O
+chiều	O	O
+cuối	O	O
+tháng	O	O
+chín	O	O
+,	O	O
+chị	O	O
+Minh	B-PER	B-PER
+như	O	O
+sụp đổ	O	O
+khi	O	O
+nhận	O	O
+được	O	O
+hung	O	O
+tin	O	O
+chồng	O	O
+mình	O	O
+là	O	O
+Nguyễn	B-PER	O
+Văn	I-PER	O
+Thanh	I-PER	O
+(	O	O
+28	O	O
+tuổi	O	O
+)	O	O
+đã	O	O
+chết	O	O
+khi	O	O
+đi	O	O
+đánh cá	O	O
+trên	O	O
+bờ	O	O
+biển	O	O
+Nam Mỹ	B-LOC	O
+(	O	O
+anh	O	O
+Thanh	B-PER	B-PER
+là	O	O
+thuyền viên	O	O
+VN	B-LOC	B-LOC
+mới	O	O
+nhất	O	O
+tử nạn	O	O
+)	O	O
+.	O	O
+		O
+Theo	O	O
+thông báo	O	O
+của	O	O
+công ty	O	O
+gửi	O	O
+về	O	O
+,	O	O
+Thanh	B-PER	O
+mất	O	O
+ngày	O	O
+19-8-2005	O	O
+,	O	O
+khi	O	O
+đang	O	O
+làm việc	O	O
+trên	O	O
+tàu	O	O
+đánh cá	O	O
+ở	O	O
+vùng biển	O	O
+gần	O	O
+Argentina	B-LOC	O
+nhưng	O	O
+mãi	O	O
+đến	O	O
+hơn	O	O
+tháng	O	O
+sau	O	O
+cả	O	O
+nhà	O	O
+mới	O	O
+biết	O	O
+tin	O	O
+.	O	O
+		O
+Chị	O	O
+Minh	B-PER	B-PER
+nghẹn ngào	O	O
+:	O	O
+“	O	O
+Cả	O	O
+nhà	O	O
+không	O	O
+muốn	O	O
+anh	O	O
+ấy	O	O
+đi	O	O
+chuyến	O	O
+này	O	O
+vì	O	O
+em	O	O
+bụng mang dạ chửa	O	O
+được	O	O
+gần	O	O
+ba	O	O
+tháng	O	O
+.	O	O
+		O
+Nhưng	O	O
+anh	O	O
+cứ	O	O
+nằng nặc	O	O
+đòi	O	O
+đi	O	O
+kiếm	O	O
+tiền	O	O
+trả	O	O
+món	O	O
+nợ	O	O
+của	O	O
+mấy	O	O
+chuyến	O	O
+đi	O	O
+trước	O	O
+và	O	O
+để dành	O	O
+tiền	O	O
+cho	O	O
+đứa	O	O
+con	O	O
+đầu lòng	O	O
+sắp	O	O
+ra đời	O	O
+.	O	O
+		O
+Ai ngờ	O	O
+...	O	O
+		O
+Anh	O	O
+chết	O	O
+mà	O	O
+chẳng	O	O
+biết	O	O
+mặt	O	O
+con	O	O
+,	O	O
+con	O	O
+chẳng	O	O
+biết	O	O
+mặt	O	O
+bố	O	O
+...	O	O
+		O
+Trời	O	O
+ơi	O	O
+là	O	O
+trời	O	O
+!	O	O
+”	O	O
+.	O	O
+		O
+Anh	O	O
+Cường	B-PER	O
+,	O	O
+anh trai	O	O
+của	O	O
+Thanh	B-PER	O
+,	O	O
+cũng	O	O
+từng	O	O
+là	O	O
+thuyền viên	O	O
+nay	O	O
+phải	O	O
+ở	O	O
+nhà	O	O
+vì	O	O
+bị	O	O
+gãy	O	O
+chân	O	O
+trong	O	O
+một	O	O
+lần	O	O
+ướp	O	O
+cá	O	O
+trong	O	O
+hầm	O	O
+bị	O	O
+phên	O	O
+đá	O	O
+ướp	O	O
+cá	O	O
+xô	O	O
+vào	O	O
+,	O	O
+không	O	O
+giấu	O	O
+được	O	O
+đau đớn	O	O
+kể	O	O
+:	O	O
+“	O	O
+Hắn	O	O
+(	O	O
+anh	O	O
+Thanh	B-PER	B-PER
+)	O	O
+đi	O	O
+biển	O	O
+chuyến	O	O
+này	O	O
+là	O	O
+chuyến	O	O
+thứ	O	O
+ba	O	O
+.	O	O
+		O
+Sau	O	O
+chuyến	O	O
+đầu tiên	O	O
+đi	O	O
+Hàn Quốc	B-LOC	O
+13	O	O
+tháng	O	O
+về	O	O
+thì	O	O
+hắn	O	O
+cưới	O	O
+vợ	O	O
+(	O	O
+28-5-2002	O	O
+)	O	O
+,	O	O
+cưới	O	O
+được	O	O
+hơn	O	O
+tháng	O	O
+thì	O	O
+đầu	O	O
+tháng	O	O
+7-2002	O	O
+phải	O	O
+lên đường	O	O
+đi	O	O
+chuyến	O	O
+thứ	O	O
+hai	O	O
+,	O	O
+hi vọng	O	O
+sẽ	O	O
+dành dụm	O	O
+được	O	O
+chút ít	O	O
+nhưng	O	O
+nào ngờ	O	O
+chuyến	O	O
+này	O	O
+chỉ	O	O
+kéo dài	O	O
+bảy	O	O
+tháng	O	O
+thì	O	O
+chủ	O	O
+tàu	O	O
+bị	O	O
+phá sản	O	O
+...	O	O
+		O
+Tội nghiệp	O	O
+hắn	O	O
+mang tiếng	O	O
+đi	O	O
+biển	O	O
+hai	O	O
+chuyến	O	O
+nhưng	O	O
+gộp	O	O
+cả	O	O
+hai	O	O
+chuyến	O	O
+hắn	O	O
+vẫn	O	O
+còn	O	O
+mang	O	O
+nợ	O	O
+gần	O	O
+40	O	O
+triệu	O	O
+đồng	O	O
+...	O	O
+”	O	O
+.	O	O
+		O
+Giữa	O	O
+tháng	O	O
+1-2005	O	O
+anh	O	O
+Thanh	B-PER	B-PER
+lên	O	O
+chiếc	O	O
+tàu	O	O
+Aurova	O	O
+2	O	O
+của	O	O
+Hàn Quốc	B-LOC	O
+sang	O	O
+vùng biển	O	O
+Nam Mỹ	B-LOC	O
+đánh cá	O	O
+.	O	O
+		O
+Hơn	O	O
+bảy	O	O
+tháng	O	O
+sau	O	O
+anh	O	O
+bị	O	O
+tai nạn	O	O
+.	O	O
+		O
+Cường	B-PER	O
+bảo	O	O
+chẳng	O	O
+biết	O	O
+em trai	O	O
+chết	O	O
+thế nào	O	O
+,	O	O
+chỉ	O	O
+nghe	O	O
+người	O	O
+ở	O	O
+công ty	O	O
+kể	O	O
+lại	O	O
+con	O	O
+tàu	O	O
+lọt	O	O
+vào	O	O
+cơn	O	O
+bão	O	O
+mà	O	O
+không	O	O
+kịp	O	O
+tránh	O	O
+.	O	O
+		O
+Thanh	B-PER	O
+bò	O	O
+ra	O	O
+boong	O	O
+định	O	O
+kéo	O	O
+cái	O	O
+tời	O	O
+và	O	O
+đám	O	O
+lưới	O	O
+bị	O	O
+sóng	O	O
+và	O	O
+gió	O	O
+đánh	O	O
+bung	O	O
+ra	O	O
+,	O	O
+không	O	O
+may	O	O
+tàu	O	O
+lắc lư	O	O
+mạnh	O	O
+đã	O	O
+xô	O	O
+anh	O	O
+ngã	O	O
+vào	O	O
+máy	O	O
+tời	O	O
+kéo	O	O
+lưới	O	O
+.	O	O
+		O
+Cú	O	O
+ngã	O	O
+mạnh	O	O
+này	O	O
+đã	O	O
+không	O	O
+cho	O	O
+anh	O	O
+có	O	O
+ngày	O	O
+trở về	O	O
+với	O	O
+vợ	O	O
+,	O	O
+nhìn	O	O
+mặt	O	O
+đứa	O	O
+con	O	O
+đầu lòng	O	O
+mà	O	O
+gần	O	O
+ba	O	O
+năm	O	O
+trời	O	O
+anh	O	O
+mong ngóng	O	O
+.	O	O
+		O
+Hơn	O	O
+một	O	O
+tháng	O	O
+sau	O	O
+,	O	O
+Công ty	B-ORG	O
+Inmasco	I-ORG	O
+(	O	O
+thuộc	O	O
+Tổng công ty	B-ORG	O
+Xây dựng	I-ORG	O
+công trình	I-ORG	O
+giao thông	I-ORG	B-LOC
+1	I-ORG	I-LOC
+,	O	O
+đơn vị	O	O
+ký	O	O
+hợp đồng	O	O
+đưa	O	O
+anh	O	O
+đi	O	O
+biển	O	O
+)	O	O
+thông báo	O	O
+hung	O	O
+tin	O	O
+này	O	O
+cho	O	O
+gia đình	O	O
+.	O	O
+		O
+Cả	O	O
+nhà	O	O
+đau đớn	O	O
+khi	O	O
+nhận	O	O
+lại	O	O
+nhúm	O	O
+tóc	O	O
+,	O	O
+vài	O	O
+cái	O	O
+móng	O	O
+tay	O	O
+,	O	O
+móng	O	O
+chân	O	O
+của	O	O
+Thanh	B-PER	O
+.	O	O
+		O
+“	O	O
+Vợ	O	O
+hắn	O	O
+ngã	O	O
+gục	O	O
+,	O	O
+ngất	O	O
+đi	O	O
+ngất	O	O
+lại	O	O
+không	O	O
+biết	O	O
+bao	O	O
+lần	O	O
+.	O	O
+		O
+Ngay	O	O
+cả	O	O
+đến	O	O
+tôi	O	O
+cũng	O	O
+không thể	O	O
+tin	O	O
+rằng	O	O
+em	O	O
+tôi	O	O
+đã	O	O
+chết	O	O
+...	O	O
+”	O	O
+-	O	O
+anh	O	O
+Cường	B-PER	B-PER
+sụt sùi	O	O
+nói	O	O
+.	O	O
+		O
+Cách	O	O
+đó	O	O
+không	O	O
+xa	O	O
+,	O	O
+trong	O	O
+thôn	B-LOC	O
+Đông Tây	I-LOC	O
+,	O	O
+chị	O	O
+Phạm	B-PER	B-PER
+Thị	I-PER	I-PER
+Hoa	I-PER	O
+cám cảnh	O	O
+nghĩ lại	O	O
+tình cảnh	O	O
+của	O	O
+mình	O	O
+sáu	O	O
+năm	O	O
+về	O	O
+trước	O	O
+:	O	O
+“	O	O
+Hồi	O	O
+đó	O	O
+tôi	O	O
+cũng	O	O
+chẳng	O	O
+khác gì	O	O
+o	O	O
+Minh	B-PER	O
+hôm nay	O	O
+.	O	O
+		O
+Đau đớn	O	O
+lắm	O	O
+,	O	O
+chồng	O	O
+tôi	O	O
+mất	O	O
+cũng	O	O
+vào	O	O
+năm	O	O
+29	O	O
+tuổi	O	O
+,	O	O
+con	O	O
+tôi	O	O
+lúc	O	O
+đó	O	O
+vẫn	O	O
+còn	O	O
+ẵm ngửa	O	O
+(	O	O
+11	O	O
+tháng	O	O
+tuổi	O	O
+)	O	O
+”	O	O
+.	O	O
+		O
+Chị	O	O
+Hoa	B-PER	O
+ngậm ngùi	O	O
+mở	O	O
+túi	O	O
+hình ảnh	O	O
+khâm liệm	O	O
+và	O	O
+hoả táng	O	O
+của	O	O
+chồng	O	O
+lấy	O	O
+ra	O	O
+từng	O	O
+tấm	O	O
+cho	O	O
+chúng tôi	O	O
+xem	O	O
+.	O	O
+		O
+Anh	O	O
+Thanh	B-PER	O
+chết	O	O
+,	O	O
+ước mong	O	O
+trả	O	O
+nợ	O	O
+,	O	O
+xây	O	O
+nhà	O	O
+mới	O	O
+có thể	O	O
+được	O	O
+thực hiện	O	O
+vì	O	O
+vợ con	O	O
+anh	O	O
+đã	O	O
+nhận	O	O
+được	O	O
+240	O	O
+triệu	O	O
+đồng	O	O
+tiền	O	O
+bảo hiểm	O	O
+,	O	O
+trợ cấp	O	O
+của	O	O
+chủ	O	O
+tàu	O	O
+.	O	O
+		O
+Nhưng	O	O
+“	O	O
+nhận	O	O
+món	O	O
+tiền	O	O
+này	O	O
+thật	O	O
+đau đớn	O	O
+lòng	O	O
+.	O	O
+		O
+Vì	O	O
+nghèo	O	O
+,	O	O
+cần	O	O
+tiền	O	O
+mà	O	O
+hắn	O	O
+chết	O	O
+.	O	O
+		O
+Tiền	O	O
+có thể	O	O
+kiếm	O	O
+được	O	O
+và	O	O
+tiêu	O	O
+sẽ	O	O
+hết	O	O
+,	O	O
+chứ	O	O
+hắn	O	O
+chết	O	O
+là	O	O
+hết	O	O
+tất cả	O	O
+,	O	O
+mai	O	O
+này	O	O
+vợ con	O	O
+hắn	O	O
+bấu víu	O	O
+vào	O	O
+ai	O	O
+”	O	O
+-	O	O
+anh	O	O
+Cường	B-PER	B-PER
+nói	O	O
+.	O	O
+		O
+Chị	O	O
+Hoa	B-PER	O
+,	O	O
+chị	O	O
+Thắm	B-PER	O
+còn	O	O
+may mắn	O	O
+khi	O	O
+nhận	O	O
+được	O	O
+bình	O	O
+tro	O	O
+thiêu	O	O
+xác	O	O
+người thân	O	O
+mình	O	O
+.	O	O
+		O
+Còn	O	O
+chị	O	O
+Minh	B-PER	O
+,	O	O
+ngoài	O	O
+nhúm	O	O
+tóc	O	O
+,	O	O
+cái	O	O
+móng	O	O
+tay	O	O
+,	O	O
+chị	O	O
+không	O	O
+hề	O	O
+nhận	O	O
+được	O	O
+hình ảnh	O	O
+cuối cùng	O	O
+nào	O	O
+của	O	O
+người	O	O
+chồng	O	O
+thân yêu	O	O
+,	O	O
+ngoài	O	O
+mấy	O	O
+tấm	O	O
+hình	O	O
+nấm	O	O
+mồ	O	O
+mới	O	O
+của	O	O
+chồng	O	O
+nơi	O	O
+đất khách quê người	O	O
+.	O	O
+		O
+Đó	O	O
+là	O	O
+một	O	O
+ngôi	O	O
+mộ	O	O
+mới	O	O
+phủ	O	O
+đầy	O	O
+hoa	O	O
+đỏ	O	O
+,	O	O
+hoa	O	O
+vàng	O	O
+hình	O	O
+cờ	O	O
+Tổ quốc	O	O
+.	O	O
+		O
+Mộ	O	O
+anh	O	O
+nằm	O	O
+cùng	O	O
+với	O	O
+những	O	O
+người	O	O
+xấu số	O	O
+chết	O	O
+khi	O	O
+đi	O	O
+biển	O	O
+ở	O	O
+khu	O	O
+nghĩa trang	B-LOC	O
+Stanley	I-LOC	O
+,	O	O
+trên	O	O
+đảo	B-LOC	O
+Falkland	I-LOC	O
+(	O	O
+vùng biển	O	O
+Argentina	B-LOC	O
+)	O	O
+.	O	O
+		O
+Và	O	O
+chỉ	O	O
+mình	O	O
+anh	O	O
+là	O	O
+người	B-MISC	O
+Việt	I-MISC	O
+duy nhất	O	O
+nằm	O	O
+tại	O	O
+khu	O	O
+nghĩa địa	O	O
+“	O	O
+liên hiệp quốc	O	O
+”	O	O
+này	O	O
+.	O	O
+		O
+Anh	O	O
+Cường	B-PER	B-PER
+không thể	O	O
+biết	O	O
+đến	O	O
+bao giờ	O	O
+anh	O	O
+cùng	O	O
+vợ con	O	O
+Thanh	B-PER	O
+mới	O	O
+được	O	O
+đến	O	O
+khu	O	O
+nghĩa địa	O	O
+này	O	O
+để	O	O
+một	O	O
+lần	O	O
+viếng thăm	O	O
+và	O	O
+chuyển	O	O
+Thanh	B-PER	O
+về	O	O
+với	O	O
+quê cha đất mẹ	O	O
+.	O	O
+		O
+Chồng	O	O
+chị	O	O
+Hoa	B-PER	O
+là	O	O
+anh	O	O
+Trần	B-PER	O
+Đức	I-PER	O
+Biên	I-PER	O
+(	O	O
+sinh	O	O
+1970	O	O
+)	O	O
+cũng	O	O
+là	O	O
+một	O	O
+ngư dân	O	O
+nghèo	O	O
+,	O	O
+vì	O	O
+thương	O	O
+vợ	O	O
+,	O	O
+thương	O	O
+con	O	O
+anh	O	O
+chạy vạy	O	O
+khắp nơi	O	O
+vay	O	O
+tiền	O	O
+để	O	O
+xuất ngoại	O	O
+đi	O	O
+biển	O	O
+.	O	O
+		O
+Năm	O	B-LOC
+1995	O	I-LOC
+,	O	O
+Biên	B-PER	O
+là	O	O
+một	O	O
+trong	O	O
+những	O	O
+người	O	O
+đầu tiên	O	O
+ở	O	O
+Cương Gián	B-LOC	O
+đi	O	O
+biển	O	O
+.	O	O
+		O
+Đến	O	O
+cuối	O	O
+năm	O	O
+1998	O	O
+,	O	O
+anh	O	O
+lại	O	O
+đi	O	O
+chuyến	O	O
+thứ	O	O
+hai	O	O
+cùng	O	O
+một số	O	O
+anh em	O	O
+đồng hương	O	O
+VN	B-LOC	B-LOC
+làm việc	O	O
+trên	O	O
+các	O	O
+tàu	O	O
+cá	O	O
+của	O	O
+chủ	O	O
+Hàn Quốc	B-LOC	O
+lênh đênh	O	O
+hàng	O	O
+chục	O	O
+tháng	O	O
+trời	O	O
+trên	O	O
+các	O	O
+vùng biển	O	O
+Nam Mỹ	B-LOC	O
+.	O	O
+		O
+Tàu	O	O
+của	O	O
+anh	O	O
+Biên	B-PER	O
+gặp	O	O
+nạn	O	O
+cuối	O	O
+tháng	O	O
+4-1999	O	O
+tại	O	O
+vùng biển	O	O
+Argentina	B-LOC	O
+,	O	O
+tàu	O	O
+đắm	O	O
+,	O	O
+năm	O	O
+người	O	O
+chết	O	O
+,	O	O
+trong	O	O
+đó	O	O
+có	O	O
+duy nhất	O	O
+một	O	O
+người	B-MISC	O
+VN	I-MISC	O
+là	O	O
+anh	O	O
+Biên	B-PER	O
+.	O	O
+		O
+“	O	O
+Tôi	O	O
+lúc	O	O
+đó	O	O
+cũng	O	O
+chỉ	O	O
+25	O	O
+tuổi	O	O
+,	O	O
+như	O	O
+o	O	O
+Minh	B-PER	O
+bây giờ	O	O
+,	O	O
+hay	O	O
+tin	O	O
+chồng	O	O
+chết	O	O
+mà	O	O
+choáng váng	O	O
+,	O	O
+không	O	O
+thể nào	O	O
+tin	O	O
+là	O	O
+sự thật	O	O
+”	O	O
+-	O	O
+giọng	O	O
+chị	O	O
+chùng	O	O
+xuống	O	O
+,	O	O
+những	O	O
+giọt	O	O
+nước mắt	O	O
+lại	O	O
+lăn	O	O
+dài	O	O
+trên	O	O
+khuôn mặt	O	O
+lam lũ	O	O
+.	O	O
+		O
+“	O	O
+Khi	O	O
+anh	O	O
+Biên	B-PER	O
+đi	O	O
+,	O	O
+cô	O	O
+con gái	O	O
+đầu	O	O
+mới	O	O
+hơn	O	O
+3	O	O
+tuổi	O	O
+,	O	O
+thằng	O	O
+út	O	O
+được	O	O
+sáu	O	O
+tháng	O	O
+.	O	O
+		O
+Năm	O	O
+tháng	O	O
+sau	O	O
+anh	O	O
+mất	O	O
+,	O	O
+bọn	O	O
+chúng	O	O
+vẫn	O	O
+còn	O	O
+quá	O	O
+nhỏ	O	O
+,	O	O
+chỉ	O	O
+biết	O	O
+mặt	O	O
+bố	O	O
+qua	O	O
+mấy	O	O
+tấm	O	O
+ảnh	O	O
+này	O	O
+”	O	O
+.	O	O
+		O
+Chị	O	O
+vừa	O	O
+nói	O	O
+vừa	O	O
+mân mê	O	O
+ngắm nghía	O	O
+mấy	O	O
+tấm	O	O
+hình	O	O
+ố	O	O
+nhoè	O	O
+cuối cùng	O	O
+của	O	O
+anh	O	O
+.	O	O
+		O
+“	O	O
+Mỗi	O	O
+lần	O	O
+nhìn	O	O
+lại	O	O
+những	O	O
+ảnh	O	O
+này	O	O
+,	O	O
+tôi	O	O
+vẫn	O	O
+không thể	O	O
+tin	O	O
+anh	O	O
+đã	O	O
+chết	O	O
+.	O	O
+		O
+Bọn	O	O
+trẻ	O	O
+cũng	O	O
+nhìn	O	O
+các	O	O
+ảnh	O	O
+này	O	O
+quen	O	O
+rồi	O	O
+”	O	O
+.	O	O
+		O
+Chỉ	O	O
+có	O	O
+năm	O	O
+tấm	O	O
+ảnh	O	O
+do	O	O
+những	O	O
+đồng nghiệp	O	O
+,	O	O
+chủ	O	O
+tàu	O	O
+chụp	O	O
+:	O	O
+cảnh	O	O
+mọi	O	O
+người	O	O
+đang	O	O
+bó	O	O
+cái	O	O
+xác	O	O
+cứng đờ	O	O
+của	O	O
+anh	O	O
+,	O	O
+cảnh	O	O
+khâm liệm	O	O
+,	O	O
+cảnh	O	O
+đưa	O	O
+thi hài	O	O
+anh	O	O
+vào	O	O
+lò	O	O
+thiêu	O	O
+...	O	O
+		O
+“	O	O
+Hoạ vô đơn chí	O	O
+”	O	O
+,	O	O
+em gái	O	O
+chị	O	O
+Hoa	B-PER	O
+là	O	O
+Phạm	B-PER	O
+Thị	I-PER	O
+Thắm	I-PER	O
+ở	O	O
+ngay	O	O
+thôn	O	O
+bên	O	O
+cạnh	O	O
+cũng	O	O
+thành	O	O
+quả phụ	O	O
+chỉ	O	O
+sau	O	O
+chị	O	O
+mình	O	O
+chưa	O	O
+đầy	O	O
+hai	O	O
+năm	O	O
+(	O	O
+2001	O	O
+)	O	O
+.	O	O
+		O
+Chồng	O	O
+Thắm	B-PER	O
+là	O	O
+Hoàng	B-PER	B-PER
+Văn	I-PER	I-PER
+Tuấn	I-PER	O
+bị	O	O
+chết	O	O
+trên	O	O
+tàu	O	O
+Hàn Quốc	B-LOC	O
+khi	O	O
+đang	O	O
+ở	O	O
+vùng biển	O	O
+Nam Phi	B-LOC	O
+,	O	O
+trong	O	O
+một	O	O
+vụ	O	O
+nổ	O	O
+bình	O	O
+gas	O	O
+trên	O	O
+tàu	O	O
+.	O	O
+		O
+Bỏ	O	O
+lại	O	O
+quê	O	O
+nhà	O	O
+người	O	O
+mẹ	O	O
+già	O	O
+,	O	O
+người	O	O
+vợ	O	O
+trẻ	O	O
+và	O	O
+hai	O	O
+đứa	O	O
+con	O	O
+nhỏ dại	O	O
+,	O	O
+một	O	O
+đứa	O	O
+7	O	O
+tuổi	O	O
+và	O	O
+một	O	O
+đứa	O	O
+chỉ	O	O
+mới	O	O
+hơn	O	O
+3	O	O
+tuổi	O	O
+...	O	O
+		O
+Trở về	O	O
+từ	O	O
+cõi	O	O
+chết	O	O
+.	O	O
+		O
+Ngày	O	O
+21-11	O	O
+,	O	O
+anh	O	O
+Nguyễn	B-PER	O
+Văn	I-PER	O
+Mỹ	I-PER	O
+(	O	O
+43	O	O
+tuổi	O	O
+,	O	O
+Nghi Hải	B-LOC	O
+,	O	O
+Nghệ An	B-LOC	O
+)	O	O
+vẫn	O	O
+thường	O	O
+mời	O	O
+bạn bè	O	O
+về	O	O
+ngồi	O	O
+uống	O	O
+rượu	O	O
+mừng	O	O
+ngày	O	O
+thoát	O	O
+chết	O	O
+.	O	O
+		O
+Ngày	O	O
+này	O	O
+đã	O	O
+được	O	O
+anh	O	O
+và	O	O
+mọi	O	O
+người	O	O
+gọi	O	O
+là	O	O
+ngày	O	O
+giỗ	O	O
+sống	O	O
+anh	O	O
+.	O	O
+		O
+Chiều tối	O	O
+của	O	O
+cái	O	O
+ngày	O	O
+định mệnh	O	O
+hai	O	O
+năm	O	O
+về	O	O
+trước	O	O
+(	O	O
+năm	O	O
+2003	O	O
+)	O	O
+,	O	O
+con	O	O
+tàu	O	O
+của	O	O
+anh	O	O
+lọt	O	O
+vào	O	O
+luồng	O	O
+cá thu	O	O
+và	O	O
+cá vược	O	O
+trên	O	O
+vùng biển	O	O
+phía	O	O
+đông	O	O
+Đài Loan	B-LOC	O
+.	O	O
+		O
+Cá	O	O
+nhiều	O	O
+vô kể	O	O
+,	O	O
+thuyền trưởng	O	O
+và	O	O
+mọi	O	O
+thuyền viên	O	O
+vui vẻ	O	O
+khôn	O	O
+siết	O	O
+.	O	O
+		O
+Đến	O	O
+nửa đêm	O	O
+,	O	O
+gió	O	O
+lớn	O	O
+nổi	O	O
+lên	O	O
+,	O	O
+tàu	O	O
+đã	O	O
+khẳm	O	O
+cá	O	O
+tròng trành	O	O
+.	O	O
+		O
+Khoảng	O	O
+2	O	O
+giờ	O	O
+sáng	O	O
+,	O	O
+không	O	O
+chịu	O	O
+nổi	O	O
+sức	O	O
+gió	O	O
+con	O	O
+tàu	O	O
+vỡ	O	O
+toác	O	O
+,	O	O
+nước	O	O
+tràn	O	O
+vào	O	O
+,	O	O
+toàn bộ	O	O
+con	O	O
+tàu	O	O
+cùng	O	O
+hơn	O	O
+30	O	O
+thuyền viên	O	O
+từ từ	O	O
+chìm	O	O
+xuống	O	O
+biển	O	O
+.	O	O
+		O
+Trong	O	O
+hoảng loạn	O	O
+,	O	O
+Mỹ	B-PER	O
+cố	O	O
+bám víu	O	O
+vào	O	O
+những	O	O
+gì	O	O
+có thể	O	O
+bám	O	O
+được	O	O
+.	O	O
+		O
+Túm	O	O
+được	O	O
+cái	O	O
+áo phao	O	O
+,	O	O
+anh	O	O
+bập bềnh	O	O
+liên tục	O	O
+trong	O	O
+nước biển	O	O
+lạnh	O	O
+cóng	O	O
+suốt	O	O
+gần	O	O
+10	O	O
+tiếng	O	O
+đồng hồ	O	O
+.	O	O
+		O
+Quần áo	O	O
+rách	O	O
+tả tơi	O	O
+,	O	O
+giấy tờ	O	O
+,	O	O
+tiền bạc	O	O
+...	O	O
+mất	O	O
+hết	O	O
+,	O	O
+đến	O	O
+gần	O	O
+trưa	O	O
+thì	O	O
+anh	O	O
+may mắn	O	O
+được	O	O
+tàu	O	O
+cứu hộ	O	O
+tìm	O	O
+ra	O	O
+và	O	O
+đưa	O	O
+lên	O	O
+tàu	O	O
+.	O	O
+		O
+Anh	O	O
+nằm	O	O
+Bệnh viện	B-LOC	O
+Đài Bắc	I-LOC	O
+ba	O	O
+ngày	O	O
+liền	O	O
+truyền	O	O
+dịch	O	O
+và	O	O
+sau	O	O
+chuyến	O	O
+đi	O	O
+đó	O	O
+anh	O	O
+về	O	O
+nhà	O	O
+nghỉ	O	O
+luôn	O	O
+bốn	O	O
+tháng	O	O
+để	O	O
+dưỡng sức	O	O
+.	O	O
+		O
+“	O	O
+Tôi	O	O
+còn	O	O
+may mắn	O	O
+hơn	O	O
+mấy	O	O
+thuyền viên	O	O
+Trung Quốc	B-LOC	O
+mất mạng	O	O
+hôm	O	O
+đó	O	O
+”	O	O
+.	O	O
+		O
+Trở về	O	O
+sau	O	O
+chuyến	O	O
+làm việc	O	O
+liên tục	O	O
+36	O	O
+tháng	O	O
+,	O	O
+Võ	B-PER	O
+Hồng	I-PER	O
+Sơn	I-PER	O
+,	O	O
+31	O	O
+tuổi	O	O
+,	O	O
+quê	O	O
+ở	O	O
+xã	B-LOC	O
+Hàm Ninh	I-LOC	O
+,	O	O
+Quảng Ninh	B-LOC	O
+(	O	O
+Quảng Bình	B-LOC	O
+)	O	O
+chắc	O	O
+sẽ	O	O
+chẳng	O	O
+bao giờ	O	O
+quên	O	O
+được	O	O
+khi	O	O
+trong	O	O
+một	O	O
+đêm	O	O
+tàu	O	O
+của	O	O
+anh	O	O
+cứu	O	O
+sống	O	O
+được	O	O
+60	O	O
+thuyền viên	O	O
+,	O	O
+trong	O	O
+đó	O	O
+có	O	O
+sáu	O	O
+đồng hương	O	O
+người	O	O
+Hà Tĩnh	B-LOC	O
+,	O	O
+Nghệ An	B-LOC	O
+.	O	O
+		O
+Đó	O	O
+là	O	O
+một	O	O
+đêm	O	O
+tháng	O	O
+6-2005	O	O
+,	O	O
+con	O	O
+tàu	O	O
+Koar	O	O
+101	O	O
+nhận	O	O
+được	O	O
+tín hiệu	O	O
+cấp cứu	O	O
+từ	O	O
+một	O	O
+chiếc	O	O
+tàu	O	O
+lạ	O	O
+trên	O	O
+vùng biển	O	O
+Senegal	B-LOC	O
+(	O	O
+châu	B-LOC	O
+Phi	I-LOC	O
+)	O	O
+,	O	O
+mất	O	O
+gần	O	O
+cả	O	O
+giờ	O	O
+đồng hồ	O	O
+mới	O	O
+đến	O	O
+nơi	O	O
+.	O	O
+		O
+Chẳng	O	O
+còn	O	O
+gì	O	O
+ngoài	O	O
+những	O	O
+vật dụng	O	O
+bập bềnh	O	O
+,	O	O
+phao	O	O
+cứu sinh	O	O
+...	O	O
+và	O	O
+hàng	O	O
+mấy	O	O
+chục	O	O
+con người	O	O
+vật vờ	O	O
+dập dềnh	O	O
+trên	O	O
+sóng	O	O
+biển	O	O
+.	O	O
+		O
+Suốt	O	O
+mấy	O	O
+tiếng	O	O
+liên tục	O	O
+mới	O	O
+vớt	O	O
+hết	O	O
+60	O	O
+thuỷ thủ	O	O
+của	O	O
+chiếc	O	O
+tàu	O	O
+không	O	O
+may	O	O
+,	O	O
+tất cả	O	O
+mọi	O	O
+người	O	O
+đều	O	O
+quần áo	O	O
+tả tơi	O	O
+,	O	O
+người	O	O
+tím tái	O	O
+,	O	O
+cứng đờ	O	O
+...	O	O
+		O
+Hơn	O	O
+một	O	O
+ngày	O	O
+sau	O	O
+tàu	O	O
+cứu viện	O	O
+mới	O	O
+tới	O	O
+và	O	O
+phải	O	O
+mất	O	O
+thêm	O	O
+sáu	O	O
+ngày	O	O
+nữa	O	O
+những	O	O
+thuỷ thủ	O	O
+không	O	O
+may	O	O
+kia	O	O
+mới	O	O
+được	O	O
+đưa	O	O
+vào	O	O
+bờ	O	O
+tĩnh dưỡng	O	O
+.	O	O
+		O
+“	O	O
+Chậm	O	O
+thêm	O	O
+một chút	O	O
+chắc	O	O
+họ	O	O
+chẳng	O	O
+còn	O	O
+sức	O	O
+bám	O	O
+vào	O	O
+phao	O	O
+,	O	O
+sóng	O	O
+và	O	O
+gió	O	O
+hôm	O	O
+đó	O	O
+lớn	O	O
+lắm	O	O
+,	O	O
+tàu	O	O
+chúng tôi	O	O
+to	O	O
+hơn	O	O
+tàu	O	O
+họ	O	O
+mà	O	O
+còn	O	O
+chao đảo	O	O
+tròng trành	O	O
+liên tục	O	O
+”	O	O
+-	O	O
+Sơn	B-PER	O
+nhớ	O	O
+lại	O	O
+.	O	O
+		O
+Nếu	O	O
+Nam Ninh	B-LOC	O
+(	O	O
+tỉnh	B-LOC	O
+Quảng Tây	I-LOC	O
+)	O	O
+đang	O	O
+trở thành	O	O
+địa chỉ	O	O
+mua sắm	O	O
+giá	O	O
+rẻ	O	O
+cuốn hút	O	O
+khách	O	O
+du lịch	O	O
+từ	O	O
+khắp nơi	O	O
+trên	O	O
+thế giới	O	O
+với	O	O
+...	O	O
+“	O	O
+hàng hiệu	O	O
+siêu giả	O	O
+”	O	O
+thì	O	O
+Quảng Châu	B-LOC	O
+(	O	O
+tỉnh	B-LOC	O
+Quảng Đông	I-LOC	O
+)	O	O
+còn	O	O
+“	O	O
+hoành tráng	O	O
+”	O	O
+hơn	O	O
+vì	O	O
+được	O	O
+xem	O	O
+là	O	O
+chợ	O	O
+đồ	O	O
+nhái	O	O
+sầm uất	O	O
+nhất	O	O
+Trung Quốc	B-LOC	O
+.	O	O
+		O
+“	O	O
+Mình	O	O
+đang	O	O
+tính	O	O
+mở	O	O
+một	O	O
+cửa hiệu	O	O
+bán	O	O
+quà	O	O
+lưu niệm	O	O
+,	O	O
+giày dép	O	O
+,	O	O
+túi xách	O	O
+,	O	O
+áo quần	O	O
+như	O	O
+bà	O	O
+chị	O	O
+ở	O	O
+Hà Nội	B-LOC	B-LOC
+đang	O	O
+làm	O	O
+.	O	O
+		O
+Bà	O	O
+ấy	O	O
+toàn	O	O
+đánh	O	O
+hàng	O	O
+ở	O	O
+Quảng Châu	B-LOC	O
+nên	O	O
+bây giờ	O	O
+mình	O	O
+sang	O	O
+đấy	O	O
+xem	O	O
+hàng	O	O
+thế nào	O	O
+”	O	O
+,	O	O
+lời	O	O
+rủ rê	O	O
+của	O	O
+một	O	O
+người	O	O
+bạn	O	O
+đã	O	O
+đưa	O	O
+tôi	O	O
+đến	O	O
+chợ	B-LOC	O
+Quảng Châu	I-LOC	O
+.	O	O
+		O
+Lò	O	O
+sản xuất	O	O
+quần áo	O	O
+“	O	O
+liên hiệp quốc	O	O
+”	O	O
+		O
+Chu	B-PER	O
+Tiến	I-PER	O
+Minh	I-PER	O
+-	O	O
+người	B-MISC	O
+Trung Quốc	I-MISC	O
+nói	O	O
+tiếng	B-MISC	O
+Việt	I-MISC	O
+sõi	O	O
+như	O	O
+...	O	O
+người	B-MISC	O
+Việt	I-MISC	O
+-	O	O
+được	O	O
+một	O	O
+người	O	O
+bạn	O	O
+giới thiệu	O	O
+đưa	O	O
+chúng tôi	O	O
+dạo	O	O
+chợ	B-LOC	O
+Quảng Châu	I-LOC	O
+.	O	O
+		O
+Làm	O	O
+công việc	O	O
+đưa	O	O
+người	O	O
+từ	O	O
+VN	B-LOC	O
+sang	O	O
+đi	O	O
+mua	O	O
+hàng	O	O
+được	O	O
+bốn	O	O
+năm	O	O
+nay	O	O
+,	O	O
+khách	O	O
+của	O	O
+Minh	B-PER	O
+chủ yếu	O	O
+ở	O	O
+Hà Nội	B-LOC	B-LOC
+và	O	O
+TP.	B-LOC	O
+HCM	I-LOC	O
+.	O	O
+		O
+Nơi	O	O
+đầu tiên	O	O
+Minh	B-PER	O
+đưa	O	O
+chúng tôi	O	O
+đến	O	O
+là	O	O
+chợ	O	O
+quần áo	O	O
+Bạc Má	B-LOC	O
+,	O	O
+“	O	O
+chợ	O	O
+bán	O	O
+quần áo	O	O
+sầm uất	O	O
+nhất	O	O
+,	O	O
+đông	O	O
+khách	O	O
+nhất	O	O
+ở	O	O
+khu vực	O	O
+Đông Sơn	B-LOC	O
+của	O	O
+thành phố	B-LOC	O
+Quảng Châu	I-LOC	O
+”	O	O
+.	O	O
+		O
+Mới	O	O
+bước	O	O
+vào	O	O
+bên	O	O
+trong	O	O
+tôi	O	O
+đã	O	O
+...	O	O
+hết hồn	O	O
+:	O	O
+cửa hiệu	O	O
+san sát	O	O
+,	O	O
+quần áo	O	O
+treo	O	O
+la liệt	O	O
+.	O	O
+		O
+Dương	B-PER	O
+là	O	O
+một	O	O
+chủ	O	O
+cửa hàng	O	O
+lâu	O	O
+năm	O	O
+ở	O	O
+Hà Nội	B-LOC	B-LOC
+.	O	O
+		O
+Dương	B-PER	O
+cho	O	O
+biết	O	O
+:	O	O
+các	O	O
+chủ	O	O
+bên	O	O
+này	O	O
+chỉ	O	O
+việc	O	O
+ngồi	O	O
+nhà	O	O
+xem	O	O
+catalogue	O	O
+phía	O	O
+chủ	O	O
+bên	O	O
+kia	O	O
+(	O	O
+Trung Quốc	B-LOC	B-LOC
+)	O	O
+gửi	O	O
+sang	O	O
+,	O	O
+quyết định	O	O
+mẫu mã	O	O
+,	O	O
+muốn	O	O
+túi	O	O
+xiên	O	O
+thì	O	O
+xiên	O	O
+,	O	O
+túi	O	O
+chéo	O	O
+thì	O	O
+chéo	O	O
+,	O	O
+đính	O	O
+mác	O	O
+nào	O	O
+thì	O	O
+đính	O	O
+...	O	O
+		O
+Thông thường	O	O
+sau	O	O
+sáu	O	O
+ngày	O	O
+thì	O	O
+có	O	O
+hàng	O	O
+.	O	O
+		O
+Dương	B-PER	O
+cho	O	O
+hay	O	O
+“	O	O
+hàng	O	O
+siêu giả	O	O
+”	O	O
+vẫn	O	O
+có thể	O	O
+bị	O	O
+“	O	O
+đánh	O	O
+”	O	O
+vào	O	O
+trong	O	O
+các	O	O
+đại lý	O	O
+lớn	O	O
+và	O	O
+trộn	O	O
+lẫn	O	O
+với	O	O
+hàng	O	O
+thật	O	O
+.	O	O
+		O
+Các	O	O
+đại lý	O	O
+bán	O	O
+quần áo	O	O
+hay	O	O
+mỹ phẩm	O	O
+đều	O	O
+bày	O	O
+hàng	O	O
+theo	O	O
+kiểu	O	O
+nguyên	O	O
+cả	O	O
+một	O	O
+ngăn	O	O
+để	O	O
+tạo	O	O
+hiệu ứng	O	O
+tâm lý	O	O
+cho	O	O
+người	O	O
+mua	O	O
+,	O	O
+chỉ	O	O
+cần	O	O
+nhân viên	O	O
+bán	O	O
+hàng	O	O
+và	O	O
+quản lý	O	O
+thông đồng	O	O
+với	O	O
+nhau	O	O
+,	O	O
+trong	O	O
+chớp mắt	O	O
+“	O	O
+hàng	O	O
+siêu giả	O	O
+”	O	O
+sẽ	O	O
+bay	O	O
+vào	O	O
+nằm	O	O
+cạnh	O	O
+hàng	O	O
+thật	O	O
+.	O	O
+		O
+Đó	O	O
+là	O	O
+chưa	O	O
+kể	O	O
+đến	O	O
+chuyện	O	O
+có	O	O
+những	O	O
+chủ	O	O
+đại lý	O	O
+chủ trương	O	O
+trộn	O	O
+hàng	O	O
+nhái	O	O
+vào	O	O
+bán	O	O
+để	O	O
+giàu	O	O
+nhanh	O	O
+.	O	O
+		O
+Hàng	O	O
+nào	O	O
+tử tế	O	O
+thì	O	O
+độn	O	O
+một vài	O	O
+cái	O	O
+,	O	O
+hàng	O	O
+nào	O	O
+tham	O	O
+thì	O	O
+nhắm mắt	O	O
+cái	O	O
+gì	O	O
+cũng	O	O
+trộn	O	O
+,	O	O
+không	O	O
+biết đâu	O	O
+mà	O	O
+lường	O	O
+!	O	O
+		O
+Cầu thang	O	O
+cuốn	O	O
+đưa	O	O
+lên	O	O
+tầng	O	O
+một	O	O
+và	O	O
+quang cảnh	O	O
+“	O	O
+hoành tráng	O	O
+”	O	O
+hiện	O	O
+ra	O	O
+trước mắt	O	O
+:	O	O
+dọc	O	O
+hành lang	O	O
+đi	O	O
+chung	O	O
+,	O	O
+các	O	O
+cô	O	O
+bán	O	O
+hàng	O	O
+đứng	O	O
+tràn	O	O
+ra	O	O
+cả	O	O
+lối	O	O
+đi	O	O
+,	O	O
+âm thanh	O	O
+của	O	O
+tiếng	O	O
+gọi	O	O
+mời	O	O
+hỗn độn	O	O
+,	O	O
+trên	O	O
+người	O	O
+các	O	O
+cô	O	O
+là	O	O
+những	O	O
+bộ đồ	O	O
+đắt	O	O
+nhất	O	O
+của	O	O
+cửa hiệu	O	O
+mình	O	O
+.	O	O
+		O
+Ai	O	O
+đi	O	O
+qua	O	O
+cũng	O	O
+bị	O	O
+lôi	O	O
+tay	O	O
+mời	O	O
+nhìn	O	O
+,	O	O
+khách	O	O
+có thể	O	O
+nhìn	O	O
+các	O	O
+cô	O	O
+thoải mái	O	O
+,	O	O
+thậm chí	O	O
+...	O	O
+sờ	O	O
+luôn	O	O
+cả	O	O
+áo	O	O
+,	O	O
+váy	O	O
+.	O	O
+		O
+“	O	O
+Mua	O	O
+đi	O	O
+,	O	O
+veste	O	O
+này	O	O
+may	O	O
+kiểu	O	O
+mới	O	O
+nhất	O	O
+của	O	O
+Valentino	B-ORG	O
+đấy	O	O
+”	O	O
+-	O	O
+Minh	B-PER	O
+phiên dịch	O	O
+theo	O	O
+lời	O	O
+của	O	O
+cô	O	O
+bán	O	O
+hàng	O	O
+đứng	O	O
+làm	O	O
+mẫu	O	O
+.	O	O
+		O
+Gian hàng	O	O
+này	O	O
+chuyên	O	O
+bán	O	O
+đồ	O	O
+veste	O	O
+nữ	O	O
+(	O	O
+dạng	O	O
+công sở	O	O
+)	O	O
+,	O	O
+“	O	O
+người mẫu	O	O
+”	O	O
+đứng	O	O
+bán	O	O
+là	O	O
+ba	O	O
+cô	O	O
+gái	O	O
+ra sức	O	O
+quay	O	O
+tới	O	O
+quay	O	O
+lui	O	O
+làm dáng	O	O
+.	O	O
+		O
+Tôi	O	O
+lật	O	O
+thử	O	O
+bên	O	O
+trong	O	O
+thấy	O	O
+đường	O	O
+may	O	O
+rất	O	O
+sắc sảo	O	O
+,	O	O
+miếng	O	O
+vải	O	O
+lớp	O	O
+túi	O	O
+lót	O	O
+in	O	O
+mờ	O	O
+tên	O	O
+“	O	O
+Valentino	B-ORG	O
+”	O	O
+,	O	O
+các	O	O
+tem	O	O
+size	O	O
+,	O	O
+bảng	O	O
+hướng dẫn	O	O
+giặt	O	O
+,	O	O
+nút	O	O
+dự phòng	O	O
+...	O	O
+đều	O	O
+đầy đủ	O	O
+các	O	O
+đặc điểm	O	O
+mà	O	O
+thương hiệu	O	O
+này	O	O
+hay	O	O
+sử dụng	O	O
+.	O	O
+		O
+Đâu	O	O
+chỉ	O	O
+Valentino	B-ORG	O
+,	O	O
+từ	O	O
+các	O	O
+thương hiệu	O	O
+nổi tiếng	O	O
+như	O	O
+Mango	B-ORG	O
+,	O	O
+Milano	B-ORG	O
+,	O	O
+Versace	B-ORG	O
+...	O	O
+đến	O	O
+những	O	O
+thương hiệu	O	O
+nội địa	O	O
+đang	O	O
+nổi	O	O
+ở	O	O
+Trung Quốc	B-LOC	B-LOC
+đều	O	O
+có mặt	O	O
+ở	O	O
+chợ	O	O
+này	O	O
+.	O	O
+		O
+Tôi	O	O
+thừ	O	O
+người	O	O
+ra	O	O
+khi	O	O
+nhìn	O	O
+thấy	O	O
+cái	O	O
+áo	O	O
+sơmi	O	O
+hiệu	O	O
+Tommy	B-ORG	O
+treo	O	O
+trên	O	O
+giá	O	O
+,	O	O
+người	O	O
+bán	O	O
+ra	O	O
+giá	O	O
+chắc nịch	O	O
+:	O	O
+“	O	O
+Mua	O	O
+20	O	O
+cái	O	O
+trở lên	O	O
+60	O	O
+tệ	O	O
+/	O	O
+áo	O	O
+”	O	O
+(	O	O
+khoảng	O	O
+120.000	O	O
+đồng	O	O
+)	O	O
+,	O	O
+mua lẻ	O	O
+170	O	O
+tệ	O	O
+]	O	O
+áo	O	O
+”	O	O
+,	O	O
+trong	O	O
+khi	O	O
+ở	O	O
+Bắc Kinh	B-LOC	O
+cũng	O	O
+cái	O	O
+áo	O	O
+ấy	O	O
+trong	O	O
+cửa hàng	O	O
+hiệu	O	O
+là	O	O
+...	O	O
+350	O	O
+tệ	O	O
+/	O	O
+áo	O	O
+!	O	O
+		O
+Cả	O	O
+buổi	O	O
+sáng	O	O
+chúng tôi	O	O
+chỉ	O	O
+đi	O	O
+hết	O	O
+tầng	O	O
+một	O	O
+,	O	O
+mà	O	O
+phải	O	O
+bỏ	O	O
+bớt	O	O
+nhiều	O	O
+gian hàng	O	O
+vì	O	O
+không	O	O
+đủ	O	O
+sức	O	O
+.	O	O

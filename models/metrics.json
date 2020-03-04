@@ -1,0 +1,32 @@
+{
+  "overall_info": {
+    "number_of_tokens": 2627,
+    "number_of_correct_phrase": 0,
+    "number_of_guessed_phrase": 20,
+    "number_of_correct_guessed_phrase": 0,
+    "accuracy": 0.03806623524933384,
+    "precision": 0,
+    "recall": 0,
+    "f_measure": 0
+  },
+  "per_class": {
+    "constructor": {
+      "precision": 0,
+      "recall": 0,
+      "f_measure": 0,
+      "number_of_guessed_tokens": 0
+    },
+    "PER": {
+      "precision": 0,
+      "recall": 0,
+      "f_measure": 0,
+      "number_of_guessed_tokens": 11
+    },
+    "LOC": {
+      "precision": 0,
+      "recall": 0,
+      "f_measure": 0,
+      "number_of_guessed_tokens": 9
+    }
+  }
+}

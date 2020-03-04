@@ -1,0 +1,130 @@
+Em	N	O
+cần	V	O
+tìm	V	O
+xe	N	O
+ba gác	N	O
+chở	V	O
+và	C	O
+BÊ	N	O
+ĐỒ	N	O
+giúp	V	O
+em	N	O
+:	CH	O
+Điều hòa	N	O
+,	CH	O
+tủ	N	O
+vải	N	O
+tháo rời	N	O
+,	CH	O
+1	Np	O
+giá sách	V	O
+đến	E	O
+55	Np	B-LOC
+ngõ	N	I-LOC
+241	Np	I-LOC
+ngõ	N	B-LOC
+chợ	N	I-LOC
+khâm	N	I-LOC
+thiên	V	I-LOC
+.	CH	O
+
+89	Np	B-LOC
+khương	V	I-LOC
+đình	N	I-LOC
+đi	V	O
+35	Np	B-LOC
+nguyễn	V	I-LOC
+khả	V	I-LOC
+trạc	N	I-LOC
+.	CH	O
+Ứng	V	O
+1050k	Np	O
+.	CH	O
+Đi	V	O
+2	M	O
+chiều	N	O
+s	N	O
+50	Np	O
+.	CH	O
+
+Chiều	N	O
+đi	V	O
+giao	V	O
+trước	N	B-LOC
+4h	Np	I-LOC
+,	CH	O
+chiều	N	O
+về	E	O
+lúc nào	P	O
+cũng	R	O
+được	R	O
+.	CH	O
+Bác	N	O
+nào	P	O
+giúp	V	O
+e	V	O
+với	E	O
+0838261989	Np	B-PER
+
+từ	E	O
+ngõ	N	B-LOC
+Quan	Np	I-LOC
+Thổ	Np	I-LOC
+1	Np	I-LOC
+,	CH	O
+Tôn	Np	B-LOC
+Đức	Np	I-LOC
+Thắng	Np	I-LOC
+đi	V	O
+Phú	Np	B-LOC
+Đô	Np	I-LOC
+,	CH	O
+ứng	V	O
+390k	Np	O
+,	CH	O
+ship	N	O
+30k	Np	O
+,	CH	O
+khách	N	O
+nhận	V	O
+trong	E	O
+ngày	N	O
+.	CH	O
+
+Hàng	N	O
+nhỏ	A	O
+gọn	A	O
+lắm	R	O
+.	CH	O
+
+Ship	Np	O
+Chùm	Np	O
+30	M	O
+đơn	N	O
+,	CH	O
+từ	E	O
+Nguyễn	Np	B-LOC
+Trãi	Np	I-LOC
+đi	V	O
+loanh quanh	V	O
+nội thành	N	O
+.	CH	O
+25k	Np	O
+/	CH	O
+đơn	N	O
+,	CH	O
+giao	V	O
+hết	V	O
+trong	E	O
+chiều nay	N	O
+.	CH	O
+
+Số	N	B-LOC
+2	M	I-LOC
+ngõ	N	B-LOC
+29	Np	I-LOC
+phố	N	B-LOC
+dịch	N	I-LOC
+vọng	V	I-LOC
+đi	V	O
+
