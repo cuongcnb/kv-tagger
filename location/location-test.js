@@ -14,7 +14,7 @@ const template = [
     'T[-2][1]', 'T[-1][1]', 'T[0][1]', 'T[1][1]', 'T[2][1]',
     'T[-2,-1][1]', 'T[-1,0][1]', 'T[0,1][1]', 'T[1,2][1]',
     // # ner
-    // 'T[-3][3]', 'T[-2][3]', 'T[-1][3]',
+    'T[-3][3]', 'T[-2][3]', 'T[-1][3]',
 ];
 
 const tagger = new Tagger();
@@ -36,3 +36,8 @@ const r = entities.reduce((res, entity) => {
     return res;
 }, {});
 console.log(r);
+
+// let newNER = vntk.ner(path.join(__dirname, '../models/location.bin'));
+// let text = 'Em chào chị Nguyen Thuy Dung ạ.\nHiện tại KiotViet đã có chi nhánh ở khu đô thị Văn phú. Không biết chị đang cần hỗ trợ vấn đề gì để em báo chuyên viên hỗ trợ cho chị luôn ạ.';
+// let tags = newNER.tag(text);
+// console.log('New model:', tags);

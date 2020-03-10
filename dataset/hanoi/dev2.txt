@@ -20,7 +20,7 @@ tháo rời	N	O
 giá sách	V	O
 đến	E	O
 55	Np	B-LOC
-ngõ	N	O
+ngõ	N	I-LOC
 241	Np	I-LOC
 ngõ	N	I-LOC
 chợ	N	O
