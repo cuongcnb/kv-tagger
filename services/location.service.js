@@ -16,11 +16,11 @@ exports.predict = (sentence) => {
     const nerTags = tagger.tag(feats);
     const zipTokens = posTags.map((tagged, i) => [tagged[0], tagged[1], nerTags[i]]);
 
-    console.log(zipTokens);
+    // console.log(zipTokens);
 
     const tokens = zipTokens.map((tagged) => [tagged[0], tagged[2]]);
     const entities = iob.matchEntities(tokens);
-    console.log(JSON.stringify(entities));
+    // console.log(JSON.stringify(entities));
 
     const loc = [];
 
