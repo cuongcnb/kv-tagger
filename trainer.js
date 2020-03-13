@@ -3,6 +3,7 @@ const path = require('path');
 const crfsuite = require('crfsuite');
 const iobParser = require('./lib/iob');
 const features = require('./lib/features');
+const { FEATURES_TEMPLATE } = require('./constant');
 
 /**
  * Trainer engine for @vntk/tagger
@@ -52,18 +53,7 @@ class Trainer {
             'T[-3][3]', 'T[-2][3]', 'T[-1][3]',
         ]; */
 
-        return [
-            'T[-2].lower', 'T[-1].lower', 'T[0].lower', 'T[1].lower', 'T[2].lower',
-            'T[0].istitle', 'T[-1].istitle', 'T[1].istitle', 'T[-2].istitle', 'T[2].istitle',
-            // # word unigram and bigram
-            'T[-2]', 'T[-1]', 'T[0]', 'T[1]', 'T[2]',
-            'T[-2,-1]', 'T[-1,0]', 'T[0,1]', 'T[1,2]',
-            // # pos unigram and bigram
-            'T[-2][1]', 'T[-1][1]', 'T[0][1]', 'T[1][1]', 'T[2][1]',
-            'T[-2,-1][1]', 'T[-1,0][1]', 'T[0,1][1]', 'T[1,2][1]',
-            // # ner
-            // 'T[-3][3]', 'T[-2][3]', 'T[-1][3]',
-          ];
+        return FEATURES_TEMPLATE;
     }
 
     /**
@@ -105,7 +95,7 @@ class Trainer {
 
         this.trainer.train(model_filename);
         console.log('Training done!, saved model to', model_filename);
-        
+
         // write training info to text
         console.log('Training with info: ', this.options);
     }

@@ -20,7 +20,7 @@ const template = [
 const tagger = new Tagger();
 
 let modelFileName = path.join(__dirname, '../models/location.bin');
-let sentence = 'Em chào chị Nguyen Thuy Dung ạ.\nHiện tại KiotViet đã có chi nhánh ở Thành phố Vinh. Không biết chị đang cần hỗ trợ vấn đề gì để em báo chuyên viên hỗ trợ cho chị luôn ạ.';
+let sentence = 'Tôi ở khu đô thị văn phú';
 const posTags = vntk.posTag().tag(sentence);
 const feats = posTags.map((token, i) => featEx.word2features(posTags, i, template));
 tagger.open(modelFileName);
