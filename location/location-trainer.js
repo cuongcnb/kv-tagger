@@ -10,5 +10,5 @@ const trainer = new Trainer({
 });
 
 let newModelPath = path.join(__dirname, '../models/location.bin');
-trainer.loadFiles(path.join(__dirname, '../dataset/hanoi/dev2.txt'));
+trainer.loadFiles(path.join(__dirname, '../dataset/hanoi/location-train.txt'));
 trainer.train(newModelPath);
