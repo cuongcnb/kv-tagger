@@ -64,3 +64,4 @@ log*.txt
 _*
 test/models
 package-lock.json
+.vscode/

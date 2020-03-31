@@ -1,6 +1,15 @@
-raw-fb-01.txt -> postag-fb-01.txt (raw-to-iob.js)
-postag-fb-01.txt -> rawpostag-fb-01.txt (iob2raw.js)
-rawpostag-fb-01.txt -> *.tsv (dataturks)
-*.tsv -> train-part-xx.txt (file train ) -> Chưa có hàm xử lý
-Ghép vào file location-train.txt (copy tay)
-Chạy lênh train: node .\location\location-trainer.js
+
+Create postag file (IOB format) from raw file
+```
+node .\pretrain\sentence-to-postag.js
+```
+
+Create dataturks input file from postag file
+```
+node .\pretrain\postag-to-sentence.js
+```
+
+Create train file from tsv file
+```
+node .\pretrain\dataturks-to-iob.js
+```

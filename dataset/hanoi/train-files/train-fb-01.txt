@@ -1,0 +1,1739 @@
+dạ	N	O
+bên	N	O
+e	N	O
+chưa	R	O
+giao	V	O
+đến	E	O
+vĩnh lộc	N	B-LOC
+được	R	O
+vì	E	O
+xa	A	O
+quá	R	O
+ạ	T	O
+
+Ship	N	O
+nội thành	N	O
+Hà Nội	Np	B-LOC
+25k	Np	O
+ạ	T	O
+
+Shop	Np	O
+ship	V	O
+COD	N	O
+toàn quốc	N	O
+là	V	O
+30k	Np	O
+
+Mình	P	O
+ở	E	O
+ksan	N	O
+chỗ	N	O
+Yên Phụ	Np	B-LOC
+thì	C	O
+đến	V	O
+cơ	V	O
+sơ	N	O
+nào	P	O
+của	E	O
+shop	N	O
+sẽ	R	O
+gần	A	O
+hơn	A	O
+nhỉ	T	O
+?	CH	O
+
+207	N	O
+Nguyễn	Np	O
+Văn	Np	O
+Trỗi	Np	O
+
+Dạ	N	O
+chị	Nc	O
+cho	V	O
+shop	V	O
+xin	V	O
+TÊN	N	O
++	V	O
+ĐỊA CHỈ	N	O
+đầy đủ	A	O
+(	CH	O
+đường	N	O
+
+Ship	N	O
+luôn	R	O
+đđc	V	O
+k	N	O
+shop	M	O
+
+Phương	Np	O
+Thi	Np	O
+Tran	Np	O
+
+Trần	Np	O
+Thị	Np	O
+Hậu	Np	O
+
+(	CH	O
++	N	O
+84	Np	O
+)	CH	O
+968404854	Np	O
+
+Cty	Np	B-LOC
+royal	V	I-LOC
+alliance	N	I-LOC
+vina	V	I-LOC
+đường	N	I-LOC
+số	N	I-LOC
+8	M	I-LOC
+kcn	N	I-LOC
+trảng bàng	N	I-LOC
+tây ninh	M	I-LOC
+
+Em	N	O
+chào	V	O
+chị	Nc	O
+Nguyen	Np	O
+Thuy	Np	O
+Dung	Np	O
+ạ	T	O
+.	CH	O
+
+Hiện tại	N	O
+KiotViet	N	O
+đã	R	O
+có	V	O
+chi nhánh	N	O
+ở	E	O
+Thành phố	N	B-LOC
+Vinh	Np	I-LOC
+.	CH	O
+Không	R	O
+biết	V	O
+chị	Nc	O
+đang	R	O
+cần	V	O
+hỗ trợ	V	O
+vấn đề	N	O
+gì	P	O
+để	E	O
+em	N	O
+báo	V	O
+chuyên viên	N	O
+hỗ trợ	V	O
+cho	E	O
+chị	Nc	O
+luôn	R	O
+ạ	T	O
+.	CH	O
+
+NGUYỄN	N	O
+THỊ	V	O
+MỸ	N	O
+CHI	V	O
+0933	Np	O
+340	Np	O
+713	Np	O
+
+CÔNG	N	B-LOC
+TY	N	I-LOC
+CP	V	I-LOC
+BAO BÌ	N	I-LOC
+TÍN	V	I-LOC
+THÀNH	N	I-LOC
+.	CH	O
+LÔ	N	B-LOC
+C12	Np	I-LOC
+CỤM	N	I-LOC
+CN	Ny	I-LOC
+NHỰA	N	I-LOC
+ĐỨC	N	I-LOC
+HÒA	M	I-LOC
+
+Ngọc	N	O
+huyền	N	O
+0916695340	Np	O
+
+304	N	B-LOC
+cây	Nc	I-LOC
+trâm	N	I-LOC
+p9	V	I-LOC
+go	N	I-LOC
+̀	V	I-LOC
+tp	N	I-LOC
+hcm	M	I-LOC
+
+chị	Nc	O
+đặt hàng	V	O
+cho	E	O
+em	N	O
+xin	V	O
+thông tin	N	O
+:	CH	O
+tên	N	O
++	V	O
+sđt	N	O
++	V	O
+địa chỉ	N	O
+cụ thể	A	O
+chị	Nc	O
+nhé	T	O
+
+Giá	N	O
+quấn	V	O
+bn	N	O
+ạ	I	O
+?	CH	O
+Ship	Np	O
+Hạ Long	Np	B-LOC
+thì	C	O
+bao nhiêu	P	O
+ạ	I	O
+?	CH	O
+
+Bao nhiêu	P	O
+tiền	N	O
+1	Np	O
+đôi	M	O
+ạ	I	O
+?	CH	O
+Ship	Np	O
+về	E	O
+Lập	Np	B-LOC
+Thạch vĩnh phúc	V	I-LOC
+bao nhiêu	P	O
+ạ	I	O
+?	CH	O
+
+Phạm	Np	O
+thị	V	O
+tố	N	O
+nga	V	O
+văn phòng	N	B-LOC
+huyện ủy	V	I-LOC
+xuyên mộc	N	I-LOC
+huyện	N	I-LOC
+xuyên mộc	V	I-LOC
+bà rịa	N	I-LOC
+vũng tàu	N	I-LOC
+0906968066	Np	O
+
+Pu	Np	O
+Luong	Np	O
+Eco	Np	O
+Garden	Np	O
+
+474	Np	B-LOC
+/	CH	I-LOC
+11	M	I-LOC
+nguyễn	N	I-LOC
+tri	V	I-LOC
+phuong	N	I-LOC
+p9q10	M	I-LOC
+
+Dạ	Np	O
+hóa	V	O
+đơn	N	O
+của	E	O
+anh chị	Nc	O
+đã	R	O
+được	V	O
+chuyển	V	O
+lên	V	O
+cơ sở	N	B-LOC
+Quán Thánh	Np	I-LOC
+ạ	T	O
+.	CH	O
+
+Nếu	C	O
+có	V	O
+thắc mắc	V	O
+hoặc	C	O
+thay đổi	V	O
+về	R	O
+đơn hàng	V	O
+anh chị	Nc	O
+vui lòng	N	O
+Liên hệ	V	O
+Hotline	Np	O
+:	CH	O
+024.665.665.65	N	O
+để	E	O
+được	V	O
+giải đáp	V	O
+ạ	T	O
+.	CH	O
+
+Anh chị	Nc	O
+vui lòng	V	O
+giữ lại	N	O
+hóa	V	O
+đơn	N	O
+và	C	O
+sản phẩm	N	O
+để	E	O
+được	V	O
+hỗ trợ	V	O
+đổi	V	O
+trả	V	O
+trong vòng	N	O
+24h	Np	O
+.	CH	O
+
+Em	N	O
+cảm ơn	V	O
+ạ	T	O
+
+Ngô	Np	O
+Thị	Np	O
+Mỹ	Np	O
+Phương	Np	O
+
+0989	Np	O
+381	Np	O
+830	Np	O
+
+Khu	N	B-LOC
+staffhouse	V	I-LOC
+cty	N	I-LOC
+FLC	N	I-LOC
+Qui	Np	I-LOC
+Nhơn	Np	I-LOC
+
+dạ	N	O
+nhà	N	O
+mình	P	O
+có	V	O
+quen	V	O
+xe khách	N	O
+nào	P	O
+từ	E	O
+hn	N	B-LOC
+về	E	O
+hưng	N	B-LOC
+yên	A	I-LOC
+ko	T	O
+ạ	T	O
+?	CH	O
+
+0903451971	Np	O
+/	CH	O
+chị	Nc	O
+Liên	Np	O
+
+Công ty	N	O
+thiết kế	V	O
+ADCI	V	O
+/	CH	O
+ngõ	N	O
+81	Np	O
+
+Ship	N	O
+sau	N	O
+3h	Np	O
+chiều	N	O
+đến	E	O
+đchi	N	O
+gốc	N	B-LOC
+đề	N	I-LOC
+giúp	V	O
+mình	P	O
+
+mình	P	O
+vừa	R	O
+gửi	V	O
+bạn	N	O
+địa chỉ	N	O
+và	C	O
+sđt	N	O
+của	E	O
+shop	M	O
+
+.	CH	O
+shop	N	O
+ơi	I	O
+anh	Nc	O
+shiper	V	O
+ở	E	O
+lạng	N	B-LOC
+sơn	V	I-LOC
+đúng	A	O
+hông	N	O
+ạ	T	O
+
+park	N	B-LOC
+2	M	I-LOC
+timescity	N	I-LOC
+nhé	T	O
+ạ	T	O
+sdt	N	O
+0988390989	Np	O
+
+CN	N	O
+1	Np	O
+Tổng	Np	O
+:	CH	O
+333B	N	B-LOC
+Minh	Np	I-LOC
+Phụng	Np	I-LOC
+
+shop	N	O
+ở	E	O
+tphcm	N	B-LOC
+nhé	T	O
+chị	Nc	O
+
+Ship	Np	O
+trong	E	O
+tphcm	N	B-LOC
+là	V	O
+bn	N	O
+ạ	T	O
+
+em	N	O
+cần	V	O
+anh	Nc	O
+tư vấn	V	O
+về	E	O
+khóa	N	O
+học	V	O
+
+Ship	Np	O
+về	V	O
+đl	V	O
+bao nhiêu	P	O
+v	N	O
+ạ	T	O
+
+vậy	P	O
+chắc	A	O
+có	V	O
+dịp	N	O
+đi	V	O
+sg	V	O
+mới	R	O
+được	V	O
+ăn	V	O
+huhu	M	O
+
+Số	N	B-LOC
+2/2	N	I-LOC
+Ngõ	Np	I-LOC
+84	Np	I-LOC
+Trần Quang	Np	I-LOC
+Diệu	Np	I-LOC
+
+Tý	Np	O
+mình	P	O
+qua	V	O
+108	Np	O
+trao đổi	V	O
+nhé	T	O
+
+26	Np	B-LOC
+mai	N	I-LOC
+chí	V	I-LOC
+thọ	N	I-LOC
+
+FB	N	O
+Minh	Np	O
+H	Np	O
+Do	Np	O
+
+tới	E	O
+địa chỉ	N	O
+Nhà vườn	N	B-LOC
+14	Np	I-LOC
+-	CH	I-LOC
+hapulico	M	I-LOC
+
+em	N	O
+ở	E	O
+Q8	Np	O
+học	V	O
+tại	E	O
+HCM	N	B-LOC
+hay	C	O
+Bình Dương	Np	B-LOC
+thuận tiện	V	O
+cho	E	O
+em	N	O
+nhỉ	T	O
+
+Shop	N	O
+ở	E	O
+số	N	B-LOC
+3	M	I-LOC
+Lê	Np	I-LOC
+Thanh	Np	I-LOC
+Nghị	Np	I-LOC
+-	CH	I-LOC
+TP	N	I-LOC
+Hải Dương	Np	I-LOC
+b	V	O
+nhé	T	O
+
+Hà Nội	Np	B-LOC
+shop	A	O
+có	V	O
+KHO	N	O
+HÀNG	N	O
+ở	E	O
+số	N	B-LOC
+26	M	I-LOC
+ngõ	N	I-LOC
+162	Np	I-LOC
+/	CH	I-LOC
+29	Np	I-LOC
+Lê	Np	I-LOC
+Trọng	Np	I-LOC
+Tấn	Np	I-LOC
+-	CH	I-LOC
+Thanh Xuân	Np	I-LOC
+ạ	T	O
+
+C6	Np	O
+/	CH	O
+1	M	O
+lê	N	O
+đình	N	O
+chi	P	O
+ấp	N	B-LOC
+3	Np	I-LOC
+Lmx	Np	I-LOC
+bình	N	I-LOC
+chanhd	M	I-LOC
+
+134	Np	B-LOC
+/	CH	I-LOC
+1/1	N	I-LOC
+A	Ny	I-LOC
+tân sơn	N	I-LOC
+nhì	M	I-LOC
+
+dạ	N	O
+phí	N	O
+ship	N	O
+q8	V	O
+tầm	N	O
+20-25	N	O
+k	V	O
+a	N	O
+nhé	T	O
+
+bưu điện	N	B-LOC
+Tổ	Np	I-LOC
+2	M	I-LOC
+thị trấn	N	I-LOC
+vị xuyên	N	I-LOC
+huyện	N	I-LOC
+vị xuyên	N	I-LOC
+tỉnh	N	I-LOC
+Hà	Np	I-LOC
+Giang	Np	I-LOC
+
+0774278981	Np	O
+
+324	Np	B-LOC
+phạm	V	I-LOC
+hùng	A	I-LOC
+f5	N	I-LOC
+q8	M	I-LOC
+
+Đinh	Np	O
+Thị	Np	O
+Quế	Np	O
+.	CH	O
+C ông ty	N	B-LOC
+Hải	Np	I-LOC
+Thịnh	Np	I-LOC
+.	CH	O
+Kcn	Np	B-LOC
+Đông	Np	I-LOC
+Thọ	Np	I-LOC
+
+Phường	N	B-LOC
+thủy	V	I-LOC
+dương	N	I-LOC
+
+bạn	N	O
+ship	N	O
+tỉnh	N	O
+hay	C	O
+nội thành	N	O
+Hà Nội	Np	B-LOC
+ạ	I	O
+?	CH	O
+
+Shop	N	O
+ở	E	O
+số	N	B-LOC
+3	M	I-LOC
+Lê	Np	I-LOC
+Thanh	Np	I-LOC
+Nghị	Np	I-LOC
+-	CH	I-LOC
+TP	N	I-LOC
+Hải Dương	Np	I-LOC
+b	V	O
+nhé	T	O
+
+Hà Nội	Np	B-LOC
+shop	A	O
+có	V	O
+KHO	N	O
+HÀNG	N	O
+ở	E	O
+số	N	B-LOC
+26	M	I-LOC
+ngõ	N	I-LOC
+162	Np	I-LOC
+/	CH	I-LOC
+29	Np	I-LOC
+Lê	Np	I-LOC
+Trọng	Np	I-LOC
+Tấn	Np	I-LOC
+-	CH	I-LOC
+Thanh Xuân	Np	I-LOC
+ạ	T	O
+
+Tòa	N	B-LOC
+nhà	N	I-LOC
+golden	N	I-LOC
+Palace	Np	I-LOC
+
+Giao	V	O
+số	N	B-LOC
+2a	Np	I-LOC
+Phùng	Np	I-LOC
+Khắc	Np	I-LOC
+Khoan	Np	I-LOC
+
+Tp	N	B-LOC
+huế	M	I-LOC
+
+shop	N	O
+e	V	O
+là	V	O
+ở	E	O
+102	Np	B-LOC
+đường	N	I-LOC
+nguyễn	V	I-LOC
+gia	N	I-LOC
+trí	M	I-LOC
+
+C	N	O
+qua	V	O
+phạm	N	B-LOC
+ngọc thạch	M	I-LOC
+
+Dạ	Np	O
+cần	V	O
+hộ	V	O
+trợ	V	O
+thêm	V	O
+thông tin	N	O
+gì	P	O
+mình	P	O
+cứ	R	O
+ib	V	O
+cho	E	O
+shop	V	O
+bạn	N	O
+nhé	T	O
+.	CH	O
+!	CH	O
+
+Địa	Np	O
+Chỉ	Np	O
+Shop	Np	O
+:	CH	O
+
+CN	N	O
+1	Np	O
+Tổng	Np	O
+:	CH	O
+333B	N	B-LOC
+Minh	Np	I-LOC
+Phụng	Np	I-LOC
+
+Nguyễn	Np	O
+Phước	Np	O
+Hải	Np	O
+số	N	B-LOC
+nhà	N	I-LOC
+15	M	I-LOC
+ngõ	N	I-LOC
+45	Np	I-LOC
+đường	N	I-LOC
+Xuân Thái	Np	I-LOC
+
+Số	N	B-LOC
+424	N	I-LOC
+phạm	N	I-LOC
+văn	N	I-LOC
+bạch	N	I-LOC
+p15	N	I-LOC
+quận	N	I-LOC
+tân bình	M	I-LOC
+
+144	Np	B-LOC
+/	CH	I-LOC
+9	Np	I-LOC
+ngô	V	I-LOC
+gia	N	I-LOC
+khảm	V	I-LOC
+tp	N	I-LOC
+playku	V	I-LOC
+gia	N	I-LOC
+lai	A	I-LOC
+
+Ship	M	O
+hộ	N	O
+chị	Nc	O
+đến	V	O
+địa chỉ	N	O
+:	CH	O
+
+Bể bơi	N	B-LOC
+La	Np	I-LOC
+Khê	Np	I-LOC
+
+Địa chỉ	N	O
+ấp	N	B-LOC
+bàu	N	I-LOC
+cây	N	I-LOC
+cám	N	I-LOC
+xã	N	I-LOC
+thanh an	N	I-LOC
+huyện	N	I-LOC
+dầu	N	I-LOC
+tiếng	N	I-LOC
+tỉnh	N	I-LOC
+bình dương	M	I-LOC
+
+Dạ	N	O
+ship	N	O
+Thanh Hoá	Np	B-LOC
+33k	Np	O
+ạ	T	O
+
+292	Np	B-LOC
+bùi	V	I-LOC
+công trừng	N	I-LOC
+xã	N	I-LOC
+nhị	V	I-LOC
+bình	N	I-LOC
+huyện	N	I-LOC
+hóc	V	I-LOC
+môn	N	I-LOC
+
+293tổ8	Np	B-LOC
+ấp4	V	I-LOC
+sông trầu	N	I-LOC
+trảng bom	M	I-LOC
+
+đồng	N	B-LOC
+nai	M	I-LOC
+
+Chao	Np	O
+Nguyễn	Np	O
+Nguyễn	Np	O
+Chung	Np	O
+toi	V	O
+se	N	O
+tra	V	O
+loi	N	O
+ban	N	O
+trong	E	O
+thoi	N	O
+gian	N	O
+som	V	O
+nhat	N	O
+!	CH	O
+Cam	Np	O
+on	V	O
+ban	N	O
+!	CH	O
+
+DIEMFASHION	N	O
+(	CH	O
+Quan	Np	O
+Ao	Np	O
+)	CH	O
+
+68C	N	B-LOC
+Ton	Np	I-LOC
+Duc	Np	I-LOC
+Thang	Np	I-LOC
+
+xã	N	B-LOC
+bình sơn	N	I-LOC
+hay	C	I-LOC
+xã	N	I-LOC
+bình đông	V	I-LOC
+ạ	T	O
+
+Nha	Np	O
+toi	V	O
+o	Nc	O
+q12	N	O
+vay	V	O
+co	V	O
+dc	N	O
+k	V	O
+.	CH	O
+u	V	O
+toi	N	O
+chi	P	O
+co	V	O
+cm	N	O
++	V	O
+hk	N	O
+thoi	M	O
+
+Ship	N	O
+tới	E	O
+vietinbank	N	B-LOC
+-	CH	I-LOC
+183	Np	I-LOC
+nguyễn	V	I-LOC
+lương	N	I-LOC
+bằng	E	I-LOC
+luôn	R	O
+nha	T	O
+
+BCP	N	B-LOC
+Phú	Np	I-LOC
+Quốc	Np	I-LOC
+1	M	I-LOC
+-	CH	I-LOC
+Kiên Giang	Np	I-LOC
+
+Sô	N	B-LOC
+´	N	I-LOC
+10	M	I-LOC
+
+số	N	O
+mấy	L	O
+Nguyễn	Np	B-LOC
+Phan	Np	I-LOC
+Vinh	Np	I-LOC
+vậy	T	O
+e	M	O
+
+Họ	P	O
+tên	N	O
+:	CH	O
+Ngọc	Np	O
+Huỳnh	Np	O
+
+SĐT	N	O
+:	CH	O
+0948737732	Np	O
+
+Địa chỉ	N	O
+:	CH	O
+284	Np	O
+
+Một	M	O
+la	N	O
+Hưng	Np	B-LOC
+yên	A	I-LOC
+hai	M	O
+la	N	O
+phú	V	B-LOC
+thọ	N	I-LOC
+đều	R	O
+ơ	V	O
+thi xã	N	O
+a	N	O
+ak	M	O
+
+bạn	N	O
+giao	V	O
+cho	E	O
+mình	P	O
+qua	V	O
+địa chỉ	N	O
+68	Np	B-LOC
+Tây Sơn	Np	I-LOC
+nha	I	O
+(	CH	O
+Ngân hàng	N	O
+SCB	N	O
+)	CH	O
+
+Nếu	C	O
+tiện	V	O
+đường	N	O
+b	V	O
+qua	E	O
+tòa	N	B-LOC
+PVI	M	I-LOC
+
+CN	N	O
+3	M	O
+:	CH	O
+297	Np	B-LOC
+Quang Trung	Np	I-LOC
+
+Kim ngân	M	O
+
+Ủy	N	B-LOC
+ban	N	I-LOC
+xã	N	I-LOC
+Bạch Đích	Np	I-LOC
+
+H uyện	N	B-LOC
+Yên Minh	Np	I-LOC
+
+Tỉnh	N	B-LOC
+Hà	Np	I-LOC
+Giang	Np	I-LOC
+
+Sdt	Np	O
+0367789229	Np	O
+
+Ship	Np	O
+từ	E	O
+hnoi	N	O
+đến	E	O
+cần thơ	N	B-LOC
+30k	Np	O
+phải	V	O
+ko	V	O
+
+Trương	Np	O
+văn công	V	O
+c1d17	N	B-LOC
+sư đoàn	N	I-LOC
+2	M	I-LOC
+xã	N	I-LOC
+thành an	N	I-LOC
+tx	V	I-LOC
+an khê	N	I-LOC
+tỉnh	N	I-LOC
+gia	V	I-LOC
+lai	A	I-LOC
+
+mình	P	O
+ở	E	O
+nha	M	B-LOC
+trang	N	I-LOC
+
+Showroom	N	O
+1	M	O
+:	CH	O
+118	Np	B-LOC
+Lê	Np	I-LOC
+Thanh	Np	I-LOC
+Nghị	Np	I-LOC
+-	CH	I-LOC
+bách khoa	N	I-LOC
+-	CH	O
+Hà Nội	Np	B-LOC
+(	CH	O
+Mở cửa	V	O
+8h	Np	O
+-	CH	O
+21h	Np	O
+.	CH	O
+)	CH	O
+-	CH	O
+SĐT	N	O
+0978533883	Np	O
+
+Showroom	Np	O
+2	Np	O
+:	CH	O
+103	Np	B-LOC
+Lương	Np	I-LOC
+Thế	Np	I-LOC
+Vinh	Np	I-LOC
+-	CH	I-LOC
+Nam	Np	I-LOC
+Từ Liêm	Np	I-LOC
+-	CH	O
+Hà Nội	Np	B-LOC
+(	CH	O
+Mở cửa	V	O
+8h	Np	O
+-	CH	O
+21h	Np	O
+.	CH	O
+)	CH	O
+SĐT	N	O
+0869953296	Np	O
+
+Hỗ trợ	V	O
+kỹ thuật	N	O
+:	CH	O
+0888888459	Np	O
+/	CH	O
+0989310550	Np	O
+
+0983137759	Np	O
+
+51	N	B-LOC
+ngõ	N	I-LOC
+10	Np	I-LOC
+Hùng	Np	I-LOC
+duệ	V	I-LOC
+vương	N	I-LOC
+thượng lý	V	I-LOC
+hồng	N	I-LOC
+bàng	N	I-LOC
+hải phòng	M	I-LOC
+
+Ngày	N	O
+m7	M	O
+e	V	O
+vào	E	O
+sg	M	O
+
+Em	N	O
+ở	V	O
+HN	M	B-LOC
+
+ship	N	O
+Q7	Np	B-LOC
+bao nhiêu	P	O
+ạ	I	O
+?	CH	O
+
+Kim	Np	O
+liên	Z	O
+023	Np	B-LOC
+hoàng lan	V	I-LOC
+bắc cường	N	I-LOC
+lào	N	I-LOC
+cai	V	I-LOC
+.	CH	O
+0944836577	Np	O
+
+Dạ	Np	O
+cần	V	O
+hộ	V	O
+trợ	V	O
+thêm	V	O
+thông tin	N	O
+gì	P	O
+mình	P	O
+cứ	R	O
+ib	V	O
+cho	E	O
+shop	V	O
+bạn	N	O
+nhé	T	O
+.	CH	O
+!	CH	O
+
+Địa	Np	O
+Chỉ	Np	O
+Shop	Np	O
+:	CH	O
+
+CN	N	O
+1	Np	O
+Tổng	Np	O
+:	CH	O
+333B	N	B-LOC
+Minh	Np	I-LOC
+Phụng	Np	I-LOC
+
+Lường	Np	O
+thị	V	O
+khuê	N	O
+trường	N	O
+mn	N	O
+hoa hồng	N	O
+
+Tới số	N	O
+6	M	B-LOC
+ngõ	N	I-LOC
+pct	M	I-LOC
+
+Số	N	O
+1	M	B-LOC
+lương	N	I-LOC
+yên	A	I-LOC
+
+Địa chỉ	N	O
+470	Np	B-LOC
+đường	N	I-LOC
+láng	M	I-LOC
+
+Để	E	O
+mk	V	O
+qua	V	O
+299	Np	B-LOC
+quang trung	V	I-LOC
+lấy	V	O
+ạ	T	O
+
+ở	E	O
+nguyễn	N	B-LOC
+đức	V	I-LOC
+cảnh	N	I-LOC
+có	V	O
+mẫu	N	O
+này	P	O
+ko	N	O
+ah	M	O
+m	Nu	O
+muốn	V	O
+đến	V	O
+trực tiếp	A	O
+shop	V	O
+xem	V	O
+hàng	N	O
+
+HOA	N	O
+QUẢ	T	O
+ƯU	N	O
+ĐÀM	M	O
+
+Địa chỉ	N	O
+:	CH	O
+P103	Np	B-LOC
+C4	Np	I-LOC
+(	CH	O
+Ngõ	N	B-LOC
+46C	N	I-LOC
+Phạm	Np	I-LOC
+Ngọc	Np	I-LOC
+
+Thạch	Np	O
+)	CH	O
+
+Điện thoại	N	O
+:	CH	O
+02456789555	Np	O
+
+Ngày	N	O
+bán	V	O
+:	CH	O
+04/10/2019	N	O
+10	M	O
+:	CH	O
+04	Np	O
+
+HOÁ ĐƠN	N	O
+ĐẶT HÀNG	M	O
+
+DH016676	M	O
+
+Khách hàng	N	O
+:	CH	O
+Ngoc	Np	O
+Bich	Np	O
+Nguyen	Np	O
+
+Địa chỉ	N	O
+:	CH	O
+MSB	N	B-LOC
+Vincom	Np	I-LOC
+NCT	M	I-LOC
+-	CH	I-LOC
+54A	N	I-LOC
+Nguyễn	Np	I-LOC
+
+Chí	Np	O
+Thanh	Np	O
+
+Điện thoại	N	O
+:	CH	O
+0932619255	Np	O
+
+Người	Nc	O
+bán	V	O
+:	CH	O
+Ngọc	Np	O
+Huyền	Np	O
+
+Người	Nc	O
+giao	V	O
+hàng	N	O
+:	CH	O
+
+Thời gian	N	O
+giao	V	O
+hàng	N	O
+:	CH	O
+
+Ghi chú	N	O
+:	CH	O
+Trc	Np	O
+11h30	Np	O
+
+Tên	N	O
+hàng	N	O
+SL	N	O
+Đơn	Np	O
+
+giá	N	O
+
+Thành	Np	O
+
+tiền	N	O
+
+Kiwi	Np	O
+Vàng	Np	O
+Thùng	Np	O
+
+25Q	M	O
+-	CH	O
+(	CH	O
+Thùng	Np	O
+)	CH	O
+1	Np	O
+399	Np	O
+
+♚	N	O
+:	CH	O
+Địa chỉ	N	O
+:	CH	O
+Liền	Np	B-LOC
+kề	V	I-LOC
+15	M	I-LOC
+ngõ	N	I-LOC
+2	M	I-LOC
+Nguyễn	Np	I-LOC
+Văn	Np	I-LOC
+Lộc	Np	I-LOC
+-	CH	I-LOC
+Hà	Np	I-LOC
+Đông	Np	I-LOC
+-	CH	O
+Hà Nội	Np	B-LOC
+
+☛	N	O
+Mặt	N	B-LOC
+sau	N	I-LOC
+Coop	Np	I-LOC
+Mart	Np	I-LOC
+
+✓	N	O
+SĐT	V	O
+:	CH	O
+0961.912.123	M	O
+
+Chị	Nc	O
+thấy	V	O
+em	N	O
+gắn	V	O
+đường	N	B-LOC
+Hoàng Hoa	Np	I-LOC
+Thám	Np	I-LOC
+thì	C	O
+cũng	R	O
+gần	A	O
+nhà	N	O
+chị	Nc	O
+
+Dạ	Np	O
+88	Np	B-LOC
+đặng	V	I-LOC
+văn	N	I-LOC
+ngữ	N	I-LOC
+p10	V	I-LOC
+phú	N	I-LOC
+nhuận	V	I-LOC
+ạ	T	O
+
+13	M	O
+Lý	Np	O
+Thái Tổ	Np	O
+
+Đc	Np	O
+98a	Np	B-LOC
+phố	N	I-LOC
+ngụy	N	I-LOC
+như	C	I-LOC
+kon	N	I-LOC
+tum	M	I-LOC
+
+bác	Nc	O
+chuyển khoản	V	O
+vào	E	O
+tài khoản	N	O
+nhà	N	O
+vườnTên	N	O
+TK	V	O
+:	CH	O
+.	CH	O
+Vũ	Np	O
+Thị	Np	O
+Thương	Np	O
+
+Agribank	N	O
+chi nhánh	N	O
+Cầu Giấy	Np	O
+:	CH	O
+1450251285695	Np	O
+
+Vietcombank	N	O
+chi nhánh	N	O
+Cầu Giấy	Np	O
+:	CH	O
+Nguyễn	Np	O
+Cao	Np	O
+Linh	Np	O
+0491000077887	Np	O
+
+Size	N	O
+xs	N	O
+trắng	A	O
+còn	R	O
+ở	E	O
+cầu giấy	N	B-LOC
+k	A	O
+ạ	T	O
+
+bạn	N	O
+ship	N	O
+tỉnh	N	O
+hay	C	O
+nội thành	N	O
+Hà Nội	Np	B-LOC
+ạ	I	O
+?	CH	O
+
+48/6	N	B-LOC
+võ trường	V	I-LOC
+toản	N	I-LOC
+phường	N	I-LOC
+an	V	I-LOC
+hòa	N	I-LOC
+quận	N	I-LOC
+ninh	N	I-LOC
+kiều	V	I-LOC
+tp	N	I-LOC
+cần thơ	M	I-LOC
+
+Dạ	Np	O
+hiê	V	O
+̣	N	O
+n	N	O
+ta	P	O
+̣	V	O
+i	M	O
+cư	N	O
+̉	V	O
+a ha	N	O
+̀	V	O
+ng	N	O
+co	V	O
+́	N	O
+2	Np	O
+chi	P	O
+nha	I	O
+́	N	O
+nh	V	O
+chi	P	O
+́	V	O
+nh	N	O
+:	CH	O
+
+CN1	N	O
+:	CH	O
+182	Np	B-LOC
+Trần	Np	I-LOC
+Quang Khải	Np	I-LOC
+
+E	Np	O
+ở	E	O
+Bắc ninh	M	B-LOC
+
+Mình	P	O
+ở	E	O
+Đà Nẵng	Np	B-LOC
+
+COD	N	O
+4/10	N	O
+1	M	O
+XUÂN XANH	N	O
+Minh ngọc	M	O
+-	CH	O
+thôn	N	B-LOC
+tân thắng	A	I-LOC
+xã	N	I-LOC
+chiến thắng	V	I-LOC
+huyện	N	I-LOC
+an lão	V	I-LOC
+-	CH	I-LOC
+hải phòng	M	I-LOC
+
+Add	N	O
+1	M	O
+:	CH	O
+99	Np	B-LOC
+Bạch Mai	Np	I-LOC
+
+Store	N	O
+GIÀY	N	O
+:	CH	O
+Số	N	O
+nhà	N	O
+21	Np	O
+ngách	N	O
+5	M	O
+
+b	N	O
+có	V	O
+ở	E	O
+hn	N	B-LOC
+ko	A	O
+ạ	T	O
+
+Dạ	Np	O
+shop	V	O
+ở	E	O
+thanh hóa	M	B-LOC
+
+Còn	C	O
+bt	N	O
+e	V	O
+ở	E	O
+183	Np	B-LOC
+yên lãng	V	I-LOC
+cơ	N	O
+
+Ship	Np	O
+giúp	V	O
+m	V	O
+đến	E	O
+Trươngf	Np	B-LOC
+mầm non	V	I-LOC
+vân canh	N	I-LOC
+(	CH	O
+khu	N	B-LOC
+hậu	A	I-LOC
+ái	N	I-LOC
+)	CH	O
+xã	N	B-LOC
+vân canh	V	I-LOC
+hoài	R	I-LOC
+Đức	Np	I-LOC
+Hà nội	M	I-LOC
+
+Sđt	Np	O
+0974507493	Np	O
+
+Dạ	Np	O
+cần	V	O
+hộ	V	O
+trợ	V	O
+thêm	V	O
+thông tin	N	O
+gì	P	O
+mình	P	O
+cứ	R	O
+ib	V	O
+cho	E	O
+shop	V	O
+bạn	N	O
+nhé	T	O
+.	CH	O
+!	CH	O
+
+Địa	Np	O
+Chỉ	Np	O
+Shop	Np	O
+:	CH	O
+
+CN	N	O
+1	Np	O
+Tổng	Np	O
+:	CH	O
+333B	N	B-LOC
+Minh	Np	I-LOC
+Phụng	Np	I-LOC
+
+11	M	B-LOC
+lê	N	I-LOC
+tấn	N	I-LOC
+trung	A	I-LOC
+a	M	O
+
+Nguyễn	Np	O
+my	N	O
+77	Np	B-LOC
+Nguyễn	Np	I-LOC
+Thị	Np	I-LOC
+kiêu	V	I-LOC
+p	N	I-LOC
+thới an	V	I-LOC
+q12	N	I-LOC
+0981285569	Np	O
+.	CH	O
+
+ở	E	O
+tphcm	M	B-LOC
+
+Bích	Np	O
+
+33A	N	B-LOC
+đinh	V	I-LOC
+bộ	N	I-LOC
+lĩnh	V	I-LOC
+p24	N	I-LOC
+bình thạnh	V	I-LOC
+ạ	T	O
+
+Tên	N	O
+:	CH	O
+Ẩn	Np	O
+Huỳnh	Np	O
+
+Địa chỉ	N	O
+:	CH	O
+28	M	B-LOC
+-	CH	I-LOC
+lý	N	I-LOC
+thường kiệt	M	I-LOC
+-	CH	I-LOC
+phường	N	I-LOC
+xuân an	N	I-LOC
+-	CH	I-LOC
+TP	Ny	I-LOC
+Long	Np	I-LOC
+khánh	V	I-LOC
+-	CH	O
+Tỉnh	N	O
+đồng	N	B-LOC
+nai	M	I-LOC
+
+Sdt	Np	O
+:	CH	O
+0348799563	Np	O
+
+�	N	O
+Cửa hàng	N	O
+:	CH	O
+Một	M	O
+cơ sở	N	O
+duy	N	O
+số	N	B-LOC
+1	M	I-LOC
+ngõ	N	I-LOC
+27	Np	I-LOC
+Lý Sơn	Np	I-LOC
+-	CH	O
+LB	N	O
+-	CH	O
+Hà Nội	Np	B-LOC
+(	CH	O
+Mặt cầu	N	B-LOC
+Đông	Np	I-LOC
+Trù	Np	I-LOC
+Long	Np	I-LOC
+Biên	Np	I-LOC
+)	CH	O
+từ	E	O
+nguyễn	M	B-LOC
+văn	N	I-LOC
+cừ	V	I-LOC
+vào	E	O
+tầm	N	O
+800m	Np	O
+.	CH	O
+Phía	N	O
+bên	N	O
+trái	A	O
+
+31/9	N	B-LOC
+phan	V	I-LOC
+huy	N	I-LOC
+chú	Nc	I-LOC
+p10	N	I-LOC
+quận	N	I-LOC
+5	M	I-LOC
+
+mình	P	O
+ở trần khát	V	B-LOC
+chân	N	I-LOC
+
+45	Np	B-LOC
+Quang Trung	Np	I-LOC
+-	CH	I-LOC
+Vinh	Ny	I-LOC
+-	CH	I-LOC
+Nghệ An	Np	I-LOC
+shop	V	O
+nhé	T	O
+
+Dạ	Np	O
+shop	V	O
+ở	E	O
+Lê	Np	B-LOC
+Trọng	Np	I-LOC
+Tấn	Np	I-LOC
+
+HOA	N	O
+QUẢ	T	O
+ƯU	N	O
+ĐÀM	M	O
+
+Địa chỉ	N	O
+:	CH	O
+P103	Np	B-LOC
+C4	Np	I-LOC
+(	CH	O
+Ngõ	N	B-LOC
+46C	N	I-LOC
+Phạm	Np	I-LOC
+Ngọc	Np	I-LOC
+
+Thạch	Np	O
+)	CH	O
+
+Điện thoại	N	O
+:	CH	O
+02456789555	Np	O
+
+Ngày	N	O
+bán	V	O
+:	CH	O
+04/10/2019	N	O
+10	M	O
+:	CH	O
+07	Np	O
+
+HOÁ ĐƠN	N	O
+ĐẶT HÀNG	M	O
+
+DH016678	M	O
+
+Khách hàng	N	O
+:	CH	O
+Ếch	Np	O
+Kon	Np	O
+
+Địa chỉ	N	O
+:	CH	O
+A3	Np	O
+151	Np	B-LOC
+Nguyễn	Np	I-LOC
+Đức	Np	I-LOC
+Cảnh	Np	I-LOC
+
+Điện thoại	N	O
+:	CH	O
+0342481990	Np	O
+
+Người	Nc	O
+bán	V	O
+:	CH	O
+Thanh	Np	O
+Ngà	Np	O
+
+Người	Nc	O
+giao	V	O
+hàng	N	O
+:	CH	O
+
+Thời gian	N	O
+giao	V	O
+hàng	N	O
+:	CH	O
+
+Ghi chú	N	O
+:	CH	O
+
+Tên	N	O
+hàng	N	O
+SL	V	O
+Đơn giá Thành	V	O
+tiền	N	O
+
+Cam	Np	O
+Sành	Np	O
+10	M	O
+kg	Nu	O
+1	Np	O
+270	Np	O
+
+em	N	O
+ở	E	O
+hà nội	N	B-LOC
+anh chị	Nc	O
+ạ	T	O
+
+Dạ	V	O
+em	N	O
+xin	V	O
+xác nhận	V	O
+lại	R	O
+đơn hàng	V	O
+ạ	T	O
+:	CH	O
+
+Tên	N	O
+KH	V	O
+:	CH	O
+Anh	Nc	O
+Đỗ	Np	O
+Biên Phòng	Np	O
+
+Sđt	Np	O
+:	CH	O
+0989698099	Np	O
+
+Địa chỉ	N	O
+:	CH	O
+so	V	B-LOC
+4E3	N	I-LOC
+phường	N	I-LOC
+văn đẩu	V	I-LOC
+quận	N	I-LOC
+kiến	N	I-LOC
+an	M	I-LOC
+
+Chung cư	N	B-LOC
+green	V	I-LOC
+star	N	I-LOC
+.	CH	O
+Phạm	Np	B-LOC
+văn	N	I-LOC
+đồng	N	I-LOC
+e	V	O
+nhé	T	O
+
+Quận	N	B-LOC
+1	M	I-LOC
+ở	E	O
+đâu	P	O
+ạ	I	O
+?	CH	O
+
+maidung	N	O
+95	Np	B-LOC
+nguyễn	V	I-LOC
+chí	N	I-LOC
+thanh	V	I-LOC
+khu phố	N	I-LOC
+2	M	I-LOC
+thị trấn	N	I-LOC
+tân biên	N	I-LOC
+huyện	N	I-LOC
+tân biên	N	I-LOC
+tỉnh	N	I-LOC
+tây ninh	V	I-LOC
+so	V	O
+dt	N	O
+0977878070	Np	O
+.	CH	O
+lấy	V	O
+cái	Nc	O
+áo	N	O
+trắng	A	O
+va	N	O
+cai	V	O
+váy	N	O
+vol	M	O
+
+Quảng ninh	M	B-LOC
+
+
