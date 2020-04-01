@@ -1,0 +1,267 @@
+Dữ liệu#N 02#Np -#CH Hòa#Ny -#CH DONE#M _EndOfLine_
+o#Nc dau#N z#N a#M _EndOfLine_
+Vẫn#R ship#V đến#E địa chỉ#N như#C mọi khi#N à#T em#N _EndOfLine_
+dạ#N shop#V gửi#V về#E địa chỉ#N này#P cho#E chị#Nc nhé#T _EndOfLine_
+Tuong#Np dau#V shop#N o#V trong#E tinh#N ai#P ngo#V o#Nc ngoai#N tinh#M _EndOfLine_
+Dạ#Np cho#V lại#V dùm#N e#V địa chỉ#N nha#M _EndOfLine_
+Mk#Np k#V ở#E hn#N cơ#M _EndOfLine_
+Dạ#Np địa#V chị#Nc c#V gửi#V cách#N e#V tận#E hơn#A 8km#Np ạ#T _EndOfLine_
+đchi#N :#CH T2#Np Masteri#Np Thảo Điền#Np Q2#Np _EndOfLine_
+sđt#N :#CH 0899992088#Np _EndOfLine_
+dạ#N .#CH mình#P vẫn#R gửi#V về#E địa chỉ#N cũ#A ạ#T _EndOfLine_
+Dạ#Np vâng#V ạ#T .#CH bạn#N cho#E shop#N xin#V thêm#V địa chỉ#N cụ thể#A ạ#I ?#CH _EndOfLine_
+Chị#Nc đặt hàng#V vui lòng#V cho#E shop#N xin#V sđt#V +#V địa chỉ#N cụ thể#A (#CH số#N nhà#N _EndOfLine_
+�#N �#N XÁC NHẬN#V ĐƠN HÀNG#N :#CH _EndOfLine_
+KH#N :#CH Vũ#Np Thu#Np Hằng#Np _EndOfLine_
+Địa chỉ#N :#CH 27b#Np Ngõ#Np 315#Np Nguyễn#Np Khang#Np _EndOfLine_
+dạ#N shop#N chỉ#R sales#V trực tiếp#A bên#N cơ sở#N chùa#N láng#N thui#V bạn#N nha#M _EndOfLine_
+Em#N thâ#V ́#N y#P hai#M đi#V ̣#V a#N chi#P ̉#V lâ#N ̣#N n#V em#N ge#V ́#N chô#V ̉#N đi#V ̣#V a#N chi#P na#N ̀#V o#Nc cung#N dc#N hay sao#V anh#Nc _EndOfLine_
+Chị#Nc nhận#V hàng#N vào#E giờ#N HC#V ngày mai#N giúp#V em#N nhé#T _EndOfLine_
+Địa chỉ#N :#CH Lô#Np CC02#N Thích#Np Quảng Đức#Np _EndOfLine_
+37a#Np Nguyễn#Np Bình#Np Khiêm#Np Hai#Np Bà#Np Trưng#Np Hà Nội#Np .#CH 15h#Np chiều nay#V giao#V đc#V ko#N ?#CH 0904468676#Np _EndOfLine_
+Mẫu#N này#P ở#E đà#N nẵng#V hqa#N mình#P ord#V size#N M#Np ấy#P thì#C bao giờ#P mới#R có#V ạ#T _EndOfLine_
+Lấy#V lắc#V và#C dây#N gửi#V về#E địa chỉ#N sau#N _EndOfLine_
+Showroom#N 1#M :#CH 118#Np Lê#Np Thanh#Np Nghị#Np -#CH bách khoa#N -#CH Hà Nội#Np (#CH Mở cửa#V 8h#Np -#CH 21h#Np .#CH )#CH -#CH SĐT#N 0978533883#Np _EndOfLine_
+Showroom#Np 2#Np :#CH 103#Np Lương#Np Thế#Np Vinh#Np -#CH Nam#Np Từ Liêm#Np -#CH Hà Nội#Np (#CH Mở cửa#V 8h#Np -#CH 21h#Np .#CH )#CH SĐT#N 0869953296#Np _EndOfLine_
+Hỗ trợ#V kỹ thuật#N :#CH 0888888459#Np /#CH 0989310550#Np _EndOfLine_
+Co#V da#N nhan#N duoc#V tin#N nhan#N cua#V ban#N va#V se#N tra#V loi#N ban#N som#V nhat#N .#CH Dia#Np chi#V 24#Np Vo#Np Muoi#Np (#CH 9-21#V h#N moi#V ngay#T )#CH hotline#N 0935812687#Np _EndOfLine_
+Phan#Np huy#V ích#N e#V free#N ship#V cho#E chị#Nc nha#I _EndOfLine_
+Dạ#N Chị#Nc Niem#Np Nguyen#Np vui lòng#V cho#E e#V xin#V :#CH _EndOfLine_
++#N HỌ#P TÊN#N +#N ĐỊA CHỈ#N (#CH số#N nhà#N _EndOfLine_
+E#Np ở#E HP#N thì#C phí#N bn#V ạ#I ?#CH _EndOfLine_
+979989089#Np _EndOfLine_
+28/17#N Đặng#Np Văn#Np Ngữ#Np phường#N 10#M phú#N Nhuận#Np ạ#T _EndOfLine_
+Shop#Np ở#E tphcm#N nên#C ship#V khu vực#N ngoại thành#N 30k#Np ạ#T _EndOfLine_
+Cho#V shop#N xin#V địa chỉ#N và#C sdt#V nhé#T _EndOfLine_
+hàng#N đang#R ở#V Thuận Phước#Np trong#E trạng thái#N chờ#V phát#V rồi#R ạ#T _EndOfLine_
+Bạn#N cho#E mình#P địa chỉ#N a#M _EndOfLine_
+Họ#P tên#N :#CH lò#N văn#N khoáng#M _EndOfLine_
+Địa chỉ#N :#CH trường#N DTNT#M -#CH THPT#N nậm#N nhùn#M _EndOfLine_
+Sđt#Np :#CH 0387100802#Np _EndOfLine_
+YHL#N Miền Bắc#Np cảm ơn#V chị#Nc Gia#Np Linh#Np .#CH Em#N đã#R lên#V đơn hàng#V cho#E chị#Nc ạ#I .#CH _EndOfLine_
+Ngày#N :#CH 04/10/2019#N 10#M :#CH 08#Np _EndOfLine_
+DH040373#M _EndOfLine_
+Đơn vị#N giao#V :#CH _EndOfLine_
+Khách hàng#N :#CH Chị#Nc Nguyễn#Np Liên#Np _EndOfLine_
+Điện thoại#N :#CH 0382875550#Np _EndOfLine_
+Địa chỉ#N :#CH Chợ#N Phù#Np Lộc#Np -#CH Xã#N Phù#Np Chẩn#Np -#CH Thị xã#N Từ Sơn#Np _EndOfLine_
+Địa chỉ#M m#Nu là#V :#CH vũ#V thị#N hải Hà#M _EndOfLine_
+SIÊU#Z KHUYẾN MÃI#V -#CH GIÀY#N SNEAKER#V HOT#N TREND#V CHỈ#R CÒN#V 290K#M _EndOfLine_
+Hi#N chị#Nc _EndOfLine_
+ở#E địa chỉ#N 111#Np Nguyễn#Np Văn#Np cừ#N còn#R hàng không#N sh#M _EndOfLine_
+Bạn#N cho#E shop#N xin#V địa chỉ#N nhé#T _EndOfLine_
+M#N ở#E hà nội#N ạ#T _EndOfLine_
+Bà triệu#N còn#R kcn#A này#P k#N shop#M _EndOfLine_
+tuy nhiên#C anh#Nc quên#V mất#V là#C địa chỉ#N nhận#V hàng#N của#E a#N lúc#N a#N đặt#V là#V ở#E đâu#P ^#V ^#N mà#C a#N kiểm tra#V trong#E email#FW ko#V thấy#V _EndOfLine_
+Lê#Np Văn#Np Lương#Np phước#V kiển#N Nhà Bè#N tphcm#M _EndOfLine_
+Dạ#Np cần#V hộ#V trợ#V thêm#V thông tin#N gì#P mình#P cứ#R ib#V cho#E shop#V bạn#N nhé#T .#CH !#CH _EndOfLine_
+Địa#Np Chỉ#Np Shop#Np :#CH _EndOfLine_
+CN#N 1#Np Tổng#Np :#CH 333B#N Minh#Np Phụng#Np _EndOfLine_
+anh#Nc cho#V e#V sđt#N +#V địa chỉ#N _EndOfLine_
+Bạn#N gửi#V shop#N Họ#P Tên#Np +#N Địa Chỉ#Np (#CH số#N nhà#N _EndOfLine_
+Đây#P là#V câu#N trả lời#V tự động#A .#CH Mong#V khách hàng#N vui vẻ#A .#CH Đặt hàng#V theo#V cú pháp#N :#CH Sản phẩm#N -#CH số lượng#N -#CH sđt#M -#CH địa chỉ#N -#CH khung#N giờ#N nhận#V hàng#N -#CH hình thức#N thanh toán#V tiền mặt#V hoặc#C chuyển khoản#V .#CH Đặt hàng#V theo#V cú pháp#N khiến#V hệ thống#N ra#V đơn#N nhanh#A hơn#A -#CH chuẩn#A hơn#A và#C đầy đủ#A hơn#A .#CH Xin#V chân thành#A cảm ơn#V quý#N khách hàng#N đã#R ủng hộ#V !#CH _EndOfLine_
+Bạn#N gửi#V shop#N Họ#P Tên#Np +#N Địa Chỉ#Np (#CH số#N nhà#N _EndOfLine_
+mình#P hiện có#V đang#R sinh sống#V và#C làm việc#V tại#E hà nội#N ko#N a#N nhỉ#T ?#CH _EndOfLine_
+bạn#N ở#E đâu#P nhỉ#T ?#CH _EndOfLine_
+Cảm ơn#V bạn#N Lan#Np Nguyễn#Np Đã#R Liên hệ#V .#CH Giá#N sản phẩm#N và#C thủ tục#N trả góp#V xem#V trực tiếp#A tại#E http#N :#CH /#CH /#CH tinhtemobile#N .#CH vn#N .#CH Trả góp#V gọi#V 0916.655.993#A .#CH Đặt#V mua hàng#N gọi#V 094.396.2222#A .#CH Địa chỉ#N cửa hàng#N 420#Np xã#N đàn#M _EndOfLine_
+Cảm ơn#V bạn#N đã#R lựa chọn#V Cloud#Np '#V s#N House#Np !#CH _EndOfLine_
+�#N CLOUD#V '#N S#Np HOUSE#V ACCESSORIES#N �#M _EndOfLine_
+�#N Address#Np :#CH 65#Np Đinh#Np Công#Np Tráng#Np _EndOfLine_
+L6#N võ#N văn#N kiệt#M _EndOfLine_
+Dạ#Np tại#E Phố#Np Huế#Np có#V hàng#N đó#P ạ#I .#CH Ngày#N sale#M sản phẩm#N rất#R nhanh#A hết#T .#CH Chị#Nc bớt#V chút#L thời gian#N qua#V cửa hàng#N mua sắm#V ạ#T _EndOfLine_
+Kim ngân#N 0367789229#Np Ủy#Np ban#N xã#N Bạch Đích#Np Huyện#Np Yên Minh#Np Tỉnh#Np Hà#Np Giang#Np -#CH âu#N đen#A 32#Np +#V trắng#A bẻ#V xl#N (#CH 310k#Np )#CH _EndOfLine_
+tòa#N nhà#N bidv#M -#CH golden#N palace#N Mễ#Np trì#M _EndOfLine_
+13/91#N thiên lôi#V phường#N nghĩa#N xá#N lê#V chân#N hải phòng#M _EndOfLine_
+Nhà#N mình#P ở#E Quỳnh Mai#Np HBT#N đang#R định#V chủ nhật#N đến#V cử#V hàng#N _EndOfLine_
+Cho#V mình#P đổi#V địa chỉ#N giao#V hàng#N với#E _EndOfLine_
+em#N xin#V sđt#V và#C địa chỉ#N gửi#V hàng#N ạ#T _EndOfLine_
+Minh#Np o#Nc Tan#Np Binh#Np _EndOfLine_
+Ngày#N :#CH 04/10/2019#N 10#M :#CH 09#Np _EndOfLine_
+DH040374#M _EndOfLine_
+Đơn vị#N giao#V :#CH _EndOfLine_
+Khách hàng#N :#CH Chị#Nc Mai#Np Phương#Np Thúy#Np _EndOfLine_
+Điện thoại#N :#CH 0988898965#Np _EndOfLine_
+Địa chỉ#N :#CH số#N nhà#N 438#Np phúc#V diễn#V -#CH Phường#Np Cầu Diễn#Np -#CH Quận#Np Nam#Np Từ Liêm#Np _EndOfLine_
+Khu phố#N tân đông#V hiệp#N _EndOfLine_
+Lâm#M đồng#Nu _EndOfLine_
+dạ#N chương trình#N sale#V đc#N áp dụng#V cho#E chi nhánh#N phú#V nhuận#N ạ#T _EndOfLine_
+nó#P cũng#R ko#V xa#A lắm#R đâu#T ạ#T mình#P đi#V thêm#V khoarnn#N 2p#Np là#V tới#E chi nhánh#N phú#V nhuận#N đó#P ạ#T _EndOfLine_
+Mình#P ở#E 444#Np cách mạng#N tháng#N 8#M p11#N q3#V ạ#T _EndOfLine_
+bạn#N ship#V vềLê#N Hương#Np Giang#Np Đt#Np :#CH 01652977596#Np Đc#Np :#CH Đài phát thanh#N Truyền hình#N Vĩnh Long#Np 50#Np Phạm#Np Thái#Np Bường#Np Phường#Np 4#M _EndOfLine_
+Em#N gửi#V chị#Nc danh sách#N cửa hàng#N bên#N em#N ạ#T :#CH _EndOfLine_
+�#N �#V SHOWROOM#N �#M _EndOfLine_
+HÀ NỘI#N :#CH _EndOfLine_
+�#N Add#Np 1#Np :#CH 295#Np Trần Đăng Ninh#Np _EndOfLine_
+Owl#Np Shop#Np _EndOfLine_
+9#M Trần#Np Hữu#Np Tước#Np _EndOfLine_
+Đây#P là#V câu#N trả lời#V tự động#A .#CH Mong#V khách hàng#N vui vẻ#A .#CH Đặt hàng#V theo#V cú pháp#N :#CH Sản phẩm#N -#CH số lượng#N -#CH sđt#M -#CH địa chỉ#N -#CH khung#N giờ#N nhận#V hàng#N -#CH hình thức#N thanh toán#V tiền mặt#V hoặc#C chuyển khoản#V .#CH Đặt hàng#V theo#V cú pháp#N khiến#V hệ thống#N ra#V đơn#N nhanh#A hơn#A -#CH chuẩn#A hơn#A và#C đầy đủ#A hơn#A .#CH Xin#V chân thành#A cảm ơn#V quý#N khách hàng#N đã#R ủng hộ#V !#CH _EndOfLine_
+Vũ#Np thị#V bích ngọc#M _EndOfLine_
+Trạm#N y tế#N khánh#N hà#V thường tín#N hn#M _EndOfLine_
+0936531111#Np _EndOfLine_
+Đc#Np .#CH 29#Np ngõ#N 542#Np xuân đỉnh#Np Bắc#Np Từ Liêm#Np hn#V .#CH _EndOfLine_
+Bạn#N mua#V online#N cho#E mình#P xin#V thông tin#N chốt#V bill#N nhé#T _EndOfLine_
+Họ#P tên#N :#CH _EndOfLine_
+Sđt#Np :#CH _EndOfLine_
+Địa chỉ#N :#CH _EndOfLine_
+77#N ấp#N 2#Np an viễn#V trảng bom#N đn#M _EndOfLine_
+0986533995#N nha#I _EndOfLine_
+348#Np Âu Cơ#Np -#CH phường#N Long#Np Thạnh#Np -#CH Thị xã#N Tân Châu#Np -#CH Tỉnh#Np An Giang#Np _EndOfLine_
+0775601202#Np _EndOfLine_
+Hiện#N shop#N có#V 7#M showroom#N tại#E TP.#N HCM#N nè#T <#N 3#M _EndOfLine_
+26#Np Lý#Np Tự#Np Trọng#Np _EndOfLine_
+Ty#Np '#V s#N Pham93780850841b#Np hẻm#N 249#Np _EndOfLine_
+Số#N nhà#N 51#Np ngõ#N 97/16#A khương#N trung#M _EndOfLine_
+vâng#N 240#Np Mai#Np Anh Tuấn#Np ạ#T _EndOfLine_
+Dạ#Np mời#V anh#Nc /#CH chị#Nc qua#V Nhà#N số#N 7#M _EndOfLine_
+cưa#V hàng#N ở#E đâu#P e#M _EndOfLine_
+Lắp đặt#V và#C vận chuyển#V về#E Long#Np biên#V là#V bn#M _EndOfLine_
+Cho#V em#N xin#V địa chỉ#N _EndOfLine_
+Shop#N mình#P địa chỉ#N ở#E đâu#P nhỉ#T _EndOfLine_
+dạ#N cho#E ad#N hỏi#V bạn#N ở#E quận#N mấy#L ad#N sẽ#R cung cấp#V địa chỉ#N gần#A nhất#A của#E shop#N cho#E bạn#N ạ#T _EndOfLine_
+dạ#N ship#N gọi#V c#N báo#N đổi#V địa chỉ#N giúp#V e#V ạ#T _EndOfLine_
+Địa chỉ#N kho#N mua hàng#V trực tiếp#A tại#E :#CH _EndOfLine_
+26A#N Lê#Np Lư#Np _EndOfLine_
+Địa chỉ#N store#V em#N :#CH 232#Np Phạm#Np Văn#Np Đồng#Np -#CH An Bình#Np City#Np -#CH Cổ Nhuế#Ny -#CH Hà Nội#Np _EndOfLine_
+SĐT#N :#CH 0386259604#Np _EndOfLine_
+Thôn#N vân#N thạch#N xã#N tam hiệp#N huyện#N núi thành#N tỉnh#N quãng#N nam#N _EndOfLine_
+Khoàng#Np 8#Np :#CH 30am#Np giao#V tới#E địa chỉ#N nhà#N mình#P được#V không#R chị#Nc ?#CH _EndOfLine_
+Dạ#Np cho#V em#N xin#V địa chỉ#N chính xác#A _EndOfLine_
+Nhung#Np Luong968684113285#Np cách mạng#N tháng#N 8#M _EndOfLine_
+Thanh#Np pho#V ca#N mau#A _EndOfLine_
+c#N cho#E e#V hỏi#V mình#P ở#E đâu#P c#V nhỉ#T ?#CH _EndOfLine_
+Phạm#Np Thi#Np ̣#V Huyên#Np .#CH Hẽm#Np 287#Np phan#V văn#N hơ#N ́#V n#N .#CH Tân#Np thơ#N ́#N i#M nhâ#N ́#V t#N .#CH Q12#Np .#CH _EndOfLine_
+dạ#N mình#P ở#E đâu#P để#E e#V ship#V luôn#R cho#E ạ#I :#CH D#Np _EndOfLine_
+Vậy#P bác#Nc cho#V shop#V SDT#N và#C địa chỉ#N nhận#V hàng#N để#E shop#V lên#V đơn#N cho#V bác#Nc nhé#T _EndOfLine_
+dạ#V bạn#N cho#E mình#P xin#V thông tin#N để#E bên#N mình#P giao#V hàng#N nhé#T _EndOfLine_
+Dạ#N chị#Nc nhận#V ở#E hàng#N gai#N ạ#T _EndOfLine_
+quận#N tân phú#V ạ#T _EndOfLine_
+Đenc#N ve#N đo#V lại#R khu vực#N đó#P nhe#M _EndOfLine_
+Go#N vap#M _EndOfLine_
+Dạ#N chị#Nc cho#V shop#V xin#V TÊN#N +#V ĐỊA CHỈ#N đầy đủ#A (#CH đường#N _EndOfLine_
+Bạn#N sinh sống#V ở#E đâu#P ?#CH _EndOfLine_
+Hẻm#N 70/28/202#V phố#N trung kiên#V phường#N tây tựu#V quận#N bắc#N từ liêm#V hà nội#N ạ#T _EndOfLine_
+Cách thức#N bên#N mk#N vận chuyển#V về#E vn#N như#C nào#P ạ#T _EndOfLine_
+Cs#N nào#P còn#R vậy#T ạ#T _EndOfLine_
+Dạ#N chị#Nc cho#V shop#V xin#V TÊN#N +#V ĐỊA CHỈ#N đầy đủ#A (#CH đường#N _EndOfLine_
+dạ#N ngoài#E địa chỉ#N trên#N thì#C em#N có thể#R giao#V tới#E địa chỉ#N nào#P ngoài#E giờ#N Hành Chính#Np được#R k#V chị#Nc _EndOfLine_
+Bạn#N sinh sống#V ở#E đâu#P ?#CH _EndOfLine_
+ship#N hcm#V bn#N ạ#T _EndOfLine_
+Nhưng mà#C có#V lớp#N ở#E Hà nội#N k#N a#M _EndOfLine_
+B#N ship#V mình#P 5kg#Np cam#N úc#V về#E dchi#N số#N 26#M ngõ#N 4#Np quần ngựa#M _EndOfLine_
+Shop#Np ship#V đến#E 78#Np giải phóng#V ah#N .#CH Chỗ#N bệnh viện#N bạch mai#M _EndOfLine_
+Dạ#Np quận#N go#N vấp#M _EndOfLine_
+Thị xã#N Thuận An#Np tỉnh#N Bình Dương#Np _EndOfLine_
+Khu#N công nghiệp#N visip#A một#M đường#N d23#M _EndOfLine_
+0328604169#Np _EndOfLine_
+Tỉnh#N kon#V tum#N ạ#T _EndOfLine_
+Dc#Np :#CH 118#Np /#CH 24#M _EndOfLine_
+shop#N ơi#I ship#V cho#E mình#P 1#M lốc#N lê#V hàn#N 6#M quả#N tới#E địa chỉ#N _EndOfLine_
+sdt#N và#C địa chỉ#N mình#P chuẩn#A chưa#R ạ#T _EndOfLine_
+v#N shop#N để#E giúp#V em#N 2#M mẫu#Nu này#P đc#N k#V ạ#I .#CH E#Np ở#E ngay#T thái hà#N mà#C mai#N e#V mới#R lĩnh#V lương#N nên#C mai#N e#V sắp xếp#V để#E qua#V ạ#T _EndOfLine_
+C#N vui lòng#V cho#E em#N xin#V địa chỉ#N +#V sdt#N em#N ship#V cho#E cy#N nha#M _EndOfLine_
+gửi#V tử#N tphcm#V ra#V tít#V hòa#N binh#M _EndOfLine_
+364#Np Cộng Hoà#Np toà#N nhà#N etown#V p13#N Tân Bình#Np _EndOfLine_
+bạn#N cho#E địa chỉ#N quận huyện#M xã#N nữa#R ạ#T _EndOfLine_
+dạ#V chị#Nc ở#E đâu#P ạ#I ?#CH _EndOfLine_
+c#N ở#E Hà Nội#Np e#V nhaa#M _EndOfLine_
+tòa#N nhà#N CIC#V số#N 2#M ngõ#N 219#Np trung#V kính#N _EndOfLine_
+dạ#N shop#V gửi#V về#E địa chỉ#N cũ#A cho#E chị#Nc nhé#T _EndOfLine_
+Chào#V bạn#N shop#N ở#E TP#N Thái Bình#Np _EndOfLine_
+trên#E ĐÔ#N LƯƠNG#N cũng#R có#V chỗ#N bán#V cái#T này#P à#T anh#Nc _EndOfLine_
+em#N ở#E bắc ninh#N học#V ở#E hà nội#N thuận tiện#A chứ#T em#N _EndOfLine_
+địa chỉ#N :#CH Viện#N QHXD#N Hà Nội#Np _EndOfLine_
+Mình#P đi#V từ#E phạm#M văn#N đồng#N qua#V quốc lộ#N 13#M ý#N _EndOfLine_
+Shop#Np minh#V o#Nc cau#N giay#N có#V cửa hàng#N nào#P hok#V ạ#T _EndOfLine_
+158#Np phan#V xích#V long#N quận#N phú#N nhuận#M _EndOfLine_
+E#Np ở#E hóc#N môn#N _EndOfLine_
+Em#N .#CH Ở#E Hà Nội#Np à#T _EndOfLine_
+dạ#N mình#P giao#V quận#N mấy#L ạ#T _EndOfLine_
+cai#V do#E minh#N k#N co#V o#Nc sgon#N .#CH bạn#N can#N thi#V gui#V tu#N shop#N Hai#M phong#N vo#V cho#E bạn#N _EndOfLine_
+Phường#N bình trị#N đông#A _EndOfLine_
+cậu#Nc ở#E đâu#P ạ#T _EndOfLine_
+dạ#N hiện tại#N cửa hàng#N chỉ có#N ở#E tp#N .#CH hcm#V với#E tp#N .#CH vinh#N thôi#T ạ#T _EndOfLine_
+Chị#Nc đặt hàng#V cho#E shop#N xin#V số#N điện thoại#N và#C địa chỉ#N của#E chị#Nc nhé#T !#CH _EndOfLine_
+nhắn#V lại#R e#V địa chỉ#N _EndOfLine_
+Chị#Nc cho#V em#N địa chỉ#N và#C thông tin#N để#E em#N giao#V hàng#N cho#E chị#Nc nha#V �#N �#V �#N �#V ‍#N ♀#N ️#M _EndOfLine_
+Cho#V m#N xin#V đ#V /#CH c#N của#E shop#N ạ#T _EndOfLine_
+tòa#N hateco#V phường#N phương#N canh#M _EndOfLine_
+E#Np ở#E nghệ#N an#M _EndOfLine_
+Mình#P ở#E 43#Np quán#N Nam#Np b#N nhé#T _EndOfLine_
+Có#V chi nhánh#N ở#E nha#M trang#N ko#N ạ#T _EndOfLine_
+Nhà#N e#V ở#E đối diện#V triển lãm#N Giảng#Np võ#N ạ#T _EndOfLine_
+Hẻm#N đối diện#V ấy#P ạ#T _EndOfLine_
+ship#N trong#E hcm#N thì#C k#N có#V sao#P _EndOfLine_
+dạ#N 250#Np hùng#A vương#N p4#V tp#N tân#A an long#V an#N ng#N nhận#V trà my#N 0369366282#Np _EndOfLine_
+E#Np ơi#I ship#V đến#E 7A#N Lê#Np Đức#Np Thọ#Np cho#V c#V nhé#T _EndOfLine_
+Phạm#Np Trang#Np .#CH 15/11/1977#N .#CH Sn#Np 51#Np chu#V văn an#M _EndOfLine_
+39k#Np /#CH 1#M áo#N -#CH Ship#Ny toàn quốc#N giá#N 30k#Np .#CH _EndOfLine_
+.#CH _EndOfLine_
+Bạn#N báo#V mẫu#N và#C số lượng#N bạn#N đặt#V rồi#C cho#V shop#V họ#P tên#N địa chỉ#N và#C sđt#V nhé#T .#CH Shop#Np sẽ#R chốt#V đơn#N cho#V bạn#N ngay#T nhé#T _EndOfLine_
+B#N search#V ngõ#N gốc#N đề#N thôi#T chứ#T _EndOfLine_
+cho#E m#Nu hỏi#V địa chỉ#N shop#V ở#E đâu#P ạ#T _EndOfLine_
+đối diện#V đại học#N công nghiệp#M _EndOfLine_
+Cháu#N ơi#I ship#N cood#V thươ#N ̀#V ng#N vê#V ̀#N đi#V ̣#V a#N chi#P ̉#N na#N ̀#V y#N 2#M hủ#N Omega#Np 3#M _EndOfLine_
+Địa chỉ#N :#CH Lô#Np D2#Np _EndOfLine_
+Mei#Np Store#Np _#N 82#Np Nguyễn#Np Trãi#Np _EndOfLine_
+R#Np tìm#V ngách#N sau#N _EndOfLine_
+Cho#V em#N xin#V địa chỉ#N shop#V với#E ạ#T _EndOfLine_
+bạn#N muốn#V ship#V cod#V hay#C qua#V trực tiếp#A cửa hàng#N ạ#T _EndOfLine_
+Nếu#C ghé#V hôm nay#N bạn#N ghé#V 19b#Np Cao#Np bá#V nhạ#N quận#N 1#M có#V em#N mình#P ở#E đó#P đưa#V hàng#N cho#E bạn#N ạ#T _EndOfLine_
+bạn#N cho#E shop#N địa chỉ#N và#C sdt#V shop#N ship#V cho#E bạn#N nha#M _EndOfLine_
+Chị#Nc lấy#V thì#C e#V ship#V từ#E hcm#V ra#V cho#E mình#P nhé#T _EndOfLine_
+e#V mang#V vào#E Bệnh viện#N bưu điện#N hay#C mang#V về#V nhà#N c#V ạ#T _EndOfLine_
+Ship#N hà nội#N bn#A ạ#T _EndOfLine_
+Vì#E mẫu#N này#P bên#N shop#N em#N số lượng#N còn#R cực kì#V ít#A _EndOfLine_
+Nếu#C đặt hàng#V anh#Nc /#CH chị#Nc cho#V shop#V em#N xin#V thông tin#N để#E giữ#V hàng#N ạ#T .#CH _EndOfLine_
+-#CH Họ#P Tên#Np +#V SĐT#N +#N Địa Chỉ#N rõ ràng#A .#CH _EndOfLine_
+hỏi#V lại#R e#V mới#R biết#V địa chỉ#N đúng#A �#N �#M _EndOfLine_
+Em#N ở#E tận#T kon#N tum#N ấy#P _EndOfLine_
+vậy#P c#V cho#E e#V địa chỉ#N vsf#V sdt#N a#M _EndOfLine_
+Thôn#N 8#M -#CH Xã#N Cao Nhân#Np -#CH Huyện#N Thủy#Np Nguyên#Np Thành Phố#N HP#M _EndOfLine_
+Ship#N địa chỉ#N cũ#A .#CH Sdt#Np cũ#A lun#V nha#T _EndOfLine_
+Ừa#N tháng#N sau#N về quê#N thái bình#N có#V gì#P chị#Nc gọi#V em#N mua#V mấy#L thứ#Nc cây ăn trái#N trồng#V ở#E nhà#N bà#Nc nhé#T _EndOfLine_
+B#N cứ#R đi theo#V địa chỉ#N giúp#V mình#P _EndOfLine_
+Anh#Nc /#CH chị#Nc cho#V em#N xin#V tên#N -#CH sđt#N và#C địa chỉ#N giao#V hàng#N anh#Nc /#CH chị#Nc nha#I .#CH _EndOfLine_
+Hà#Np Ngọc#Np tổ#N 5#Np minh#V khai#V tp#N Bắc kạn#N 0987756754#Np size#N S#Np _EndOfLine_
+Anh#Nc cho#E cái#Nc địa chỉ#N em#N gửi#V lại#V _EndOfLine_
+Trg#Np hcm#V nóng#A lắm#R ko#N mặc#V legging#N dài#A đc#M _EndOfLine_
+Ship#V vào#E Bi#Np ̀#V nh#N Dương#Np bao nhiêu#P ạ#T _EndOfLine_
+52/3/14#N Tân Hương#Np _EndOfLine_
+trong#E thành phố#N hcm#N 25k#Np _EndOfLine_
+8/25#N A#Np (#CH số#N mới#R 493#Np )#CH Thống Nhất#Np phường#N 16#Np Như Ý#Np 0903.038.239#M _EndOfLine_
+Bgio#N bạn#N ship#V đc#N để#E m#V nhắn#V địa chỉ#N _EndOfLine_
+84#M mai#N lão#N bạng#N phường#N thuận phước#V quận#N hải#V châu#N tp#V đa#N nẵng#N 0938685185#Np _EndOfLine_
+Chị#Nc gửi#V cho#E em#N ở#E sg#N chị#Nc nha#I _EndOfLine_
+bên#N mình#P miễn phí#V giao#V tận#E nơi#N ạ#T _EndOfLine_
+Ship#Np ship#V nội thành#N giao#V trong#E ngày#N từ#E 16k#Np -#CH 21k#Np nhé#T bạn#N _EndOfLine_
+Em#N zô#V sg#N luôn#R rồi#T ạh#M _EndOfLine_
+shop#N ơi#I giờ#N ship#V đến#E ngã#V 3#M nam#N đồng#N thì#C hết#R pn#A ạ#T _EndOfLine_
+Nếu#C ra#V cửa hàng#N thì#C cho#E mình#P địa chỉ#N _EndOfLine_
+Ở#E cửa hàng#N hà#N đông#A còn#R hàng#N k#V ạ#T _EndOfLine_
+Dạ#N bạn#N ở#E quận#N mấy#L ạ#T _EndOfLine_
+bên#N e#N đang#R có#V dưa#N lưới#N ạ#T _EndOfLine_
+Dạ#N địa chỉ#N shop#V ở#E 192#Np lê#V văn#N sỹ#M _EndOfLine_
+Thế#P ngày mai#N nhà#N chị#Nc có#V ai#P ở#V nhà#N nhận#V hàng#N được#R không#R ạ#I ?#CH Bên#N em#N ship#N trong#E giờ#N hành chính#N thôi#T ạ#T .#CH _EndOfLine_
+chị#Nc cho#V em#N sdt#V vàc#N địa chỉ#N em#N lên#V đơn#N cho#E chị#Nc là#V xong#V nha#N ^#N ^#M _EndOfLine_
+Ship#N về#E địa chỉ#N cũ#A _EndOfLine_
+Bạn#N đặt hàng#V cho#E shop#N thông tin#N liên hệ#V HỌ#P TÊN#N +#V ĐỊA CHỈ#N +#N SĐT#V nhân viên#N bên#N shop#N sẽ#R liên hệ#V bạn#N nhanh#A nhất#R có thể#R ạ#T .#CH _EndOfLine_
+BCP#N Dĩ#Np An#Np -#CH Bi#Np ̀#V nh#N Dương#Np _EndOfLine_
+Khu#N phô#V ́#N Nhi#Np ̣#V Đô#Np ̀#V ng#N 1#M _EndOfLine_
+G23202#Np -#CH vinhome#N greenbay#V mễ#N trì#N nam#N từ liêm#M _EndOfLine_
+Sđt#Np .#CH .#CH 0974975914#Np ...#CH trường#N mầm non#V .#CH .#CH cam thịnh tây#V .#CH .#CH cam ranh#V .#CH .#CH khánh#N hòa#M _EndOfLine_
+xưởng#N ở#E miền#N bắc#N a#M _EndOfLine_
+Số#N nhà#N 33a#Np ngõ#N 55#Np ngách#N 17#Np chính#T kinh#N thanh xuân#M _EndOfLine_
+C#N lấy#V thì#C cho#V e#V xin#V TÊN#N NGƯỜI#N NHẬN#V +#V ĐỊA CHỈ#N CHI TIẾT#A +#V SỐ#N ĐIỆN THOẠI#N để#E e#V ship#V nha#I !#CH _EndOfLine_
+Ship#N điaj#N chỉ#R cũ#A ạ#T _EndOfLine_
+Địa chỉ#N của#E shop#N ở#E :#CH 246#Np Đường#Np Cổ Bi#Np _EndOfLine_
+Ship#N về#E long#N xuyên#V bn#N shop#M _EndOfLine_
+Tân bình#N .#CH Gần#A ngã tư#V bảy#M hiền#N _EndOfLine_
+Khách hàng#N :#CH Van#Np Bui#Np _EndOfLine_
+Địa chỉ#N :#CH Số#N 90/18#N 9#M hoàng hoa#N thám#M _EndOfLine_
+Điện thoại#N :#CH 0972913780#Np _EndOfLine_
+-#CH _EndOfLine_
+Nho#Np sapphire#V :#CH 1#M kg#Nu _EndOfLine_
+Sáng#N 4/10#M _EndOfLine_
+Xa#A quá#R ad#A .#CH Mình#P ở#E tận#T đồng#N nai#M _EndOfLine_
+106#Np /#CH 39#Np Bình Lợi#Np _EndOfLine_
+656#Np /#CH 30#M đuong#N quang trung#M _EndOfLine_

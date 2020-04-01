@@ -8,7 +8,13 @@ const inputDataFolder = 'dataset/hanoi/postag-files';
 const outputDataFolder = 'dataset/hanoi/dataturks-input-files';
 
 const inputFileNames = [
-    'postag-fb-01.txt'
+    // 'postag-fb-01.txt',
+    'postag-fb-02.txt',
+    'postag-fb-03.txt',
+    'postag-fb-04.txt',
+    'postag-fb-05.txt',
+    'postag-fb-06.txt',
+    'postag-fb-07.txt'
 ];
 
 inputFileNames.forEach((fileName) => {

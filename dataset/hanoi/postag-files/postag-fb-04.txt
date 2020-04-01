@@ -1,0 +1,859 @@
+Dữ liệu	N
+04	Np
+-	CH
+Tuân	Ny
+DONE	M
+
+Dc	N
+ấp	N
+suối	N
+sâu	A
+.	CH
+Xã	N
+an tịnh	N
+Trảng Bàng	Np
+Tây Ninh	Np
+
+Dạ	N
+chị	Nc
+đang	R
+ở	V
+khu vực	N
+nào	P
+vậy	T
+ạ	T
+
+đến	E
+bệnh viện	N
+thanh nhàn	N
+trong	E
+giờ	N
+hc	V
+nhé	T
+0974422898	Np
+
+Cảm ơn	V
+Trần	Np
+Lananh	Np
+đã	R
+gửi	V
+tin	N
+nhắn	V
+cho	E
+Shop	Np
+.	CH
+Shop	Np
+sẽ	R
+cố gắng	V
+phản hồi	V
+nhanh	A
+nhất	R
+có thể	R
+!	CH
+
+•	N
+1/27	M
+-	CH
+Giáp	Np
+Bát	Np
+-	CH
+Hoàng Mai	Ny
+-	CH
+Hà Nội	Np
+
+•	N
+NHẬN	V
+SHIP	N
+COD	N
+TOÀN QUỐC	M
+
+•	V
+ẢNH THẬT	N
+TỰ	P
+CHỤP	V
+
+Đặng	Np
+sỹ	V
+lành	M
+
+36	M
+trần	N
+văn	N
+dư	N
+p13	V
+tân bình	M
+
+Chị	Nc
+ở	V
+yên bái	M
+
+toà	N
+nhà	N
+nam	N
+phương	N
+68	Np
+hoàng	V
+diệu	N
+phường	N
+12	Np
+quận	N
+4	M
+tp	N
+hcm	M
+
+mình	P
+xin	V
+chốt	V
+đơn	N
+cho	V
+bạn	N
+nha	I
+.	CH
+
+Nudy	N
+tanktop	N
+size	N
+M	Np
+300.000	M
+
+shipping	N
+fee	FW
+:	CH
+20.000	M
+
+total	N
+:	CH
+320.000	M
+
+người	N
+nhận	V
+:	CH
+Chánh	Np
+
+sdt	N
+:	CH
+0921883474	Np
+
+địa chỉ	N
+:	CH
+chung cư	N
+134	Np
+đường	N
+Trần hưng Đạo	M
+
+Địa chỉ	N
+của	E
+mình	P
+là	V
+Bệnh viện	N
+đa khoa	N
+tỉnh	N
+Ninh Thuận	Np
+
+Địa chi	V
+o	Nc
+đâu	P
+ạ	T
+
+Dạ	N
+hiện	N
+địa chỉ	N
+của	E
+shop	N
+là	V
+:	CH
+
+�	N
+�	N
+Số	N
+122	Np
+Triều	Np
+Khúc	Np
+-	CH
+Thanh Xuân	Ny
+-	CH
+Hà Nội	Np
+
+�	N
+�	V
+HOTLINE	N
+xử lý	V
+đơn hàng	N
+:	CH
+0869.666.218	M
+
+☎	N
+️	V
+HOTLINE	N
+buôn	V
+/	CH
+CTV	V
+:	CH
+097.6996.064	M
+
+THỜI GIAN	N
+:	CH
+từ	E
+8h	Np
+sáng	N
+đến	E
+22h	Np
+tối	N
+
+✅	N
+Nếu	C
+bạn	N
+ở	E
+Hà Nội	Np
+và	C
+có	V
+thời gian	N
+rảnh	A
+
+0011004255384	Np
+
+Ngo	Np
+Phuong	Np
+Anh	Np
+
+Vcb	Np
+Hà Nội	Np
+ạ	T
+
+Vâng	I
+thế	P
+bạn	N
+ship	N
+giúp	V
+mìn	N
+đến	E
+số	N
+31a	Np
+ngõ	N
+582	Np
+nhé	T
+.	CH
+Ship	Np
+muộn	A
+muộn	A
+cũng	R
+được	V
+
+nội	N
+phật	N
+Mai	Np
+Đình	Np
+sóc	V
+sơn	V
+hà nội	N
+
+A	N
+đặt	V
+1c	Np
+đến	E
+28	Np
+hòng	V
+bàng	N
+nhé	T
+0972283647	Np
+
+117	Np
+Lý	Np
+Tự	Np
+Trọng	Np
+
+chị	Nc
+qua	V
+địa chỉ	N
+81B	N
+Mai	Np
+Hắc	Np
+Đế	Np
+xem	V
+và	C
+mua hàng	V
+ạ	T
+❤	N
+️	M
+
+220	N
+nguyễn	N
+biểu	M
+
+Owl	Np
+Shop	Np
+
+9	M
+Trần	Np
+Hữu	Np
+Tước	Np
+
+Đ.	N
+c	V
+trần	A
+thị	V
+thu thuỷ	N
+thôn	N
+trung tâm	N
+xã	N
+tân thịnh	V
+văn chấn	N
+yên bái	M
+
+Trang	Np
+(	CH
+tiệm	N
+nối	V
+mi	N
+Trang	Np
+Eyelash	Np
+)	CH
+
+157	Np
+/	CH
+8	Np
+Trần	Np
+Văn	Np
+Đang	R
+p11	N
+quận	N
+3	M
+ạ	T
+
+0902	Np
+684	Np
+026	Np
+
+Lê	Np
+Thuỳ	Np
+Trang	Np
+-	CH
+Vinhome	Np
+Central	Np
+Park	Np
+-	CH
+208	Np
+Nguyễn	Np
+Hữu	Np
+Cảnh	Np
+-	CH
+P.	N
+22	Np
+-	CH
+Q.	N
+Bình Thạnh	Np
+-	CH
+TPHCM	M
+-	CH
+Park	Ny
+3	M
+
+Sdt	Np
+:	CH
+0938287641	Np
+
+mình	P
+bán	V
+online	N
+ỡ	N
+387	Np
+man	V
+thiện	A
+
+Bạn	N
+cho	E
+sđt	N
+địa chỉ	N
+
+dạ	N
+sáng	N
+nay	P
+c	N
+vẫn	R
+nhận	V
+hàng	N
+ở	E
+toà	N
+Sannam	Np
+78	Np
+Duy Tân	Np
+Cầu Giấy	Np
+/	CH
+đúng	A
+k	N
+ạ	I
+?	CH
+
+Địa chỉ	N
+mình	P
+ở	V
+:	CH
+
+Add	N
+1	M
+:	CH
+30	Np
+Chùa	Np
+Bộc	Np
+
+Add	Np
+2	Np
+:	CH
+78	Np
+Cầu Giấy	Np
+
+Add	Np
+3	Np
+:	CH
+107D8	N
+Đặng	Np
+Văn	Np
+Ngữ	Np
+
+Add	Np
+4	Np
+:	CH
+Khu	N
+6	Np
+Trạm Trôi	Np
+Hoài	Np
+Đức	Np
+
+Add	Np
+5	Np
+:	CH
+3/10/121	N
+Chùa	N
+Láng	Np
+
+Add	Np
+6	Np
+:	CH
+20/20	N
+3	Np
+Chùa	Np
+Bộc	Np
+(	CH
+vào	E
+ngõ	N
+rẽ	V
+trái	A
+)	CH
+
+Hotline	Np
+:	CH
+0348877989	Np
+
+Thời gian	N
+mở cửa	V
+từ	E
+8h30	Np
+đến	E
+22h	Np
+(	CH
+riêng	T
+ADD	N
+4	M
++	N
+5	Np
+đến	E
+21h30	Np
+)	CH
+
+Cậu	N
+ở	E
+đâu	P
+vậy	T
+ạ	T
+
+CN	N
+1	Np
+Tổng	Np
+:	CH
+333B	N
+Minh	Np
+Phụng	Np
+
+Nguyễn	Np
+Tiến	Np
+Dũng	Np
+
+Cty	Np
+Newone	Np
+Tech	Np
+KCN	N
+Điềm	Np
+Thuỵ	Np
+-	CH
+Phú	Np
+Bình	Np
+-	CH
+Thái Nguyên	Np
+
+Sdt	Np
+:	CH
+0986353999	Np
+
+Phạm	Np
+đặt hàng	V
+để lại	N
+thông tin	N
+địa chỉ	N
+(	CH
+Thôn	Ny
+-	CH
+Xã	N
+-	CH
+Huyện	N
+-	CH
+Tỉnh Thành	Np
+Phô	Np
+)	CH
+
+Và	C
+số	N
+điện thoại	N
+để	E
+shop	V
+chuyển	V
+hàng	N
+ạ	T
+.	CH
+
+Ship	N
+sau	N
+HC	N
+về	E
+47	Np
+Vũ	Np
+Trọng	Np
+Phụng	Np
+nhé	T
+
+sáng	N
+nay	P
+c	N
+muốn	V
+nhận	V
+hàng	N
+ở	E
+địa chỉ	N
+nào	P
+ạ	T
+?	CH
+
+Danh sách	N
+các	L
+Cửa Hàng	N
+Đại Diện	Np
+của	E
+Rastaclat	Np
+Vietnam	Np
+:	CH
+
+Phòng	N
+13	M
+-	CH
+Tầng	Np
+2	Np
+(	CH
+cầu thang	N
+trong	E
+)	CH
+-	CH
+Chung cư	N
+42	Np
+Tôn Thất	Np
+Thiệp	Np
+
+M	Np
+hết	V
+ở	E
+láng	N
+ạ	T
+cậu	Nc
+qua	V
+đặng	N
+văn	N
+ngữ	N
+nha	M
+
+Phố	N
+tân sơn	M
+
+E	Np
+chuyển	V
+qua	E
+Trung Hoà	Np
+c	V
+qua	V
+lấy	V
+hộ	N
+e	V
+nha	M
+
+Hay	C
+shop	N
+cứ	R
+để lại	V
+cửa hàng	N
+ở	E
+89	Np
+Bắc Hải	Np
+dc	V
+k	M
+
+Em	N
+ở	E
+102	Np
+trường chinh	V
+ạ	T
+
+Mình	P
+có	V
+muốn	V
+thay đổi	V
+chi tiết	N
+nào	P
+trên	E
+bánh	N
+của	E
+mình	P
+không	R
+ạ	I
+?	CH
+(	CH
+màu sắc	M
+
+Còn	C
+chiều	N
+thì	C
+ship	V
+về	E
+66	Np
+Võng	Np
+thị	V
+cho	E
+mình	P
+nhé	T
+
+dạ	N
+vâng	V
+ạ	T
+mình	P
+xác nhận	V
+lại	R
+địa chỉ	N
+của	E
+b	N
+là	V
+
+phố	N
+tân sơn	M
+
+Đào	Np
+thị	V
+Thuỳ	Np
+.	CH
+Thôn	N
+4	M
+thị trấn	N
+đăk	V
+đoa	N
+.	CH
+Huyện	N
+đăk	V
+đoa	N
+.	CH
+Tỉnh	N
+gia	V
+lai	A
+
+Ship	Np
+giùm	V
+c	N
+169	Np
+/	CH
+38	Np
+Lương	Np
+Định	Np
+Của	Np
+.	CH
+Phường	Np
+Bình An	Np
+.	CH
+Q2	Np
+(	CH
+ngay	T
+UBND	N
+phường	N
+Bình An	Np
+)	CH
+
+Bạn	N
+ở	E
+xã	N
+Long	Np
+an Long	V
+thành đồng	N
+Nai	Np
+hay sao	V
+ak	M
+
+địa chỉ	N
+của	E
+mình	P
+ơ	N
+101	Np
+đặng	V
+văn	N
+ngữ	N
+b	N
+nhé	T
+\	N
+\	M
+
+Đường	N
+21	Np
+thôn	N
+vinh	N
+sơn	V
+xã	N
+nghĩa	N
+thành	V
+huyện	N
+châu đức	N
+tỉnh	N
+bà rịa	V
+vũng tàu	M
+
+Quầy	V
+thuốc	N
+khánh	V
+linh	N
+số	N
+3	M
+ngõ	N
+1	M
+cống	N
+thôn	N
+tên	N
+viên	Z
+gia	N
+lâm	V
+hà nội	N
+sđt	N
+0974621576	Np
+
+Địa chỉ	N
+của	E
+em	N
+:	CH
+Nguyễn	Np
+Thị	Np
+Hường	Np
+.	CH
+Cầu bến	N
+sung	M
+
+Chị	Nc
+cho	V
+em	N
+địa chỉ	N
+cụ thể	A
+nhé	T
+ạ	T
+
+bạn	N
+có thể	R
+qua	V
+trực tiếp	A
+địa chỉ	N
+của	E
+shop	N
+tại	E
+Ngõ	Np
+444	Np
+nhà	N
+số	N
+18	M
+Đội	N
+Cấn	Np
+
+Cho	V
+e	V
+xin	V
+địa chỉ	N
+đc	V
+ko	N
+ạ	T
+
+bưu điện	N
+Đươ	Np
+̀	V
+ng	N
+Ti	Np
+̉	V
+nh	N
+Lô	Np
+̣	N
+830	Np
+
+104	N
+điện	N
+biên	V
+phủ	V
+phường	N
+đakao	V
+quận	N
+1	M
+
+d16	V
+khu	N
+dân cư	N
+vietsing	V
+an	N
+phu	N
+
+e	V
+ở	E
+ngay	T
+gần	A
+HN	N
+ak	M
+
+đi	V
+̣	V
+a	N
+chi	P
+̉	V
+spa	N
+bên	N
+e	N
+la	V
+̀	N
+53	Np
+Trâ	Np
+̀	V
+n	N
+Kha	Np
+́	V
+nh	N
+Dư	Np
+
+Dạ	N
+chị	Nc
+cho	V
+em	N
+xin	V
+địa chỉ	N
+và	C
+số	N
+điện thoại	N
+bên	N
+em	N
+ship	V
+hàng	N
+cho	E
+chị	Nc
+
